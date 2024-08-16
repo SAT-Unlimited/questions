@@ -1,0 +1,26 @@
+[
+    {
+        "passage": "What is 10% of 470?",
+        "prompt": "Which of the following gives the correct value?",
+        "answerChoices": ["37", "47", "423", "460"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "passage": "4x + 6 = 18",
+        "prompt": "Which equation has the same solution as the given equation?",
+        "answerChoices": ["4x = 108", "4x = 24", "4x = 12", "4x = 3"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "passage": "The function g is defined by g(x) = x² + 9. For which value of x is g(x) = 25?",
+        "prompt": "Which choice represents the correct value of x?",
+        "answerChoices": ["4", "5", "9", "13"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "passage": "The function f is defined by the equation f(x) = 7x + 2. What is the value of f(x) when x = 4?",
+        "prompt": "Which choice gives the correct value of f(x)?",
+        "answerChoices": ["23", "28", "30", "34"],
+        "correctAnswerIndex": 2
+      }
+]

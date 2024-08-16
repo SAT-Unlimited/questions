@@ -1,0 +1,14 @@
+[
+    {
+        "passage": "A circle in the xy-plane has a diameter with endpoints (2, 4) and (2, 14). An equation of this circle is (x - 2)² + (y - 9)² = r², where r is a positive constant. What is the value of r?",
+        "prompt": "Which choice gives the correct value of r?",
+        "answerChoices": ["4", "5", "6", "7"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "passage": "The perimeter of an equilateral triangle is 624 centimeters. The height of this triangle is k√3 centimeters, where k is a constant. What is the value of k?",
+        "prompt": "Which choice gives the correct value of k?",
+        "answerChoices": ["156", "312", "208", "104"],
+        "correctAnswerIndex": 0
+      }
+]
