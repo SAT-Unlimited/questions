@@ -1,0 +1,38 @@
+[
+    {
+        "passage": "Former astronaut Ellen Ochoa says that although she doesn’t have a definite idea of when it might happen, she _______ that humans will someday need to be able to live in other environments than those found on Earth. This conjecture informs her interest in future research missions to the moon.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["demands", "speculates", "doubts", "establishes"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "passage": "Beginning in the 1950s, Navajo Nation legislator Annie Dodge Wauneka continuously worked to promote public health; this _______ effort involved traveling throughout the vast Navajo homeland and writing a medical dictionary for speakers of Diné bizaad, the Navajo language.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["impartial", "offhand", "persistent", "mandatory"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "passage": "Scholarly discussions of gender in Shakespeare’s comedies often celebrate the rebellion of the playwright’s characters against the rigid expectations _______ by Elizabethan society. Most of the comedies end in marriage, with characters returning to their socially dictated gender roles after previously defying them, but there are some notable exceptions.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["interjected", "committed", "illustrated", "prescribed"],
+        "correctAnswerIndex": 3
+      }, 
+      {
+        "passage": "Researchers have struggled to pinpoint specific causes for hiccups, which happen when a person’s diaphragm contracts _______. However, neuroscientist Kimberley Whitehead has found that these uncontrollable contractions may play an important role in helping infants regulate their breathing.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["involuntarily", "beneficially", "strenuously", "smoothly"],
+        "correctAnswerIndex": 0
+      }, 
+      {
+        "passage": "In 1943, in the midst of World War II, mathematics professor Grace Hopper was recruited by the US military to help the war effort by solving complex equations. Hopper’s subsequent career would involve more than just _______ as a pioneering computer programmer, Hopper would help usher in the digital age.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["equations, though:", "equations, though,", "equations. Though,", "equations though"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "passage": "The first computerized spreadsheet, Dan Bricklin’s VisiCalc, improved financial recordkeeping not only by providing users with an easy means of adjusting data in spreadsheets but also by automatically updating all calculations that were dependent on these _______ to VisiCalc’s release, changing a paper spreadsheet often required redoing the entire sheet by hand, a process that could take days.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["adjustments prior", "adjustments, prior", "adjustments. Prior", "adjustments and prior"],
+        "correctAnswerIndex": 1
+      }
+]

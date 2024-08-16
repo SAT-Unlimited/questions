@@ -1,0 +1,27 @@
+[
+    {
+        "passage": "Critics have asserted that fine art and fashion rarely _______ in a world where artists create timeless works for exhibition and designers periodically produce new styles for the public to buy. Luiseño/Shoshone-Bannock beadwork artist and designer Jamie Okuma challenges this view: her work can be seen in the Metropolitan Museum of Art and purchased through her online boutique.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["prevail", "succumb", "diverge", "intersect"],
+        "correctAnswerIndex": 3
+      }, 
+      {
+        "passage": "Critics have asserted that fine art and fashion rarely _______ in a world where artists create timeless works for exhibition and designers periodically produce new styles for the public to buy. Luiseño/Shoshone-Bannock beadwork artist and designer Jamie Okuma challenges this view: her work can be seen in the Metropolitan Museum of Art and purchased through her online boutique.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["prevail", "succumb", "diverge", "intersect"],
+        "correctAnswerIndex": 3
+      },
+      {
+        "passage": "For painter Jacob Lawrence, being _______ was an important part of the artistic process. Because he paid close attention to all the details of his Harlem neighborhood, Lawrence’s artwork captured nuances in the beauty and vitality of the Black experience during the Harlem Renaissance and the Great Migration.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["skeptical", "observant", "critical", "confident"],
+        "correctAnswerIndex": 1
+      }, 
+      {
+        "passage": "Despite being cheap, versatile, and easy to produce, _______ they are made from nonrenewable petroleum, and most do not biodegrade in landfills.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["there are two problems associated with commercial plastics:", "two problems are associated with commercial plastics:", "commercial plastics’ two associated problems are that", "commercial plastics have two associated problems:"],
+        "correctAnswerIndex": 3
+      }
+      
+]
