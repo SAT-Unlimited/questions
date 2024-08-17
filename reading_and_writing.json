@@ -309,7 +309,7 @@
         "passage": "In order to prevent nonnative fish species from moving freely between the Mediterranean and Red Seas, marine biologist Bella Galil has proposed that a saline lock system be installed along the Suez Canal in Egypt’s Great Bitter Lakes. The lock would increase the salinity of the lakes and _______ a natural barrier of water most marine creatures would be unable to cross.",
         "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
         "answerChoices": ["creates", "create", "creating", "created"],
-        "correctAnswerIndex": 2
+        "correctAnswerIndex": 1
     },
     {
         "passage": "Despite being cheap, versatile, and easy to produce, _______ they are made from nonrenewable petroleum, and most do not biodegrade in landfills.",
