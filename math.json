@@ -1,1143 +1,140 @@
 [
     {
-        "passage": "If 3x + 2 = 11, solve for x.",
-        "prompt": "What is the value of x?",
-        "answerChoices": ["3", "4", "2", "1"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Calculate the expression 5^2 - 3.",
-        "prompt": "What is the value of 5^2 - 3?",
-        "answerChoices": ["22", "23", "24", "25"],
+        "passage": "What is 10% of 470?",
+        "prompt": "Calculate 10% of 470.",
+        "answerChoices": ["37", "47", "423", "460"],
         "correctAnswerIndex": 1
     },
     {
-        "passage": "A rectangle has a length of 10 units and a width of 4 units.",
-        "prompt": "What is the area of the rectangle?",
-        "answerChoices": ["40 square units", "20 square units", "14 square units", "60 square units"],
+        "passage": "4x + 6 = 18. What is the value of x?",
+        "prompt": "Solve for x.",
+        "answerChoices": ["2", "3", "4", "6"],
         "correctAnswerIndex": 0
     },
     {
-        "passage": "Solve the equation 2y - 7 = 13.",
-        "prompt": "What is the value of y?",
-        "answerChoices": ["10", "11", "12", "13"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The function f is defined by f(x) = 3x + 7.",
-        "prompt": "What is the value of f(2)?",
-        "answerChoices": ["13", "12", "14", "10"],
+        "passage": "Tilly earns p dollars for every w hours of work. How much money does Tilly earn for 39w hours of work?",
+        "prompt": "Calculate the amount of money Tilly earns for 39w hours of work.",
+        "answerChoices": ["39p", "p/w", "w/39", "p-39"],
         "correctAnswerIndex": 0
     },
     {
-        "passage": "A car travels 60 miles in 1.5 hours.",
-        "prompt": "What is the average speed of the car in miles per hour?",
-        "answerChoices": ["40 mph", "50 mph", "30 mph", "60 mph"],
+        "passage": "Juan rides his bike at an average rate of 5.7 minutes per mile. How many minutes will it take Juan to ride x miles?",
+        "prompt": "Calculate the number of minutes it will take Juan to ride x miles.",
+        "answerChoices": ["5.7/x", "x/5.7", "5.7x", "x-5.7"],
         "correctAnswerIndex": 2
     },
     {
-        "passage": "Given the equation 2x + 3y = 12 and x = 3, solve for y.",
-        "prompt": "What is the value of y?",
-        "answerChoices": ["1", "2", "3", "4"],
+        "passage": "If 3x - 2 = 4x + 1, what is the value of x?",
+        "prompt": "Solve for x.",
+        "answerChoices": ["-3", "-1", "1", "3"],
+        "correctAnswerIndex": 1
+    }, 
+    {
+        "passage": "4x + 6 = 18. What is the value of x?",
+        "prompt": "Solve for x.",
+        "answerChoices": ["2", "3", "4", "6"],
         "correctAnswerIndex": 0
     },
     {
-        "passage": "The sum of two consecutive integers is 35.",
-        "prompt": "What is the smaller of the two integers?",
-        "answerChoices": ["16", "17", "18", "19"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The area of a square is 49 square units.",
-        "prompt": "What is the length of one side of the square?",
-        "answerChoices": ["5 units", "6 units", "7 units", "8 units"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A shirt originally costs $40 and is on sale for 25% off.",
-        "prompt": "What is the sale price of the shirt?",
-        "answerChoices": ["$30", "$32", "$35", "$25"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The line passes through the points (2, 3) and (4, 7).",
-        "prompt": "What is the slope of the line?",
-        "answerChoices": ["1", "2", "3", "4"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "Simplify the expression: 4(3x + 2) - 5x.",
-        "prompt": "What is the simplified form of the expression?",
-        "answerChoices": ["7x + 2", "7x + 8", "12x + 2", "12x + 8"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A triangle has sides of lengths 3 units, 4 units, and 5 units.",
-        "prompt": "What is the perimeter of the triangle?",
-        "answerChoices": ["9 units", "10 units", "11 units", "12 units"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The average of five numbers is 16. The sum of four of the numbers is 64.",
-        "prompt": "What is the fifth number?",
-        "answerChoices": ["10", "15", "16", "20"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "Solve the equation: 8x - 3 = 29.",
-        "prompt": "What is the value of x?",
-        "answerChoices": ["3", "4", "5", "6"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Evaluate the expression: 3x^2 + 2x when x = 2.",
-        "prompt": "What is the value of the expression?",
-        "answerChoices": ["14", "16", "18", "20"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The circumference of a circle is 31.4 units. Use π ≈ 3.14.",
-        "prompt": "What is the radius of the circle?",
-        "answerChoices": ["5 units", "10 units", "15 units", "20 units"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "A recipe calls for 2/3 cup of sugar. You want to make 1.5 times the recipe.",
-        "prompt": "How much sugar do you need?",
-        "answerChoices": ["1 cup", "1 cup and 1/3", "1 cup and 1/2", "1 cup and 2/3"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The price of a book increases from $20 to $25.",
-        "prompt": "What is the percent increase?",
-        "answerChoices": ["20%", "25%", "30%", "35%"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A train travels at a constant speed of 60 miles per hour. The distance is 180 miles.",
-        "prompt": "How long will it take to travel 180 miles?",
-        "answerChoices": ["2 hours", "2.5 hours", "3 hours", "3.5 hours"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A company's profit is given by the equation P = 5x - 200, where x is the number of units sold.",
-        "prompt": "What is the profit when 100 units are sold?",
-        "answerChoices": ["$300", "$400", "$500", "$600"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The length of a rectangle is twice its width. The perimeter of the rectangle is 36 units.",
-        "prompt": "What is the width of the rectangle?",
-        "answerChoices": ["6 units", "8 units", "10 units", "12 units"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Solve the inequality: 3x - 4 > 5.",
-        "prompt": "What is the solution set for x?",
-        "answerChoices": ["x > 1", "x > 3", "x > 5", "x > 9"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The equation of a line is y = 2x + 3. What is the y-intercept of the line?",
-        "prompt": "What is the y-intercept?",
+        "passage": "The equation of a circle is (x - 2)^2 + (y + 3)^2 = 16. What is the radius of the circle?",
+        "prompt": "Find the radius of the circle.",
         "answerChoices": ["2", "3", "4", "5"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A cylinder has a radius of 4 units and a height of 10 units.",
-        "prompt": "What is the volume of the cylinder? (Use π ≈ 3.14)",
-        "answerChoices": ["502.4 cubic units", "251.2 cubic units", "125.6 cubic units", "62.8 cubic units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The product of two consecutive integers is 56.",
-        "prompt": "What is the smaller of the two integers?",
-        "answerChoices": ["6", "7", "8", "9"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The cost of producing x items is given by the function C(x) = 2x + 50. If the revenue from selling x items is given by R(x) = 5x, what is the break-even point?",
-        "prompt": "At what value of x do the cost and revenue equal each other?",
-        "answerChoices": ["10", "15", "20", "25"],
         "correctAnswerIndex": 2
     },
     {
-        "passage": "A right triangle has one leg that is 5 units long and another leg that is 12 units long.",
-        "prompt": "What is the length of the hypotenuse?",
-        "answerChoices": ["12 units", "13 units", "14 units", "15 units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "If 4y - 3 = 13, solve for y.",
-        "prompt": "What is the value of y?",
-        "answerChoices": ["2", "3", "4", "5"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The graph of y = ax^2 + bx + c opens upward and has its vertex at (2, -3).",
-        "prompt": "Which of the following is true about the value of a?",
-        "answerChoices": ["a > 0", "a < 0", "a = 0", "a can be any value"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "A car rental company charges $30 per day plus $0.20 per mile driven.",
-        "prompt": "If a person rents a car for 3 days and drives 150 miles, what is the total cost?",
-        "answerChoices": ["$60", "$90", "$120", "$150"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The sum of the angles in a triangle is 180 degrees. In a particular triangle, two of the angles measure 45 degrees and 65 degrees.",
-        "prompt": "What is the measure of the third angle?",
-        "answerChoices": ["70 degrees", "75 degrees", "80 degrees", "85 degrees"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The simple interest earned on a savings account is given by the formula I = PRT, where P is the principal, R is the annual interest rate, and T is the time in years.",
-        "prompt": "What is the interest earned on $1,000 at an annual interest rate of 5% for 3 years?",
-        "answerChoices": ["$100", "$150", "$200", "$250"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A rectangular garden has a length that is 3 times its width. The area of the garden is 108 square meters.",
-        "prompt": "What is the width of the garden?",
-        "answerChoices": ["6 meters", "9 meters", "12 meters", "18 meters"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The height of a cylinder is doubled, while the radius of its base remains the same.",
-        "prompt": "What happens to the volume of the cylinder?",
-        "answerChoices": ["It doubles.", "It triples.", "It quadruples.", "It remains the same."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "If the sum of two numbers is 40 and their difference is 10, what are the two numbers?",
-        "prompt": "Which pair represents the two numbers?",
-        "answerChoices": ["15 and 25", "20 and 30", "25 and 35", "20 and 10"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "A line passes through the origin and has a slope of 3.",
-        "prompt": "What is the equation of the line?",
-        "answerChoices": ["y = 3x", "y = 3x + 1", "y = 3x - 1", "y = x + 3"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The function g(x) = 2x^2 - 5x + 3 is given.",
-        "prompt": "What is the value of g(2)?",
-        "answerChoices": ["1", "3", "5", "7"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A coin is flipped 3 times. What is the probability of getting exactly 2 heads?",
-        "prompt": "What is the probability?",
-        "answerChoices": ["1/8", "1/4", "3/8", "1/2"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The population of a town increases by 5% each year. If the current population is 20,000, what will the population be after 2 years?",
-        "prompt": "What is the population after 2 years?",
-        "answerChoices": ["21,000", "22,050", "22,100", "23,000"],
-        "correctAnswerIndex": 1
-    }, 
-    {
-        "passage": "If 3x + 2 = 11, solve for x.",
-        "prompt": "What is the value of x?",
-        "answerChoices": ["3", "4", "2", "1"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Calculate the expression 5^2 - 3.",
-        "prompt": "What is the value of 5^2 - 3?",
-        "answerChoices": ["22", "23", "24", "25"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A rectangle has a length of 10 units and a width of 4 units.",
-        "prompt": "What is the area of the rectangle?",
-        "answerChoices": ["40 square units", "20 square units", "14 square units", "60 square units"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Solve the equation 2y - 7 = 13.",
-        "prompt": "What is the value of y?",
-        "answerChoices": ["10", "11", "12", "13"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The function f is defined by f(x) = 3x + 7.",
-        "prompt": "What is the value of f(2)?",
-        "answerChoices": ["13", "12", "14", "10"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "A car travels 60 miles in 1.5 hours.",
-        "prompt": "What is the average speed of the car in miles per hour?",
-        "answerChoices": ["40 mph", "50 mph", "30 mph", "60 mph"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Given the equation 2x + 3y = 12 and x = 3, solve for y.",
-        "prompt": "What is the value of y?",
-        "answerChoices": ["1", "2", "3", "4"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The sum of two consecutive integers is 35.",
-        "prompt": "What is the smaller of the two integers?",
-        "answerChoices": ["16", "17", "18", "19"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The area of a square is 49 square units.",
-        "prompt": "What is the length of one side of the square?",
-        "answerChoices": ["5 units", "6 units", "7 units", "8 units"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A shirt originally costs $40 and is on sale for 25% off.",
-        "prompt": "What is the sale price of the shirt?",
-        "answerChoices": ["$30", "$32", "$35", "$25"],
-        "correctAnswerIndex": 0
-    }, 
-    {
-        "passage": "What is the slope of the line that passes through the points (2, 3) and (4, 7)?",
-        "prompt": "What is the slope of the line?",
-        "answerChoices": ["1", "2", "3", "4"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "Simplify the expression: 4(3x + 2) - 5x.",
-        "prompt": "What is the simplified form of the expression?",
-        "answerChoices": ["7x + 2", "7x + 8", "12x + 2", "12x + 8"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A triangle has sides of lengths 3 units, 4 units, and 5 units.",
-        "prompt": "What is the perimeter of the triangle?",
-        "answerChoices": ["9 units", "10 units", "11 units", "12 units"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The average of five numbers is 16. The sum of four of the numbers is 64.",
-        "prompt": "What is the fifth number?",
-        "answerChoices": ["10", "15", "16", "20"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "Solve the equation: 8x - 3 = 29.",
-        "prompt": "What is the value of x?",
-        "answerChoices": ["3", "4", "5", "6"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Evaluate the expression: 3x^2 + 2x when x = 2.",
-        "prompt": "What is the value of the expression?",
-        "answerChoices": ["14", "16", "18", "20"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The circumference of a circle is 31.4 units. Use π ≈ 3.14.",
-        "prompt": "What is the radius of the circle?",
-        "answerChoices": ["5 units", "10 units", "15 units", "20 units"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "A recipe calls for 2/3 cup of sugar. You want to make 1.5 times the recipe.",
-        "prompt": "How much sugar do you need?",
-        "answerChoices": ["1 cup", "1 cup and 1/3", "1 cup and 1/2", "1 cup and 2/3"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The price of a book increases from $20 to $25.",
-        "prompt": "What is the percent increase?",
-        "answerChoices": ["20%", "25%", "30%", "35%"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A train travels at a constant speed of 60 miles per hour. The distance is 180 miles.",
-        "prompt": "How long will it take to travel 180 miles?",
-        "answerChoices": ["2 hours", "2.5 hours", "3 hours", "3.5 hours"],
-        "correctAnswerIndex": 2
-    }, 
-    {
-        "passage": "A company's profit is given by the equation P = 5x - 200, where x is the number of units sold.",
-        "prompt": "What is the profit when 100 units are sold?",
-        "answerChoices": ["$300", "$400", "$500", "$600"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The length of a rectangle is twice its width. The perimeter of the rectangle is 36 units.",
-        "prompt": "What is the width of the rectangle?",
-        "answerChoices": ["6 units", "8 units", "10 units", "12 units"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Solve the inequality: 3x - 4 > 5.",
-        "prompt": "What is the solution set for x?",
-        "answerChoices": ["x > 1", "x > 3", "x > 5", "x > 9"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The equation of a line is y = 2x + 3. What is the y-intercept of the line?",
-        "prompt": "What is the y-intercept?",
-        "answerChoices": ["2", "3", "4", "5"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A cylinder has a radius of 4 units and a height of 10 units.",
-        "prompt": "What is the volume of the cylinder? (Use π ≈ 3.14)",
-        "answerChoices": ["502.4 cubic units", "251.2 cubic units", "125.6 cubic units", "62.8 cubic units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The product of two consecutive integers is 56.",
-        "prompt": "What is the smaller of the two integers?",
-        "answerChoices": ["6", "7", "8", "9"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The cost of producing x items is given by the function C(x) = 2x + 50. If the revenue from selling x items is given by R(x) = 5x, what is the break-even point?",
-        "prompt": "At what value of x do the cost and revenue equal each other?",
-        "answerChoices": ["10", "15", "20", "25"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A right triangle has one leg that is 5 units long and another leg that is 12 units long.",
-        "prompt": "What is the length of the hypotenuse?",
-        "answerChoices": ["12 units", "13 units", "14 units", "15 units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "If 4y - 3 = 13, solve for y.",
-        "prompt": "What is the value of y?",
-        "answerChoices": ["2", "3", "4", "5"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The graph of y = ax^2 + bx + c opens upward and has its vertex at (2, -3).",
-        "prompt": "Which of the following is true about the value of a?",
-        "answerChoices": ["a > 0", "a < 0", "a = 0", "a can be any value"],
-        "correctAnswerIndex": 0
-    }, 
-    {
-        "passage": "A car rental company charges $30 per day plus $0.20 per mile driven.",
-        "prompt": "If a person rents a car for 3 days and drives 150 miles, what is the total cost?",
-        "answerChoices": ["$60", "$90", "$120", "$150"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The sum of the angles in a triangle is 180 degrees. In a particular triangle, two of the angles measure 45 degrees and 65 degrees.",
-        "prompt": "What is the measure of the third angle?",
-        "answerChoices": ["70 degrees", "75 degrees", "80 degrees", "85 degrees"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The simple interest earned on a savings account is given by the formula I = PRT, where P is the principal, R is the annual interest rate, and T is the time in years.",
-        "prompt": "What is the interest earned on $1,000 at an annual interest rate of 5% for 3 years?",
-        "answerChoices": ["$100", "$150", "$200", "$250"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A rectangular garden has a length that is 3 times its width. The area of the garden is 108 square meters.",
-        "prompt": "What is the width of the garden?",
-        "answerChoices": ["6 meters", "9 meters", "12 meters", "18 meters"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The height of a cylinder is doubled, while the radius of its base remains the same.",
-        "prompt": "What happens to the volume of the cylinder?",
-        "answerChoices": ["It doubles.", "It triples.", "It quadruples.", "It remains the same."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "If the sum of two numbers is 40 and their difference is 10, what are the two numbers?",
-        "prompt": "Which pair represents the two numbers?",
-        "answerChoices": ["15 and 25", "20 and 30", "25 and 35", "20 and 10"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "A line passes through the origin and has a slope of 3.",
-        "prompt": "What is the equation of the line?",
-        "answerChoices": ["y = 3x", "y = 3x + 1", "y = 3x - 1", "y = x + 3"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The function g(x) = 2x^2 - 5x + 3 is given.",
-        "prompt": "What is the value of g(2)?",
-        "answerChoices": ["1", "3", "5", "7"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A coin is flipped 3 times. What is the probability of getting exactly 2 heads?",
-        "prompt": "What is the probability?",
-        "answerChoices": ["1/8", "1/4", "3/8", "1/2"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The population of a town increases by 5% each year. If the current population is 20,000, what will the population be after 2 years?",
-        "prompt": "What is the population after 2 years?",
-        "answerChoices": ["21,000", "22,050", "22,100", "23,000"],
-        "correctAnswerIndex": 1
-    }, 
-    {
-        "passage": "A company’s revenue is modeled by the equation R(x) = 50x - 300, where x is the number of units sold.",
-        "prompt": "How many units must be sold for the revenue to be $1,200?",
-        "answerChoices": ["24", "30", "36", "40"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The sum of the squares of two consecutive even integers is 340.",
-        "prompt": "What are the two integers?",
-        "answerChoices": ["10 and 12", "12 and 14", "14 and 16", "16 and 18"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "If 2x + 5y = 20 and x = 3, solve for y.",
-        "prompt": "What is the value of y?",
-        "answerChoices": ["1", "2", "3", "4"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A certain car depreciates at a rate of 15% per year. If the car is currently worth $20,000, what will it be worth in 2 years?",
-        "prompt": "What will the car be worth in 2 years?",
-        "answerChoices": ["$14,450", "$15,300", "$17,000", "$17,850"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Solve the system of equations: 3x + 2y = 12 and x - y = 3.",
-        "prompt": "What is the solution (x, y)?",
-        "answerChoices": ["(2, 3)", "(3, 1)", "(4, -1)", "(5, 2)"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The length of a rectangle is 3 units more than twice its width. The perimeter of the rectangle is 30 units.",
-        "prompt": "What is the width of the rectangle?",
-        "answerChoices": ["3 units", "4 units", "5 units", "6 units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "If the ratio of the side lengths of two similar triangles is 3:4, what is the ratio of their areas?",
-        "prompt": "What is the ratio of their areas?",
-        "answerChoices": ["3:4", "6:8", "9:16", "12:16"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A cylinder has a volume of 150 cubic units and a height of 10 units.",
-        "prompt": "What is the radius of the cylinder’s base? (Use π ≈ 3.14)",
-        "answerChoices": ["2 units", "3 units", "4 units", "5 units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The price of a stock increases by 8% each year. If the stock is currently priced at $50, what will it be worth in 3 years?",
-        "prompt": "What will the stock be worth in 3 years?",
-        "answerChoices": ["$63.50", "$63.86", "$64.00", "$65.20"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The graph of the quadratic function f(x) = ax^2 + bx + c has its vertex at (2, -5) and passes through the point (3, -2).",
-        "prompt": "Which of the following is true about the value of a?",
-        "answerChoices": ["a > 0", "a < 0", "a = 0", "a can be any value"],
-        "correctAnswerIndex": 0
-    }, 
-    {
-        "passage": "A car travels 300 miles using 12 gallons of gasoline.",
-        "prompt": "What is the car's fuel efficiency in miles per gallon?",
-        "answerChoices": ["20 mpg", "25 mpg", "30 mpg", "35 mpg"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The cost of producing x items is given by the function C(x) = 4x + 500. If the revenue from selling x items is given by R(x) = 7x, what is the profit when 200 items are sold?",
-        "prompt": "What is the profit?",
-        "answerChoices": ["$200", "$300", "$400", "$500"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "If a circle has a circumference of 31.4 units, use π ≈ 3.14.",
-        "prompt": "What is the diameter of the circle?",
-        "answerChoices": ["5 units", "10 units", "15 units", "20 units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The sum of the first n positive integers is given by the formula S = n(n + 1)/2.",
-        "prompt": "What is the sum of the first 10 positive integers?",
-        "answerChoices": ["45", "50", "55", "60"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Solve the inequality: 5 - 2x < 9.",
-        "prompt": "What is the solution set for x?",
-        "answerChoices": ["x > -2", "x < -2", "x > 2", "x < 2"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A triangle has sides of lengths 6 units, 8 units, and 10 units.",
-        "prompt": "What is the area of the triangle?",
-        "answerChoices": ["24 square units", "30 square units", "36 square units", "40 square units"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The equation of a line is 2x - 3y = 6. What is the slope of the line?",
-        "prompt": "What is the slope of the line?",
-        "answerChoices": ["-2", "2/3", "3/2", "-3/2"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "If the square of a number is 49, what is the number?",
-        "prompt": "What is the number?",
-        "answerChoices": ["7", "14", "-7", "Both 7 and -7"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The radius of a circle is doubled.",
-        "prompt": "What happens to the area of the circle?",
-        "answerChoices": ["It doubles.", "It triples.", "It quadruples.", "It remains the same."],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A plane travels 500 miles in 2 hours.",
-        "prompt": "What is the average speed of the plane in miles per hour?",
-        "answerChoices": ["200 mph", "250 mph", "300 mph", "400 mph"],
-        "correctAnswerIndex": 1
-    }, 
-    {
-        "passage": "A company produces and sells x units of a product. The cost of producing x units is given by C(x) = 3x + 200, and the revenue from selling x units is given by R(x) = 5x.",
-        "prompt": "What is the break-even point?",
-        "answerChoices": ["50 units", "75 units", "100 units", "150 units"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The surface area of a cube is 54 square units.",
-        "prompt": "What is the length of one side of the cube?",
-        "answerChoices": ["3 units", "4 units", "5 units", "6 units"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Solve the system of equations: 2x + y = 10 and 3x - y = 5.",
-        "prompt": "What is the solution (x, y)?",
-        "answerChoices": ["(1, 8)", "(2, 6)", "(3, 4)", "(4, 2)"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The equation of a circle is (x - 3)^2 + (y + 2)^2 = 16.",
-        "prompt": "What is the radius of the circle?",
-        "answerChoices": ["2 units", "3 units", "4 units", "5 units"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A bag contains 5 red marbles, 3 blue marbles, and 2 green marbles.",
-        "prompt": "What is the probability of drawing a blue marble?",
-        "answerChoices": ["1/10", "1/5", "3/10", "1/3"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The volume of a sphere is given by the formula V = (4/3)πr^3. If the radius of a sphere is 3 units, use π ≈ 3.14.",
-        "prompt": "What is the volume of the sphere?",
-        "answerChoices": ["84.78 cubic units", "113.04 cubic units", "123.44 cubic units", "150.72 cubic units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A store offers a 20% discount on all items. If an item originally costs $80, what is the sale price?",
-        "prompt": "What is the sale price?",
-        "answerChoices": ["$60", "$62", "$64", "$66"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A rectangular prism has a length of 5 units, a width of 4 units, and a height of 3 units.",
-        "prompt": "What is the volume of the prism?",
-        "answerChoices": ["30 cubic units", "40 cubic units", "50 cubic units", "60 cubic units"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The sum of three consecutive even integers is 36.",
-        "prompt": "What are the integers?",
-        "answerChoices": ["8, 10, 12", "10, 12, 14", "12, 14, 16", "14, 16, 18"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The circumference of a circle is 44 units. Use π ≈ 3.14.",
-        "prompt": "What is the diameter of the circle?",
-        "answerChoices": ["12 units", "14 units", "16 units", "18 units"],
-        "correctAnswerIndex": 1
-    }, 
-    {
-        "passage": "If the square root of x is 9, what is the value of x?",
-        "prompt": "What is the value of x?",
-        "answerChoices": ["18", "27", "72", "81"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "A train travels 240 miles in 4 hours. What is the average speed of the train?",
-        "prompt": "What is the average speed in miles per hour?",
-        "answerChoices": ["50 mph", "55 mph", "60 mph", "65 mph"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The length of a rectangle is 4 times its width. The area of the rectangle is 64 square units.",
-        "prompt": "What is the width of the rectangle?",
-        "answerChoices": ["2 units", "4 units", "6 units", "8 units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The equation y = 2x + 5 represents a line.",
-        "prompt": "What is the slope of the line?",
-        "answerChoices": ["1", "2", "3", "5"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The perimeter of a square is 36 units.",
-        "prompt": "What is the length of one side of the square?",
-        "answerChoices": ["6 units", "8 units", "9 units", "12 units"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The sum of the interior angles of a polygon is 720 degrees.",
-        "prompt": "How many sides does the polygon have?",
-        "answerChoices": ["4", "5", "6", "7"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A ladder leans against a wall, forming a right triangle with the ground. The ladder is 13 feet long, and the distance from the base of the ladder to the wall is 5 feet.",
-        "prompt": "How high up the wall does the ladder reach?",
-        "answerChoices": ["10 feet", "11 feet", "12 feet", "13 feet"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The function h(t) = -16t^2 + 64t gives the height of an object t seconds after it is thrown into the air.",
-        "prompt": "At what time t does the object reach its maximum height?",
-        "answerChoices": ["1 second", "2 seconds", "3 seconds", "4 seconds"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A cylinder has a radius of 3 units and a height of 7 units.",
-        "prompt": "What is the volume of the cylinder? (Use π ≈ 3.14)",
-        "answerChoices": ["197.82 cubic units", "198.94 cubic units", "199.50 cubic units", "200.40 cubic units"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The number of apples in a basket is represented by 2x + 3. If there are 17 apples in the basket, solve for x.",
-        "prompt": "What is the value of x?",
-        "answerChoices": ["5", "6", "7", "8"],
-        "correctAnswerIndex": 0
-    }, 
-    {
-        "passage": "A triangle has sides of lengths 7 units, 24 units, and 25 units.",
-        "prompt": "What type of triangle is it?",
-        "answerChoices": ["Equilateral", "Isosceles", "Scalene", "Right"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The area of a circle is given by the formula A = πr^2. If the area of a circle is 78.5 square units, use π ≈ 3.14.",
-        "prompt": "What is the radius of the circle?",
-        "answerChoices": ["4 units", "5 units", "6 units", "7 units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A certain job pays $15 per hour for the first 40 hours worked in a week. Overtime is paid at 1.5 times the regular hourly rate.",
-        "prompt": "How much does a person earn in a week if they work 45 hours?",
-        "answerChoices": ["$675", "$700", "$725", "$750"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The equation 2x + y = 10 represents a line.",
-        "prompt": "What is the y-intercept of the line?",
-        "answerChoices": ["5", "10", "2", "3"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The number of books on a shelf is represented by the equation 3x + 4 = 19.",
-        "prompt": "How many books are on the shelf?",
-        "answerChoices": ["4", "5", "6", "7"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A rectangular field is 100 meters long and 40 meters wide.",
-        "prompt": "What is the area of the field?",
-        "answerChoices": ["3,000 square meters", "4,000 square meters", "5,000 square meters", "6,000 square meters"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "If x^2 - 5x + 6 = 0, solve for x.",
-        "prompt": "What are the solutions?",
-        "answerChoices": ["x = 2 or x = 3", "x = 1 or x = 4", "x = -2 or x = -3", "x = -1 or x = -6"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The distance between two points on a coordinate plane is given by the formula d = √[(x2 - x1)^2 + (y2 - y1)^2]. Find the distance between the points (1, 2) and (4, 6).",
-        "prompt": "What is the distance between the points?",
-        "answerChoices": ["5", "6", "7", "8"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "If the ratio of the lengths of two similar rectangles is 2:3, what is the ratio of their perimeters?",
-        "prompt": "What is the ratio of their perimeters?",
-        "answerChoices": ["2:3", "3:4", "4:5", "5:6"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "A wheel has a diameter of 14 inches. How far does the wheel travel in one complete revolution?",
-        "prompt": "What is the distance traveled? (Use π ≈ 3.14)",
-        "answerChoices": ["22 inches", "28 inches", "33 inches", "44 inches"],
-        "correctAnswerIndex": 3
-    }, 
-    {
-        "passage": "The volume of a cone is given by the formula V = (1/3)πr^2h. If the volume of the cone is 100 cubic units and the height is 12 units, use π ≈ 3.14.",
-        "prompt": "What is the radius of the cone's base?",
-        "answerChoices": ["2 units", "3 units", "4 units", "5 units"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Solve the equation: 3(x - 2) = 2x + 5.",
-        "prompt": "What is the value of x?",
-        "answerChoices": ["1", "5", "7", "9"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The length of a rectangle is 5 units more than its width. The area of the rectangle is 84 square units.",
-        "prompt": "What is the width of the rectangle?",
-        "answerChoices": ["6 units", "7 units", "8 units", "9 units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The sum of the angles in a polygon is 1,080 degrees.",
-        "prompt": "How many sides does the polygon have?",
-        "answerChoices": ["6", "8", "10", "12"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A car decreases in value by 12% each year. If the current value of the car is $15,000, what will be its value after 2 years?",
-        "prompt": "What is the value of the car after 2 years?",
-        "answerChoices": ["$11,700", "$11,664", "$12,000", "$12,100"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "If the circumference of a circle is 50.24 units, use π ≈ 3.14.",
-        "prompt": "What is the radius of the circle?",
-        "answerChoices": ["7 units", "8 units", "9 units", "10 units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The quadratic equation x^2 - 6x + 9 = 0 has a double root.",
-        "prompt": "What is the value of the root?",
-        "answerChoices": ["2", "3", "4", "5"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A right triangle has a hypotenuse of length 10 units and one leg of length 6 units.",
-        "prompt": "What is the length of the other leg?",
-        "answerChoices": ["6 units", "7 units", "8 units", "9 units"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Solve the inequality: 4x - 7 ≥ 5.",
-        "prompt": "What is the solution set for x?",
-        "answerChoices": ["x ≥ 2", "x ≥ 3", "x ≥ 4", "x ≥ 5"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The radius of a sphere is doubled.",
-        "prompt": "What happens to the volume of the sphere?",
-        "answerChoices": ["It doubles.", "It triples.", "It quadruples.", "It increases eightfold."],
-        "correctAnswerIndex": 3
-    }, 
-    {
-        "passage": "The equation of a line is y = 3x - 7. What is the slope of the line?",
-        "prompt": "What is the slope of the line?",
-        "answerChoices": ["-3", "-7", "3", "7"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A triangle has an area of 24 square units and a base of 8 units.",
-        "prompt": "What is the height of the triangle?",
-        "answerChoices": ["3 units", "4 units", "5 units", "6 units"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "Solve the equation: 5x + 2 = 3x + 10.",
-        "prompt": "What is the value of x?",
-        "answerChoices": ["2", "3", "4", "5"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "A cylinder has a height of 10 units and a radius of 2 units.",
-        "prompt": "What is the surface area of the cylinder? (Use π ≈ 3.14)",
-        "answerChoices": ["100.48 square units", "125.6 square units", "150.72 square units", "175.84 square units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "A rectangle has a perimeter of 40 units. If the length is twice the width, what is the length of the rectangle?",
-        "prompt": "What is the length of the rectangle?",
-        "answerChoices": ["8 units", "10 units", "12 units", "14 units"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The product of two numbers is 36, and their sum is 13.",
-        "prompt": "What are the two numbers?",
-        "answerChoices": ["4 and 9", "6 and 7", "5 and 8", "3 and 12"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The population of a city increases by 10% each year. If the current population is 50,000, what will the population be in 3 years?",
-        "prompt": "What will the population be in 3 years?",
-        "answerChoices": ["60,500", "61,051", "65,000", "66,550"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "If the absolute value of x - 3 is equal to 5, solve for x.",
-        "prompt": "What are the possible values of x?",
-        "answerChoices": ["-2 and 8", "2 and 8", "-5 and 7", "3 and 5"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "A triangle has angles that measure 30 degrees, 60 degrees, and 90 degrees.",
-        "prompt": "What type of triangle is it?",
-        "answerChoices": ["Equilateral", "Isosceles", "Scalene", "Right"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The sum of two consecutive odd integers is 40.",
-        "prompt": "What are the two integers?",
-        "answerChoices": ["19 and 21", "17 and 23", "21 and 19", "20 and 22"],
-        "correctAnswerIndex": 1
-    }, 
-    {
-        "passage": "The quadratic equation x^2 - 4x - 5 = 0 is given.",
-        "prompt": "What are the solutions for x?",
-        "answerChoices": ["x = 1, -5", "x = 5, -1", "x = 4, 5", "x = -4, 5"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The volume of a cylinder is given by V = πr^2h. If the volume is 200 cubic units and the radius is 5 units, use π ≈ 3.14.",
-        "prompt": "What is the height of the cylinder?",
-        "answerChoices": ["2.55 units", "2.75 units", "2.88 units", "3.12 units"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A store offers a 15% discount on all items. If an item originally costs $60, what is the sale price?",
-        "prompt": "What is the sale price?",
-        "answerChoices": ["$45", "$48", "$51", "$54"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Solve the inequality: 3x + 2 ≥ 8.",
-        "prompt": "What is the solution set for x?",
-        "answerChoices": ["x ≥ 2", "x ≥ 3", "x ≥ 4", "x ≥ 5"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The area of a square is 49 square units.",
-        "prompt": "What is the length of one side of the square?",
-        "answerChoices": ["5 units", "6 units", "7 units", "8 units"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A function is defined by f(x) = 2x^2 - 3x + 1.",
-        "prompt": "What is the value of f(2)?",
-        "answerChoices": ["3", "5", "7", "9"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The price of a laptop decreases by 20% each year. If the current price is $1,200, what will the price be after 2 years?",
-        "prompt": "What will the price be after 2 years?",
-        "answerChoices": ["$768", "$820", "$840", "$960"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The ratio of the lengths of two similar triangles is 3:4.",
-        "prompt": "What is the ratio of their areas?",
-        "answerChoices": ["3:4", "6:8", "9:16", "12:16"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The distance between two points on a number line is given by the absolute value of their difference. Find the distance between the points -3 and 7.",
-        "prompt": "What is the distance between the points?",
-        "answerChoices": ["7", "8", "9", "10"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "If x^3 = 27, solve for x.",
-        "prompt": "What is the value of x?",
-        "answerChoices": ["2", "3", "4", "5"],
-        "correctAnswerIndex": 1
-    }, 
-    {
-        "passage": "The length of a rectangle is 3 times its width. If the perimeter of the rectangle is 48 units, what is the length?",
-        "prompt": "What is the length of the rectangle?",
-        "answerChoices": ["12 units", "18 units", "24 units", "30 units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The height of a triangle is 4 units less than its base. The area of the triangle is 30 square units.",
-        "prompt": "What is the base of the triangle?",
-        "answerChoices": ["6 units", "8 units", "10 units", "12 units"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The equation of a line is 4x + 3y = 12. What is the y-intercept of the line?",
-        "prompt": "What is the y-intercept?",
-        "answerChoices": ["-4", "3", "4", "-3"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The circumference of a circle is 62.8 units. Use π ≈ 3.14.",
-        "prompt": "What is the radius of the circle?",
-        "answerChoices": ["5 units", "10 units", "15 units", "20 units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "If the average of four numbers is 12 and the sum of three of these numbers is 27, what is the fourth number?",
-        "prompt": "What is the fourth number?",
-        "answerChoices": ["9", "12", "15", "18"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A right triangle has a hypotenuse of length 13 units and one leg of length 5 units.",
-        "prompt": "What is the length of the other leg?",
-        "answerChoices": ["8 units", "9 units", "10 units", "12 units"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Solve the inequality: 2x + 3 < 11.",
-        "prompt": "What is the solution set for x?",
-        "answerChoices": ["x < 4", "x < 3", "x < 2", "x < 5"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A certain number is increased by 25%, and the result is 75. What was the original number?",
-        "prompt": "What was the original number?",
-        "answerChoices": ["50", "55", "60", "65"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The length of a rectangle is twice its width. If the area of the rectangle is 72 square units, what is the width?",
-        "prompt": "What is the width?",
-        "answerChoices": ["6 units", "7 units", "8 units", "9 units"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The equation of a parabola is y = x^2 + 6x + 8.",
-        "prompt": "What are the x-intercepts of the parabola?",
-        "answerChoices": ["x = -2, -4", "x = 2, 4", "x = -1, -8", "x = 1, 8"],
-        "correctAnswerIndex": 0
-    }, 
-    {
-        "passage": "The product of two numbers is 64, and their ratio is 1:4.",
-        "prompt": "What are the two numbers?",
-        "answerChoices": ["4 and 16", "8 and 32", "16 and 64", "2 and 8"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The function f(x) = x^2 - 4x + 4 is given.",
-        "prompt": "What is the minimum value of the function?",
-        "answerChoices": ["0", "2", "4", "6"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The volume of a rectangular prism is 120 cubic units, and the base area is 24 square units.",
-        "prompt": "What is the height of the prism?",
-        "answerChoices": ["4 units", "5 units", "6 units", "8 units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "If the length of each side of a square is increased by 50%, what happens to the area of the square?",
-        "prompt": "What is the percentage increase in the area?",
-        "answerChoices": ["50%", "100%", "125%", "150%"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A car is traveling at a constant speed of 60 miles per hour. How far will it travel in 3.5 hours?",
-        "prompt": "What is the distance traveled?",
-        "answerChoices": ["180 miles", "200 miles", "210 miles", "220 miles"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Solve the equation: x/3 + 4 = 7.",
-        "prompt": "What is the value of x?",
-        "answerChoices": ["6", "8", "9", "10"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The ratio of the angles in a triangle is 2:3:4.",
-        "prompt": "What is the measure of the largest angle?",
-        "answerChoices": ["40 degrees", "60 degrees", "80 degrees", "100 degrees"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The sum of the first n even positive integers is given by the formula S = n(n + 1).",
-        "prompt": "What is the sum of the first 5 even positive integers?",
-        "answerChoices": ["20", "30", "40", "50"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "A line passes through the points (2, 3) and (6, 7).",
-        "prompt": "What is the equation of the line?",
-        "answerChoices": ["y = x + 1", "y = x + 2", "y = x + 3", "y = x + 4"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The perimeter of a rectangle is 30 units, and its area is 50 square units.",
-        "prompt": "What are the dimensions of the rectangle?",
-        "answerChoices": ["5 units by 10 units", "6 units by 8.33 units", "4 units by 12.5 units", "7.5 units by 6.67 units"],
-        "correctAnswerIndex": 1
-    }, 
-    {
-        "passage": "The function g(x) = 2x + 3 is given.",
-        "prompt": "What is the value of g(-2)?",
-        "answerChoices": ["-1", "0", "1", "2"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The sum of three consecutive odd integers is 51.",
-        "prompt": "What are the integers?",
-        "answerChoices": ["15, 17, 19", "13, 15, 23", "11, 17, 23", "13, 15, 17"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The circumference of a circle is 31.4 units. Use π ≈ 3.14.",
-        "prompt": "What is the radius of the circle?",
-        "answerChoices": ["5 units", "10 units", "15 units", "20 units"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The product of two numbers is 36, and one of the numbers is 4.",
-        "prompt": "What is the other number?",
-        "answerChoices": ["6", "7", "8", "9"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The area of a trapezoid is given by A = 1/2 * (b1 + b2) * h. If the bases are 10 units and 14 units and the height is 6 units, what is the area?",
-        "prompt": "What is the area?",
-        "answerChoices": ["72 square units", "84 square units", "96 square units", "100 square units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "Solve the system of equations: x + y = 5 and x - y = 1.",
-        "prompt": "What is the solution (x, y)?",
-        "answerChoices": ["(2, 3)", "(3, 2)", "(4, 1)", "(5, 0)"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The sum of the digits of a two-digit number is 8. If the digits are reversed, the new number is 18 less than the original number.",
-        "prompt": "What is the original number?",
-        "answerChoices": ["26", "35", "44", "53"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The volume of a cylinder is given by V = πr^2h. If the volume is 300 cubic units and the height is 10 units, use π ≈ 3.14.",
-        "prompt": "What is the radius of the cylinder?",
-        "answerChoices": ["3 units", "4 units", "5 units", "6 units"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The equation of a line is y = 1/2x + 3.",
-        "prompt": "What is the slope of the line?",
-        "answerChoices": ["1/2", "2", "-1/2", "-2"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The sum of the interior angles of a polygon is 1,440 degrees.",
-        "prompt": "How many sides does the polygon have?",
+        "passage": "A right triangle has legs of length 6 and 8. What is the length of the hypotenuse?",
+        "prompt": "Find the length of the hypotenuse.",
         "answerChoices": ["8", "10", "12", "14"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The perimeter of an equilateral triangle is 624 centimeters. The height of this triangle is k√3 centimeters, where k is a constant. What is the value of k?",
+        "prompt": "Calculate the value of k.",
+        "answerChoices": ["52", "104", "208", "312"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The function f(x) is defined as f(x) = 3x + 2. What is the value of f(4)?",
+        "prompt": "Calculate the value of f(4).",
+        "answerChoices": ["12", "14", "16", "18"],
         "correctAnswerIndex": 2
-    }    
-    
+    },
+    {
+        "passage": "If 5x + 3 = 18, what is the value of x?",
+        "prompt": "Solve for x.",
+        "answerChoices": ["2", "3", "4", "5"],
+        "correctAnswerIndex": 0
+    }, 
+    {
+        "passage": "The equation of a circle is (x - 2)^2 + (y + 3)^2 = 16. What is the radius of the circle?",
+        "prompt": "Find the radius of the circle.",
+        "answerChoices": ["2", "3", "4", "5"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "A right triangle has legs of length 6 and 8. What is the length of the hypotenuse?",
+        "prompt": "Find the length of the hypotenuse.",
+        "answerChoices": ["8", "10", "12", "14"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The perimeter of an equilateral triangle is 624 centimeters. The height of this triangle is k√3 centimeters, where k is a constant. What is the value of k?",
+        "prompt": "Calculate the value of k.",
+        "answerChoices": ["52", "104", "208", "312"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "If x^2 - 6x + 9 = 0, what is the value of x?",
+        "prompt": "Solve for x.",
+        "answerChoices": ["0", "2", "3", "6"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The sum of two numbers is 20, and their difference is 4. What are the two numbers?",
+        "prompt": "Find the two numbers.",
+        "answerChoices": ["8 and 12", "10 and 14", "9 and 11", "12 and 16"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "If the slope of a line is 3 and the y-intercept is -2, what is the equation of the line?",
+        "prompt": "Write the equation of the line in the form y = mx + b.",
+        "answerChoices": ["y = 3x - 2", "y = -3x + 2", "y = 2x + 3", "y = -2x - 3"],
+        "correctAnswerIndex": 0
+    }, 
+    {
+        "passage": "The equation of a circle is (x - 2)^2 + (y + 3)^2 = 16. What is the radius of the circle?",
+        "prompt": "Find the radius of the circle.",
+        "answerChoices": ["2", "3", "4", "5"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "A right triangle has legs of length 6 and 8. What is the length of the hypotenuse?",
+        "prompt": "Find the length of the hypotenuse.",
+        "answerChoices": ["8", "10", "12", "14"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The perimeter of an equilateral triangle is 624 centimeters. The height of this triangle is k√3 centimeters, where k is a constant. What is the value of k?",
+        "prompt": "Calculate the value of k.",
+        "answerChoices": ["52", "104", "208", "312"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "If x^2 - 6x + 9 = 0, what is the value of x?",
+        "prompt": "Solve for x.",
+        "answerChoices": ["0", "2", "3", "6"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The sum of two numbers is 20, and their difference is 4. What are the two numbers?",
+        "prompt": "Find the two numbers.",
+        "answerChoices": ["8 and 12", "10 and 14", "9 and 11", "12 and 16"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "If the slope of a line is 3 and the y-intercept is -2, what is the equation of the line?",
+        "prompt": "Write the equation of the line in the form y = mx + b.",
+        "answerChoices": ["y = 3x - 2", "y = -3x + 2", "y = 2x + 3", "y = -2x - 3"],
+        "correctAnswerIndex": 0
+    }
 ]

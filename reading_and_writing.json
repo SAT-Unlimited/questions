@@ -1,197 +1,5 @@
 [
     {
-        "passage": "In 2007, computer scientist Luis von Ahn was working on converting printed books into a digital format. He found that some words were distorted enough that digital scanners couldn’t recognize them, but most humans could easily read them. Based on that finding, von Ahn invented a simple security test to keep automated 'bots' out of websites. The first version of the reCAPTCHA test asked users to type one known word and one of the many words scanners couldn’t recognize. Correct answers proved the users were humans and added data to the book-digitizing project.",
-        "prompt": "Which choice best states the main purpose of the text?",
-        "answerChoices": ["To discuss von Ahn’s invention of reCAPTCHA", "To explain how digital scanners work", "To call attention to von Ahn’s book-digitizing project", "To indicate how popular reCAPTCHA is"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The following text is adapted from Edith Nesbit’s 1906 novel The Railway Children. Mother did not spend all her time in paying dull [visits] to dull ladies, and sitting dully at home waiting for dull ladies to pay [visits] to her. She was almost always there, ready to play with the children, and read to them, and help them to do their home-lessons. Besides this she used to write stories for them while they were at school, and read them aloud after tea, and she always made up funny pieces of poetry for their birthdays and for other great occasions.",
-        "prompt": "According to the text, what is true about Mother?",
-        "answerChoices": ["She wishes that more ladies would visit her.", "Birthdays are her favorite special occasion.", "She creates stories and poems for her children.", "Reading to her children is her favorite activity."],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The following text is from Maggie Pogue Johnson’s 1910 poem 'Poet of Our Race.' In this poem, the speaker is addressing Paul Laurence Dunbar, a Black author. Thou, with stroke of mighty pen, Hast told of joy and mirth, And read the hearts and souls of men As cradled from their birth. The language of the flowers, Thou hast read them all, And e’en the little brook Responded to thy call.",
-        "prompt": "Which choice best states the main purpose of the text?",
-        "answerChoices": ["To praise a certain writer for being especially perceptive regarding people and nature", "To establish that a certain writer has read extensively about a variety of topics", "To call attention to a certain writer’s careful and elaborately detailed writing process", "To recount fond memories of an afternoon spent in nature with a certain writer"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Born in 1891 to a Quechua-speaking family in the Andes Mountains of Peru, Martín Chambi is today considered to be one of the most renowned figures of Latin American photography. In a paper for an art history class, a student claims that Chambi’s photographs have considerable ethnographic value—in his work, Chambi was able to capture diverse elements of Peruvian society, representing his subjects with both dignity and authenticity.",
-        "prompt": "Which finding, if true, would most directly support the student’s claim?",
-        "answerChoices": ["Chambi took many commissioned portraits of wealthy Peruvians, but he also produced hundreds of images carefully documenting the peoples, sites, and customs of Indigenous communities of the Andes.", "Chambi’s photographs demonstrate a high level of technical skill, as seen in his strategic use of illumination to create dramatic light and shadow contrasts.", "During his lifetime, Chambi was known and celebrated both within and outside his native Peru, as his work was published in places like Argentina, Spain, and Mexico.", "Some of the peoples and places Chambi photographed had long been popular subjects for Peruvian photographers."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The following text is from Charlotte Brontë’s 1847 novel Jane Eyre. Jane works as a governess at Thornfield Hall. I went on with my day’s business tranquilly; but ever and anon vague suggestions kept wandering across my brain of reasons why I should quit Thornfield; and I kept involuntarily framing advertisements and pondering conjectures about new situations: these thoughts I did not think to check; they might germinate and bear fruit if they could.",
-        "prompt": "Which choice best states the main purpose of the text?",
-        "answerChoices": ["To convey a contrast between Jane’s outward calmness and internal restlessness", "To emphasize Jane’s loyalty to the people she works for at Thornfield Hall", "To demonstrate that Jane finds her situation both challenging and deeply fulfilling", "To describe Jane’s determination to secure employment outside of Thornfield Hall"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Most animals can regenerate some parts of their bodies, such as skin. But when a three-banded panther worm is cut into three pieces, each piece grows into a new worm. Researchers are investigating this feat partly to learn more about humans’ comparatively limited abilities to regenerate, and they’re making exciting progress. An especially promising discovery is that both humans and panther worms have a gene for early growth response (EGR) linked to regeneration.",
-        "prompt": "Based on the texts, what would the author of Text 2 most likely say about Text 1’s characterization of the discovery involving EGR?",
-        "answerChoices": ["It is reasonable given that Srivastava and her team have identified how EGR functions in both humans and panther worms.", "It is overly optimistic given additional observations from Srivastava and her team.", "It is unexpected given that Srivastava and her team’s findings were generally met with enthusiasm.", "It is unfairly dismissive given the progress that Srivastava and her team have reported."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is adapted from William Shakespeare’s 1609 poem 'Sonnet 27.' The poem is addressed to a close friend as if he were physically present. Weary with toil, I [hurry] to my bed, The dear repose for limbs with travel tired; But then begins a journey in my head To work my mind, when body’s work’s expired: For then my thoughts—from far where I abide— [Begin] a zealous pilgrimage to thee, And keep my drooping eyelids open wide.",
-        "prompt": "What is the main idea of the text?",
-        "answerChoices": ["The speaker is asleep and dreaming about traveling to see the friend.", "The speaker is planning an upcoming trip to the friend’s house.", "The speaker is too fatigued to continue a discussion with the friend.", "The speaker is thinking about the friend instead of immediately falling asleep."],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The following text is adapted from Lewis Carroll’s 1889 satirical novel 'Sylvie and Bruno.' A crowd has gathered outside a room belonging to the Warden, an official who reports to the Lord Chancellor. One man, who was more excited than the rest, flung his hat high into the air, and shouted (as well as I could make out) 'Who roar for the Sub-Warden?' Everybody roared, but whether it was for the Sub-Warden, or not, did not clearly appear: some were shouting 'Bread!' and some 'Taxes!', but no one seemed to know what it was they really wanted.",
-        "prompt": "Based on the text, how does the Lord Chancellor respond to the crowd?",
-        "answerChoices": ["He asks about the meaning of the crowd’s shouting, even though he claims to know what the crowd wants.", "He indicates a desire to speak to the crowd, even though the crowd has asked to speak to the Sub-Warden.", "He expresses sympathy for the crowd’s demands, even though the crowd’s shouting annoys him.", "He describes the crowd as being united, even though the crowd clearly appears otherwise."],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "O Pioneers! is a 1913 novel by Willa Cather. In the novel, Cather portrays Alexandra Bergson as having a deep emotional connection to her natural surroundings: _______",
-        "prompt": "Which quotation from O Pioneers! most effectively illustrates the claim?",
-        "answerChoices": ["She had never known before how much the country meant to her. The chirping of the insects down in the long grass had been like the sweetest music. She had felt as if her heart were hiding down there, somewhere, with the quail and the plover and all the little wild things that crooned or buzzed in the sun. Under the long shaggy ridges, she felt the future stirring.", "Alexandra talked to the men about their crops and to the women about their poultry. She spent a whole day with one young farmer who had been away at school, and who was experimenting with a new kind of clover hay. She learned a great deal.", "Alexandra drove off alone. The rattle of her wagon was lost in the howling of the wind, but her lantern, held firmly between her feet, made a moving point of light along the highway, going deeper and deeper into the dark country.", "It was Alexandra who read the papers and followed the markets, and who learned by the mistakes of their neighbors. It was Alexandra who could always tell about what it had cost to fatten each steer, and who could guess the weight of a hog before it went on the scales closer than John Bergson [her father] himself."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Psychologists Dacher Keltner and Jonathan Haidt have argued that experiencing awe—a sensation of reverence and wonder typically brought on by perceiving something grand or powerful—can enable us to feel more connected to others and thereby inspire us to act more altruistically. Keltner, along with Paul K. Piff, Pia Dietze, and colleagues, claims to have found evidence for this effect in a recent study where participants were asked to either gaze up at exceptionally tall trees in a nearby grove (reported to be a universally awe-inspiring experience) or stare at the exterior of a nearby, nondescript building. After one minute, an experimenter deliberately spilled a box of pens nearby.",
-        "prompt": "Which finding from the researchers’ study, if true, would most strongly support their claim?",
-        "answerChoices": ["Participants who had been looking at the trees helped the experimenter pick up significantly more pens than did participants who had been looking at the building.", "Participants who helped the experimenter pick up the pens used a greater number of positive words to describe the trees and the building in a postexperiment survey than did participants who did not help the experimenter.", "Participants who did not help the experimenter pick up the pens were significantly more likely to report having experienced a feeling of awe, regardless of whether they looked at the building or the trees.", "Participants who had been looking at the building were significantly more likely to notice that the experimenter had dropped the pens than were participants who had been looking at the trees."],
-        "correctAnswerIndex": 0
-    }, 
-    {
-        "passage": "Many archaeologists will tell you that categorizing excavated fragments of pottery by style, period, and what objects they belong to relies not only on standard criteria, but also on instinct developed over years of practice. In a recent study, however, researchers trained a deep-learning computer model on thousands of images of pottery fragments and found that it could categorize them as accurately as a team of expert archaeologists. Some archaeologists have expressed concern that they might be replaced by such computer models, but the researchers claim that outcome is highly unlikely.",
-        "prompt": "Which finding, if true, would most directly support the researchers’ claim?",
-        "answerChoices": ["In the researchers’ study, the model was able to categorize the pottery fragments much more quickly than the archaeologists could.", "In the researchers’ study, neither the model nor the archaeologists were able to accurately categorize all the pottery fragments that were presented.", "A survey of archaeologists showed that categorizing pottery fragments limits the amount of time they can dedicate to other important tasks that only human experts can do.", "A survey of archaeologists showed that few of them received dedicated training in how to properly categorize pottery fragments."],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The following text is adapted from William Shakespeare’s play Hamlet. In this scene, Hamlet speaks to the ghost of his father, King Hamlet, who has been murdered by Hamlet’s uncle. HAMLET: My prophetic soul! My uncle? GHOST: Ay, that incestuous, that adulterate beast, With witchcraft of his wit, with traitorous gifts— O wicked wit and gifts, that have the power So to seduce!—won to his shameful lust The will of my most seeming-virtuous queen. O Hamlet, what a falling-off was there! From me, whose love was of that dignity That it went hand in hand even with the vow I made to her in marriage, and to decline Upon a wretch whose natural gifts were poor To those of mine! But virtue, as it never will be moved, Though lewdness court it in a shape of heaven, So, though to a radiant angel linked, Will sate itself in a celestial bed And prey on garbage.",
-        "prompt": "The ghost describes the new relationship between Queen Gertrude and the new king Claudius as",
-        "answerChoices": ["virtuous and strong.", "impure and shameful.", "heavenly and just.", "radiant and divine."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "When constructing a research paper, scholars often use peer-reviewed articles to support their arguments. These articles, published in academic journals, are reviewed by experts in the field before being accepted for publication. This process ensures that the research is of high quality and that the findings are reliable. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["Peer-reviewed articles are not always available online for free.", "Therefore, citing peer-reviewed articles can strengthen the credibility of a research paper.", "Researchers often find it difficult to get their work published in such journals.", "This means that not all articles are of the same quality."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "In many cultures, storytelling has been a way to preserve history and share knowledge across generations. Stories are passed down orally, and each storyteller may add their own interpretation or emphasize different aspects of the story. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["This oral tradition is still practiced in some communities today.", "Written stories are more accurate than oral stories.", "Oral storytelling often results in the loss of the original details.", "People prefer written stories because they are easier to remember."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The scientific method is a systematic process used to investigate phenomena, acquire new knowledge, or correct and integrate previous knowledge. It involves making observations, forming a hypothesis, conducting experiments, and drawing conclusions. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["Scientists often share their findings with the public.", "This process allows scientists to test the validity of their hypotheses.", "Many scientific discoveries have been made through careful experimentation.", "Some experiments are more difficult to conduct than others."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "In recent years, there has been a growing interest in renewable energy sources such as solar and wind power. These sources are considered more environmentally friendly because they do not produce harmful emissions. However, the initial cost of setting up renewable energy systems can be high. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["As a result, many people are hesitant to invest in renewable energy.", "This has led to an increase in government subsidies for renewable energy.", "Renewable energy is becoming more affordable over time.", "Some people prefer traditional energy sources because they are cheaper."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "A balanced diet is essential for maintaining good health. It provides the body with the necessary nutrients, vitamins, and minerals to function properly. Eating a variety of foods from different food groups ensures that all nutritional needs are met. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["This is why many people choose to take dietary supplements.", "However, some people have difficulty maintaining a balanced diet.", "Therefore, it is important to avoid eating too much of one type of food.", "This is why nutritionists recommend eating a balanced diet."],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The invention of the printing press in the 15th century revolutionized the way information was disseminated. Books and other printed materials could now be produced quickly and in large quantities. This led to an increase in literacy rates and the spread of new ideas across Europe. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["The printing press is considered one of the most important inventions in history.", "Many people were still unable to read or write during this time.", "As a result, the printing press had a profound impact on society.", "However, printed materials were still expensive for many people."],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Exercise is known to have numerous health benefits, including improving cardiovascular health, strengthening muscles, and boosting mental well-being. Regular physical activity can also help with weight management and reduce the risk of chronic diseases. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["Many people find it difficult to stick to an exercise routine.", "As a result, doctors often recommend regular exercise to their patients.", "However, some people do not enjoy exercising.", "Therefore, it is important to find an exercise routine that you enjoy."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "Social media has become an integral part of modern life. It allows people to connect with others, share information, and stay informed about current events. However, the widespread use of social media has also raised concerns about privacy and the spread of misinformation. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["As a result, it is important to use social media responsibly.", "Many people use social media to stay in touch with friends and family.", "Social media platforms have become a primary source of news for many people.", "Some people believe that social media has a negative impact on society."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Learning a new language can be challenging, but it is also a rewarding experience. It opens up opportunities for travel, work, and cultural exchange. Additionally, being bilingual or multilingual can improve cognitive abilities and delay the onset of dementia. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["Many people find it difficult to learn a new language.", "As a result, more people are choosing to learn new languages.", "Therefore, it is beneficial to start learning a new language at a young age.", "Some people prefer to learn languages through immersion programs."],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The industrial revolution brought about significant changes in the way goods were produced and consumed. Factories replaced small workshops, and mass production became the norm. This led to an increase in the availability of goods and a decrease in their cost. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["However, the industrial revolution also had negative effects on society.", "As a result, more people were able to afford consumer goods.", "The industrial revolution is considered a turning point in history.", "Some people believe that the industrial revolution was a positive development."],
-        "correctAnswerIndex": 1
-    }, 
-    {
-        "passage": "In recent decades, climate change has become a major concern for scientists and policymakers around the world. Rising temperatures, melting ice caps, and extreme weather events are just some of the consequences of a warming planet. To address this issue, many countries are investing in renewable energy and implementing policies to reduce carbon emissions. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["However, more needs to be done to mitigate the effects of climate change.", "This has led to increased awareness of environmental issues.", "Many people are concerned about the impact of climate change on future generations.", "Therefore, it is important to take action to reduce our carbon footprint."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Advancements in technology have greatly improved the quality of healthcare. Medical devices such as MRI machines and robotic surgery systems allow for more accurate diagnoses and less invasive procedures. Additionally, electronic health records enable doctors to access patient information quickly and efficiently. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["However, these advancements come with high costs.", "This has led to better patient outcomes and increased life expectancy.", "Many people are benefiting from the latest medical technology.", "As a result, healthcare is becoming more accessible to everyone."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "Education is often seen as the key to success. It provides individuals with the knowledge and skills they need to pursue their goals and contribute to society. In many countries, education is compulsory for children up to a certain age, ensuring that everyone has the opportunity to learn. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["However, not all children have access to quality education.", "This is why education is so important for personal development.", "Many people believe that education is a fundamental right.", "Therefore, it is important to invest in education for all."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The rise of the internet has transformed the way we communicate and access information. With just a few clicks, we can connect with people on the other side of the world or find answers to almost any question. However, the internet has also made it easier for misinformation to spread. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["As a result, it is important to verify information before sharing it.", "Many people use the internet to stay in touch with friends and family.", "The internet has become a valuable tool for education and research.", "Some people believe that the internet has too much influence on society."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Over the past century, there have been significant advances in transportation technology. The invention of the airplane, the development of the automobile, and the expansion of rail networks have made it easier and faster to travel long distances. These innovations have not only transformed the way we move but have also had a profound impact on global trade and tourism. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["However, these advances have also contributed to environmental problems.", "As a result, transportation has become more accessible to everyone.", "Many people now rely on modern transportation for their daily commute.", "The transportation industry continues to evolve with new technologies."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "Mental health is just as important as physical health. It affects how we think, feel, and act in our daily lives. Good mental health allows individuals to cope with stress, work productively, and make meaningful contributions to their communities. However, mental health issues are often stigmatized, making it difficult for people to seek help. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["This is why it is important to raise awareness about mental health.", "Many people do not realize the importance of mental health.", "Therefore, mental health should be a priority for everyone.", "Some people believe that mental health issues are not as serious as physical ones."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The global population is expected to reach nearly 10 billion by 2050. This rapid population growth presents several challenges, including food security, resource management, and environmental sustainability. To address these issues, experts are exploring ways to increase agricultural productivity, reduce waste, and develop sustainable practices. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["As a result, it is important to focus on sustainable development.", "Many people are concerned about the impact of population growth on the environment.", "This is why it is important to find solutions to these challenges.", "However, addressing these challenges will require global cooperation."],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "Space exploration has led to numerous scientific discoveries and technological advancements. The development of satellites has revolutionized communication, while space missions have provided valuable data about our solar system and beyond. However, space exploration is expensive, and some people argue that the money could be better spent on solving problems here on Earth. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["This is why space exploration continues to be a topic of debate.", "As a result, it is important to carefully consider the costs and benefits.", "Many people believe that space exploration is a worthwhile investment.", "However, space exploration has also led to significant technological advancements."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "Throughout history, art has been a powerful tool for expression and communication. It allows individuals to convey emotions, share ideas, and tell stories in ways that words alone cannot. Art can also be a means of social commentary, reflecting the values and concerns of a particular time or place. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["This is why art is considered an important part of culture.", "Many people enjoy creating and experiencing art.", "Art has been used for centuries to convey messages.", "As a result, art plays a significant role in shaping society."],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The human brain is one of the most complex organs in the body. It controls everything from basic bodily functions to advanced cognitive processes like reasoning and decision-making. Neuroscientists continue to study the brain to better understand how it works and how it can be affected by injury or disease. _______",
-        "prompt": "Which sentence most effectively completes the text?",
-        "answerChoices": ["As a result, research on the brain is constantly evolving.", "Many people are fascinated by the mysteries of the brain.", "The brain is responsible for everything we do.", "This is why it is important to take care of our brain health."],
-        "correctAnswerIndex": 0
-    }, 
-    {
         "passage": "Former astronaut Ellen Ochoa says that although she doesn’t have a definite idea of when it might happen, she _______ that humans will someday need to be able to live in other environments than those found on Earth. This conjecture informs her interest in future research missions to the moon.",
         "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
         "answerChoices": ["demands", "speculates", "doubts", "establishes"],
@@ -220,13 +28,151 @@
         "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
         "answerChoices": ["a discernible", "a straightforward", "an inconclusive", "an unbiased"],
         "correctAnswerIndex": 1
-    }, 
+    },
     {
         "passage": "Seminole/Muscogee director Sterlin Harjo _______ television’s tendency to situate Native characters in the distant past: this rejection is evident in his series Reservation Dogs, which revolves around teenagers who dress in contemporary styles and whose dialogue is laced with current slang.",
         "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
         "answerChoices": ["repudiates", "proclaims", "foretells", "recants"],
         "correctAnswerIndex": 0
     },
+    {
+        "passage": "In 2007, computer scientist Luis von Ahn was working on converting printed books into a digital format. He found that some words were distorted enough that digital scanners couldn’t recognize them, but most humans could easily read them. Based on that finding, von Ahn invented a simple security test to keep automated “bots” out of websites. The first version of the reCAPTCHA test asked users to type one known word and one of the many words scanners couldn’t recognize. Correct answers proved the users were humans and added data to the book-digitizing project.",
+        "prompt": "Which choice best states the main purpose of the text?",
+        "answerChoices": ["To discuss von Ahn’s invention of reCAPTCHA", "To explain how digital scanners work", "To call attention to von Ahn’s book-digitizing project", "To indicate how popular reCAPTCHA is"],
+        "correctAnswerIndex": 0
+    }, 
+    {
+        "passage": "The following text is adapted from Edith Nesbit’s 1906 novel The Railway Children.\n\nMother did not spend all her time in paying dull [visits] to dull ladies, and sitting dully at home waiting for dull ladies to pay [visits] to her. She was almost always there, ready to play with the children, and read to them, and help them to do their home-lessons. Besides this she used to write stories for them while they were at school, and read them aloud after tea, and she always made up funny pieces of poetry for their birthdays and for other great occasions.",
+        "prompt": "According to the text, what is true about Mother?",
+        "answerChoices": ["She wishes that more ladies would visit her.", "Birthdays are her favorite special occasion.", "She creates stories and poems for her children.", "Reading to her children is her favorite activity."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The following text is from Maggie Pogue Johnson’s 1910 poem “Poet of Our Race.” In this poem, the speaker is addressing Paul Laurence Dunbar, a Black author.\n\nThou, with stroke of mighty pen,\nHast told of joy and mirth,\nAnd read the hearts and souls of men\nAs cradled from their birth.\nThe language of the flowers,\nThou hast read them all,\nAnd e’en the little brook\nResponded to thy call.",
+        "prompt": "Which choice best states the main purpose of the text?",
+        "answerChoices": ["To praise a certain writer for being especially perceptive regarding people and nature", "To establish that a certain writer has read extensively about a variety of topics", "To call attention to a certain writer’s careful and elaborately detailed writing process", "To recount fond memories of an afternoon spent in nature with a certain writer"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "“To You” is an 1856 poem by Walt Whitman. In the poem, Whitman suggests that readers, whom he addresses directly, have not fully understood themselves, writing, _______",
+        "prompt": "Which quotation from “To You” most effectively illustrates the claim?",
+        "answerChoices": ["“You have not known what you are, you have slumber’d upon yourself / all your life, / Your eyelids have been the same as closed most of the time.”", "“These immense meadows, these interminable rivers, you are immense / and interminable as they.”", "“I should have made my way straight to you long ago, / I should have blabb’d nothing but you, I should have chanted nothing / but you.”", "“I will leave all and come and make the hymns of you, / None has understood you, but I understand you.”"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Born in 1891 to a Quechua-speaking family in the Andes Mountains of Peru, Martín Chambi is today considered to be one of the most renowned figures of Latin American photography. In a paper for an art history class, a student claims that Chambi’s photographs have considerable ethnographic value—in his work, Chambi was able to capture diverse elements of Peruvian society, representing his subjects with both dignity and authenticity.",
+        "prompt": "Which finding, if true, would most directly support the student’s claim?",
+        "answerChoices": ["Chambi took many commissioned portraits of wealthy Peruvians, but he also produced hundreds of images carefully documenting the peoples, sites, and customs of Indigenous communities of the Andes.", "Chambi’s photographs demonstrate a high level of technical skill, as seen in his strategic use of illumination to create dramatic light and shadow contrasts.", "During his lifetime, Chambi was known and celebrated both within and outside his native Peru, as his work was published in places like Argentina, Spain, and Mexico.", "Some of the peoples and places Chambi photographed had long been popular subjects for Peruvian photographers."],
+        "correctAnswerIndex": 0
+    }, 
+    {
+        "passage": "In the mountains of Brazil, Barbacenia tomentosa and Barbacenia macrantha—two plants in the Velloziaceae family—establish themselves on soilless, nutrient-poor patches of quartzite rock. Plant ecologists Anna Abrahão and Patricia de Britto Costa used microscopic analysis to determine that the roots of B. tomentosa and B. macrantha, which grow directly into the quartzite, have clusters of fine hairs near the root tip; further analysis indicated that these hairs secrete both malic and citric acids. The researchers hypothesize that the plants depend on dissolving underlying rock with these acids, as the process not only creates channels for continued growth but also releases phosphates that provide the vital nutrient phosphorus.",
+        "prompt": "Which finding, if true, would most directly support the researchers’ hypothesis?",
+        "answerChoices": ["Other species in the Velloziaceae family are found in terrains with more soil but have root structures similar to those of B. tomentosa and B. macrantha.", "Though B. tomentosa and B. macrantha both secrete citric and malic acids, each species produces the acids in different proportions.", "The roots of B. tomentosa and B. macrantha carve new entry points into rocks even when cracks in the surface are readily available.", "B. tomentosa and B. macrantha thrive even when transferred to the surfaces of rocks that do not contain phosphates."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "Herbivorous sauropod dinosaurs could grow more than 100 feet long and weigh up to 80 tons, and some researchers have attributed the evolution of sauropods to such massive sizes to increased plant production resulting from high levels of atmospheric carbon dioxide during the Mesozoic era. However, there is no evidence of significant spikes in carbon dioxide levels coinciding with relevant periods in sauropod evolution, such as when the first large sauropods appeared, when several sauropod lineages underwent further evolution toward gigantism, or when sauropods reached their maximum known sizes, suggesting that _______",
+        "prompt": "Which choice most logically completes the text?",
+        "answerChoices": ["fluctuations in atmospheric carbon dioxide affected different sauropod lineages differently.", "the evolution of larger body sizes in sauropods did not depend on increased atmospheric carbon dioxide.", "atmospheric carbon dioxide was higher when the largest known sauropods lived than it was when the first sauropods appeared.", "sauropods probably would not have evolved to such immense sizes if atmospheric carbon dioxide had been even slightly higher."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "In documents called judicial opinions, judges explain the reasoning behind their legal rulings, and in those explanations they sometimes cite and discuss historical and contemporary philosophers. Legal scholar and philosopher Anita L. Allen argues that while judges are naturally inclined to mention philosophers whose views align with their own positions, the strongest judicial opinions consider and rebut potential objections; discussing philosophers whose views conflict with judges’ views could therefore _______",
+        "prompt": "Which choice most logically completes the text?",
+        "answerChoices": ["allow judges to craft judicial opinions without needing to consult philosophical works.", "help judges improve the arguments they put forward in their judicial opinions.", "make judicial opinions more comprehensible to readers without legal or philosophical training.", "bring judicial opinions in line with views that are broadly held among philosophers."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Public-awareness campaigns about the need to reduce single-use plastics can be successful, says researcher Kim Borg of Monash University in Australia, when these campaigns give consumers a choice: for example, Japan achieved a 40 percent reduction in plastic-bag use after cashiers were instructed to ask customers whether _______ wanted a bag.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["they", "one", "you", "it"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "In ancient Greece, an Epicurean was a follower of Epicurus, a philosopher whose beliefs revolved around the pursuit of pleasure. Epicurus defined pleasure as “the absence of pain in the body and of trouble in the _______ that all life’s virtues derived from this absence.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["soul,” positing", "soul”: positing", "soul”; positing", "soul.” Positing"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "British scientists James Watson and Francis Crick won the Nobel Prize in part for their 1953 paper announcing the double helix structure of DNA, but it is misleading to say that Watson and Crick discovered the double helix. _______ findings were based on a famous X-ray image of DNA fibers, “Photo 51,” developed by X-ray crystallographer Rosalind Franklin and her graduate student Raymond Gosling.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["They’re", "It’s", "Their", "Its"],
+        "correctAnswerIndex": 2
+    }, 
+    {
+        "passage": "In 1937, Chinese American screen actor Anna May Wong, who had portrayed numerous villains and secondary characters but never a heroine, finally got a starring role in Paramount Pictures’ Daughter of Shanghai, a film that _______ “expanded the range of possibilities for Asian images on screen.”",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["critic, Stina Chyn, claims", "critic, Stina Chyn, claims,", "critic Stina Chyn claims", "critic Stina Chyn, claims,"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "In 1637, the price of tulips skyrocketed in Amsterdam, with single bulbs of rare varieties selling for up to the equivalent of $200,000 in today’s US dollars. Some historians _______ that this “tulip mania” was the first historical instance of an asset bubble, which occurs when investors drive prices to highs not supported by actual demand.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["claiming", "claim", "having claimed", "to claim"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Researchers studying magnetosensation have determined why some soil-dwelling roundworms in the Southern Hemisphere move in the opposite direction of Earth’s magnetic field when searching for _______ in the Northern Hemisphere, the magnetic field points down, into the ground, but in the Southern Hemisphere, it points up, toward the surface and away from worms’ food sources.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["food:", "food,", "food while", "food"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Scientists believe that, unlike most other species of barnacle, turtle barnacles (Chelonibia testudinari) can dissolve the cement-like secretions they use to attach _______ to a sea turtle shell, enabling the barnacles to move short distances across the shell’s surface.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["it", "themselves", "them", "itself"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The classic children’s board game Chutes and Ladders is a version of an ancient Nepalese game, Paramapada Sopanapata. In both games, players encounter “good” or “bad” spaces while traveling along a path; landing on one of the good spaces _______ a player to skip ahead and arrive closer to the end goal.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["allows", "are allowing", "have allowed", "allow"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "In 1943, in the midst of World War II, mathematics professor Grace Hopper was recruited by the US military to help the war effort by solving complex equations. Hopper’s subsequent career would involve more than just _______ as a pioneering computer programmer, Hopper would help usher in the digital age.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["equations, though:", "equations, though,", "equations. Though,", "equations though"],
+        "correctAnswerIndex": 1
+    }, 
+    {
+        "passage": "In 1453, English King Henry VI became unfit to rule after falling gravely ill. As a result, Parliament appointed Richard, Third Duke of York, who had a strong claim to the English throne, to rule as Lord Protector. Upon recovering two years later, _______ forcing an angered Richard from the royal court and precipitating a series of battles later known as the Wars of the Roses.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["Henry resumed his reign,", "the reign of Henry resumed,", "Henry’s reign resumed,", "it was Henry who resumed his reign,"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Although novels and poems are considered distinct literary forms, many authors have created hybrid works that incorporate elements of both. Bernardine Evaristo’s The Emperor's Babe, _______ is a verse novel, a book-length narrative complete with characters and a plot but conveyed in short, crisp lines of poetry rather than prose.",
+        "prompt": "Which choice completes the text with the most logical transition?",
+        "answerChoices": ["by contrast,", "consequently,", "secondly,", "for example,"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "At two weeks old, the time their critical socialization period begins, wolves can smell but cannot yet see or hear. Domesticated dogs, _______ can see, hear, and smell by the end of two weeks. This relative lack of sensory input may help explain why wolves behave so differently around humans than dogs do: from a very young age, wolves are more wary and less exploratory.",
+        "prompt": "Which choice completes the text with the most logical transition?",
+        "answerChoices": ["in other words,", "for instance,", "by contrast,", "accordingly,"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "Researchers Helena Mihaljević-Brandt, Lucía Santamaría, and Marco Tullney report that while mathematicians may have traditionally worked alone, evidence points to a shift in the opposite direction. _______ mathematicians are choosing to collaborate with their peers—a trend illustrated by a rise in the number of mathematics publications credited to multiple authors.",
+        "prompt": "Which choice completes the text with the most logical transition?",
+        "answerChoices": ["Similarly,", "For this reason,", "Furthermore,", "Increasingly,"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• Pterosaurs were flying reptiles that existed millions of years ago.\n• In a 2021 study, Anusuya Chinsamy-Turan analyzed fragments of pterosaur jawbones located in the Sahara Desert.\n• She was initially unsure if the bones belonged to juvenile or adult pterosaurs.\n• She used advanced microscope techniques to determine that the bones had few growth lines relative to the bones of fully grown pterosaurs.\n• She concluded that the bones belonged to juveniles.",
+        "prompt": "The student wants to present the study and its findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["In 2021, Chinsamy-Turan studied pterosaur jawbones and was initially unsure if the bones belonged to juveniles or adults.", "Pterosaur jawbones located in the Sahara Desert were the focus of a 2021 study.", "In a 2021 study, Chinsamy-Turan used advanced microscope techniques to analyze the jawbones of pterosaurs, flying reptiles that existed millions of years ago.", "In a 2021 study, Chinsamy-Turan determined that pterosaur jawbones located in the Sahara Desert had few growth lines relative to the bones of fully grown pterosaurs and thus belonged to juveniles."],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• African American women played prominent roles in the Civil Rights Movement, including at the famous 1963 March on Washington.\n• Civil rights activist Anna Hedgeman, one of the march’s organizers, was a political adviser who had worked for President Truman.\n• Civil rights activist Daisy Bates was a well-known journalist and advocate for school desegregation.\n• Hedgeman worked behind the scenes to make sure a woman was included in the lineup of speakers at the march.\n• Bates was the sole woman to speak, delivering a brief but memorable address to the cheering crowd.",
+        "prompt": "The student wants to compare the two women’s contributions to the March on Washington. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["Hedgeman and Bates contributed to the march in different ways; Bates, for example, delivered a brief but memorable address.", "Hedgeman worked in politics and helped organize the march, while Bates was a journalist and school desegregation advocate.", "Although Hedgeman worked behind the scenes to make sure a woman speaker was included, Bates was the sole woman to speak at the march.", "Many African American women, including Bates and Hedgeman, fought for civil rights, but only one spoke at the march."],
+        "correctAnswerIndex": 2
+    }, 
     {
         "passage": "For painter Jacob Lawrence, being _______ was an important part of the artistic process. Because he paid close attention to all the details of his Harlem neighborhood, Lawrence’s artwork captured nuances in the beauty and vitality of the Black experience during the Harlem Renaissance and the Great Migration.",
         "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
@@ -244,7 +190,7 @@
         "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
         "answerChoices": ["involuntarily", "beneficially", "strenuously", "smoothly"],
         "correctAnswerIndex": 0
-    }, 
+    },
     {
         "passage": "Critics have asserted that fine art and fashion rarely _______ in a world where artists create timeless works for exhibition and designers periodically produce new styles for the public to buy. Luiseño/Shoshone-Bannock beadwork artist and designer Jamie Okuma challenges this view: her work can be seen in the Metropolitan Museum of Art and purchased through her online boutique.",
         "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
@@ -262,12 +208,54 @@
         "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
         "answerChoices": ["deceptive", "innocuous", "novel", "impractical"],
         "correctAnswerIndex": 1
-    },
+    }, 
     {
         "passage": "The province of Xoconochco was situated on the Pacific coast, hundreds of kilometers southeast of Tenochtitlan, the capital of the Aztec Empire. Because Xoconochco’s location within the empire was so _______ , cacao and other trade goods produced there could reach the capital only after a long overland journey.",
         "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
         "answerChoices": ["unobtrusive", "concealed", "approximate", "peripheral"],
         "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The following text is from Charlotte Brontë’s 1847 novel Jane Eyre. Jane works as a governess at Thornfield Hall.\n\nI went on with my day’s business tranquilly; but ever and anon vague suggestions kept wandering across my brain of reasons why I should quit Thornfield; and I kept involuntarily framing advertisements and pondering conjectures about new situations: these thoughts I did not think to check; they might germinate and bear fruit if they could.",
+        "prompt": "Which choice best states the main purpose of the text?",
+        "answerChoices": ["To convey a contrast between Jane’s outward calmness and internal restlessness", "To emphasize Jane’s loyalty to the people she works for at Thornfield Hall", "To demonstrate that Jane finds her situation both challenging and deeply fulfilling", "To describe Jane’s determination to secure employment outside of Thornfield Hall"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Text 1\nMost animals can regenerate some parts of their bodies, such as skin. But when a three-banded panther worm is cut into three pieces, each piece grows into a new worm. Researchers are investigating this feat partly to learn more about humans’ comparatively limited abilities to regenerate, and they’re making exciting progress. An especially promising discovery is that both humans and panther worms have a gene for early growth response (EGR) linked to regeneration.\n\nText 2\nWhen Mansi Srivastava and her team reported that panther worms, like humans, possess a gene for EGR, it caused excitement. However, as the team pointed out, the gene likely functions very differently in humans than it does in panther worms. Srivastava has likened EGR to a switch that activates other genes involved in regeneration in panther worms, but how this switch operates in humans remains unclear.",
+        "prompt": "Based on the texts, what would the author of Text 2 most likely say about Text 1’s characterization of the discovery involving EGR?",
+        "answerChoices": ["It is reasonable given that Srivastava and her team have identified how EGR functions in both humans and panther worms.", "It is overly optimistic given additional observations from Srivastava and her team.", "It is unexpected given that Srivastava and her team’s findings were generally met with enthusiasm.", "It is unfairly dismissive given the progress that Srivastava and her team have reported."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The following text is adapted from William Shakespeare’s 1609 poem “Sonnet 27.” The poem is addressed to a close friend as if he were physically present.\n\nWeary with toil, I [hurry] to my bed,\nThe dear repose for limbs with travel tired;\nBut then begins a journey in my head\nTo work my mind, when body’s work’s expired:\nFor then my thoughts—from far where I abide—\n[Begin] a zealous pilgrimage to thee,\nAnd keep my drooping eyelids open wide,",
+        "prompt": "What is the main idea of the text?",
+        "answerChoices": ["The speaker is asleep and dreaming about traveling to see the friend.", "The speaker is planning an upcoming trip to the friend’s house.", "The speaker is too fatigued to continue a discussion with the friend.", "The speaker is thinking about the friend instead of immediately falling asleep."],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The following text is adapted from Lewis Carroll’s 1889 satirical novel Sylvie and Bruno. A crowd has gathered outside a room belonging to the Warden, an official who reports to the Lord Chancellor.\n\nOne man, who was more excited than the rest, flung his hat high into the air, and shouted (as well as I could make out) “Who roar for the Sub-Warden?” Everybody roared, but whether it was for the Sub-Warden, or not, did not clearly appear: some were shouting “Bread!” and some “Taxes!”, but no one seemed to know what it was they really wanted.\n\nAll this I saw from the open window of the Warden’s breakfast-saloon, looking across the shoulder of the Lord Chancellor.\n\n“What can it all mean?” he kept repeating to himself. “I never heard such shouting before—and at this time of the morning, too! And with such unanimity!”",
+        "prompt": "Based on the text, how does the Lord Chancellor respond to the crowd?",
+        "answerChoices": ["He asks about the meaning of the crowd’s shouting, even though he claims to know what the crowd wants.", "He indicates a desire to speak to the crowd, even though the crowd has asked to speak to the Sub-Warden.", "He expresses sympathy for the crowd’s demands, even though the crowd’s shouting annoys him.", "He describes the crowd as being united, even though the crowd clearly appears otherwise."],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "O Pioneers! is a 1913 novel by Willa Cather. In the novel, Cather portrays Alexandra Bergson as having a deep emotional connection to her natural surroundings: _______",
+        "prompt": "Which quotation from O Pioneers! most effectively illustrates the claim?",
+        "answerChoices": ["“She had never known before how much the country meant to her. The chirping of the insects down in the long grass had been like the sweetest music. She had felt as if her heart were hiding down there, somewhere, with the quail and the plover and all the little wild things that crooned or buzzed in the sun. Under the long shaggy ridges, she felt the future stirring.”", "“Alexandra talked to the men about their crops and to the women about their poultry. She spent a whole day with one young farmer who had been away at school, and who was experimenting with a new kind of clover hay. She learned a great deal.”", "“Alexandra drove off alone. The rattle of her wagon was lost in the howling of the wind, but her lantern, held firmly between her feet, made a moving point of light along the highway, going deeper and deeper into the dark country.”", "“It was Alexandra who read the papers and followed the markets, and who learned by the mistakes of their neighbors. It was Alexandra who could always tell about what it had cost to fatten each steer, and who could guess the weight of a hog before it went on the scales closer than John Bergson [her father] himself.”"],
+        "correctAnswerIndex": 0
+    }, 
+    {
+        "passage": "Psychologists Dacher Keltner and Jonathan Haidt have argued that experiencing awe—a sensation of reverence and wonder typically brought on by perceiving something grand or powerful—can enable us to feel more connected to others and thereby inspire us to act more altruistically. Keltner, along with Paul K. Piff, Pia Dietze, and colleagues, claims to have found evidence for this effect in a recent study where participants were asked to either gaze up at exceptionally tall trees in a nearby grove (reported to be a universally awe-inspiring experience) or stare at the exterior of a nearby, nondescript building. After one minute, an experimenter deliberately spilled a box of pens nearby.",
+        "prompt": "Which finding from the researchers’ study, if true, would most strongly support their claim?",
+        "answerChoices": ["Participants who had been looking at the trees helped the experimenter pick up significantly more pens than did participants who had been looking at the building.", "Participants who helped the experimenter pick up the pens used a greater number of positive words to describe the trees and the building in a postexperiment survey than did participants who did not help the experimenter.", "Participants who did not help the experimenter pick up the pens were significantly more likely to report having experienced a feeling of awe, regardless of whether they looked at the building or the trees.", "Participants who had been looking at the building were significantly more likely to notice that the experimenter had dropped the pens than were participants who had been looking at the trees."],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Many archaeologists will tell you that categorizing excavated fragments of pottery by style, period, and what objects they belong to relies not only on standard criteria, but also on instinct developed over years of practice. In a recent study, however, researchers trained a deep-learning computer model on thousands of images of pottery fragments and found that it could categorize them as accurately as a team of expert archaeologists. Some archaeologists have expressed concern that they might be replaced by such computer models, but the researchers claim that outcome is highly unlikely.",
+        "prompt": "Which finding, if true, would most directly support the researchers’ claim?",
+        "answerChoices": ["In the researchers’ study, the model was able to categorize the pottery fragments much more quickly than the archaeologists could.", "In the researchers’ study, neither the model nor the archaeologists were able to accurately categorize all the pottery fragments that were presented.", "A survey of archaeologists showed that categorizing pottery fragments limits the amount of time they can dedicate to other important tasks that only human experts can do.", "A survey of archaeologists showed that few of them received dedicated training in how to properly categorize pottery fragments."],
+        "correctAnswerIndex": 2
     },
     {
         "passage": "Although military veterans make up a small proportion of the total population of the United States, they occupy a significantly higher proportion of the jobs in the civilian government. One possible explanation for this disproportionate representation is that military service familiarizes people with certain organizational structures that are also reflected in the civilian government bureaucracy, and this familiarity thus _______",
@@ -279,42 +267,6 @@
         "passage": "Birds of many species ingest foods containing carotenoids, pigmented molecules that are converted into feather coloration. Coloration tends to be especially saturated in male birds’ feathers, and because carotenoids also confer health benefits, the deeply saturated colors generally serve to communicate what is known as an honest signal of a bird’s overall fitness to potential mates. However, ornithologist Allison J. Shultz and others have found that males in several species of the tanager genus Ramphocelus use microstructures in their feathers to manipulate light, creating the appearance of deeper saturation without the birds necessarily having to maintain a carotenoid-rich diet. These findings suggest that _______",
         "prompt": "Which choice most logically completes the text?",
         "answerChoices": ["individual male tanagers can engage in honest signaling without relying on carotenoid consumption.", "feather microstructures may be less effective than deeply saturated feathers for signaling overall fitness.", "scientists have yet to determine why tanagers have a preference for mates with colorful appearances.", "a male tanager’s appearance may function as a dishonest signal of the individual’s overall fitness."],
-        "correctAnswerIndex": 3
-    }, 
-    {
-        "passage": "Small, flat structures called spatulae are found at the tips of the hairs on a spider’s leg. These spatulae temporarily bond with the atoms of whatever they touch. _______ spiders are able to cling to and climb almost any surface.",
-        "prompt": "Which choice completes the text with the most logical transition?",
-        "answerChoices": ["For instance,", "However,", "Similarly,", "As a result,"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "In November 1934, Amrita Sher-Gil was living in what must have seemed like the ideal city for a young artist: Paris. She was studying firsthand the color-saturated style of France’s modernist masters and beginning to make a name for herself as a painter. _______ Sher-Gil longed to return to her childhood home of India; only there, she believed, could her art truly flourish.",
-        "prompt": "Which choice completes the text with the most logical transition?",
-        "answerChoices": ["Still,", "Therefore,", "Indeed,", "Furthermore,"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Before California’s 1911 election to approve a proposition granting women the right to vote, activists across the state sold tea to promote the cause of suffrage. In San Francisco, the Woman’s Suffrage Party sold Equality Tea at local fairs. _______ in Los Angeles, activist Nancy Tuttle Craig, who ran one of California’s largest grocery store firms, distributed Votes for Women Tea.",
-        "prompt": "Which choice completes the text with the most logical transition?",
-        "answerChoices": ["For example,", "To conclude,", "Similarly,", "In other words,"],
-        "correctAnswerIndex": 2
-    }, 
-    {
-        "passage": "While researching a topic, a student has taken the following notes: • The Seikan Tunnel is a rail tunnel in Japan. • It connects the island of Honshu to the island of Hokkaido. • It is roughly 33 miles long. • The Channel Tunnel is a rail tunnel in Europe. • It connects Folkestone, England, to Coquelles, France. • It is about 31 miles long.",
-        "prompt": "The student wants to compare the lengths of the two rail tunnels. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
-        "answerChoices": ["Some of the world’s rail tunnels, including one tunnel that extends from Folkestone, England, to Coquelles, France, are longer than 30 miles.", "The Seikan Tunnel is roughly 33 miles long, while the slightly shorter Channel Tunnel is about 31 miles long.", "The Seikan Tunnel, which is roughly 33 miles long, connects the Japanese islands of Honshu and Hokkaido.", "Both the Seikan Tunnel, which is located in Japan, and the Channel Tunnel, which is located in Europe, are examples of rail tunnels."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "While researching a topic, a student has taken the following notes: • Jon Ching is a Los Angeles-based painter. • He uses the term “flauna” to describe the plant-animal hybrids that he depicts in his surreal paintings. • “Flauna” is a combination of the words “flora” and “fauna.” • His painting Nectar depicts a parrot with leaves for feathers. • His painting Primaveral depicts a snow leopard whose fur sprouts flowers.",
-        "prompt": "The student wants to provide an explanation and example of “flauna.” Which choice most effectively uses relevant information from the notes to accomplish this goal?",
-        "answerChoices": ["The term “flauna,” used by Los Angeles-based painter Jon Ching, is a combination of the words “flora” and “fauna.”", "Jon Ching uses the term “flauna,” a combination of the words “flora” and “fauna,” to describe the subjects of his surreal paintings: plant-animal hybrids such as a parrot with leaves for feathers.", "Jon Ching, who created Nectar, refers to the subjects of his paintings as “flauna.”", "The subjects of Nectar and Primaveral are types of “flauna,” a term that the paintings’ creator, Jon Ching, uses when describing his surreal artworks."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "While researching a topic, a student has taken the following notes: • In the midst of the US Civil War, Susie Taylor escaped slavery and fled to Union-army-occupied St. Simons Island off the Georgia coast. • She began working for an all-Black army regiment as a nurse and teacher. • In 1902, she published a book about the time she spent with the regiment. • Her book was the only Civil War memoir to be published by a Black woman. • It is still available to readers in print and online.",
-        "prompt": "The student wants to emphasize the uniqueness of Taylor’s accomplishment. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
-        "answerChoices": ["Taylor fled to St. Simons Island, which was then occupied by the Union army, for whom she began working.", "After escaping slavery, Taylor began working for an all-Black army regiment as a nurse and teacher.", "The book Taylor wrote about the time she spent with the regiment is still available to readers in print and online.", "Taylor was the only Black woman to publish a Civil War memoir."],
         "correctAnswerIndex": 3
     },
     {
@@ -328,7 +280,7 @@
         "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
         "answerChoices": ["out but", "out, but", "out", "out,"],
         "correctAnswerIndex": 1
-    },
+    }, 
     {
         "passage": "In winter, the diets of Japanese macaques, also known as snow monkeys, are influenced more by food availability than by food preference. Although the monkeys prefer to eat vegetation and land-dwelling invertebrates, those food sources may become unavailable because of extensive snow and ice cover, _______ the monkeys to hunt for marine animals in any streams that have not frozen over.",
         "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
@@ -357,488 +309,55 @@
         "passage": "In order to prevent nonnative fish species from moving freely between the Mediterranean and Red Seas, marine biologist Bella Galil has proposed that a saline lock system be installed along the Suez Canal in Egypt’s Great Bitter Lakes. The lock would increase the salinity of the lakes and _______ a natural barrier of water most marine creatures would be unable to cross.",
         "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
         "answerChoices": ["creates", "create", "creating", "created"],
-        "correctAnswerIndex": 1
-    }, 
+        "correctAnswerIndex": 2
+    },
     {
         "passage": "Despite being cheap, versatile, and easy to produce, _______ they are made from nonrenewable petroleum, and most do not biodegrade in landfills.",
         "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
         "answerChoices": ["there are two problems associated with commercial plastics:", "two problems are associated with commercial plastics:", "commercial plastics’ two associated problems are that", "commercial plastics have two associated problems:"],
         "correctAnswerIndex": 3
-    },
+    }, 
     {
         "passage": "Stomata, tiny pore structures in a leaf that absorb gases needed for plant growth, open when guard cells surrounding each pore swell with water. In a pivotal 2007 article, plant cell _______ showed that lipid molecules called phosphatidylinositol phosphates are responsible for signaling guard cells to open stomata.",
         "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
         "answerChoices": ["biologist, Yuree Lee", "biologist Yuree Lee,", "biologist Yuree Lee", "biologist, Yuree Lee,"],
         "correctAnswerIndex": 2
-    }, 
-    {
-        "passage": "As Mexico’s first president from an Indigenous community, Benito Juarez became one of the most ______ figures in his country’s history: among the many significant accomplishments of his long tenure in office (1858–1872), Juarez consolidated the authority of the national government and advanced the rights of Indigenous peoples.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["unpredictable", "important", "secretive", "ordinary"],
-        "correctAnswerIndex": 1
     },
     {
-        "passage": "Due to their often strange images, highly experimental syntax, and opaque subject matter, many of John Ashbery’s poems can be quite difficult to ______ and thus are the object of heated debate among scholars.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["delegate", "compose", "interpret", "renounce"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The Cambrian explosion gets its name from the sudden appearance and rapid diversification of animal remains in the fossil record about 541 million years ago, during the Cambrian period. Some scientists argue that this ______ change in the fossil record might be because of a shift in many organisms to body types that were more likely to be preserved.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["catastrophic", "elusive", "abrupt", "imminent"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "During a 2014 archaeological dig in Spain, Vicente Lull and his team uncovered the skeleton of a woman from El Algar, an Early Bronze Age society, buried with valuable objects signaling a high position of power. This finding may persuade researchers who have argued that Bronze Age societies were ruled by men to ______ that women may have also held leadership roles.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["waive", "concede", "refute", "require"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "Within baleen whale species, some individuals develop an accessory spleen—a seemingly functionless formation of splenetic tissue outside the normal spleen. Given the formation’s greater prevalence among whales known to make deeper dives, some researchers hypothesize that its role isn’t ______; rather, the accessory spleen may actively support diving mechanisms.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["replicable", "predetermined", "operative", "latent"],
+        "passage": "Small, flat structures called spatulae are found at the tips of the hairs on a spider’s leg. These spatulae temporarily bond with the atoms of whatever they touch. _______ spiders are able to cling to and climb almost any surface.",
+        "prompt": "Which choice completes the text with the most logical transition?",
+        "answerChoices": ["For instance,", "However,", "Similarly,", "As a result,"],
         "correctAnswerIndex": 3
     },
     {
-        "passage": "According to a US tax policy expert, state taxes are ______ other factors when considering an interstate move. Even significant differences in state taxation have almost no effect on most people’s decisions, while differences in employment opportunities, housing availability, and climate are strong influences.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["consistent with", "representative of", "overshadowed by", "irrelevant to"],
+        "passage": "In November 1934, Amrita Sher-Gil was living in what must have seemed like the ideal city for a young artist: Paris. She was studying firsthand the color-saturated style of France’s modernist masters and beginning to make a name for herself as a painter. _______ Sher-Gil longed to return to her childhood home of India; only there, she believed, could her art truly flourish.",
+        "prompt": "Which choice completes the text with the most logical transition?",
+        "answerChoices": ["Still,", "Therefore,", "Indeed,", "Furthermore,"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Before California’s 1911 election to approve a proposition granting women the right to vote, activists across the state sold tea to promote the cause of suffrage. In San Francisco, the Woman’s Suffrage Party sold Equality Tea at local fairs. _______ in Los Angeles, activist Nancy Tuttle Craig, who ran one of California’s largest grocery store firms, distributed Votes for Women Tea.",
+        "prompt": "Which choice completes the text with the most logical transition?",
+        "answerChoices": ["For example,", "To conclude,", "Similarly,", "In other words,"],
         "correctAnswerIndex": 2
     },
     {
-        "passage": "The author’s claim about the relationship between Neanderthals and Homo sapiens is ______, as it fails to account for several recent archaeological discoveries. To be convincing, his argument would need to address recent finds of additional hominid fossils, such as the latest Denisovan specimens and Homo longi.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["disorienting", "tenuous", "nuanced", "unoriginal"],
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• The Seikan Tunnel is a rail tunnel in Japan.\n• It connects the island of Honshu to the island of Hokkaido.\n• It is roughly 33 miles long.\n• The Channel Tunnel is a rail tunnel in Europe.\n• It connects Folkestone, England, to Coquelles, France.\n• It is about 31 miles long.",
+        "prompt": "The student wants to compare the lengths of the two rail tunnels. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["Some of the world’s rail tunnels, including one tunnel that extends from Folkestone, England, to Coquelles, France, are longer than 30 miles.", "The Seikan Tunnel is roughly 33 miles long, while the slightly shorter Channel Tunnel is about 31 miles long.", "The Seikan Tunnel, which is roughly 33 miles long, connects the Japanese islands of Honshu and Hokkaido.", "Both the Seikan Tunnel, which is located in Japan, and the Channel Tunnel, which is located in Europe, are examples of rail tunnels."],
         "correctAnswerIndex": 1
     },
     {
-        "passage": "The following text is from Georgia Douglas Johnson’s 1922 poem “Benediction.” 'Go forth, my son, Winged by my heart’s desire! Great reaches, yet unknown, Await For your possession. I may not, if I would, Retrace the way with you, My pilgrimage is through, But life is calling you!'",
-        "prompt": "Which choice best states the main purpose of the text?",
-        "answerChoices": ["To express hope that a child will have the same accomplishments as his parent did", "To suggest that raising a child involves many struggles", "To warn a child that he will face many challenges throughout his life", "To encourage a child to embrace the experiences life will offer"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The following text is adapted from Indian Boyhood, a 1902 memoir by Ohiyesa (Charles A. Eastman), a Santee Dakota writer. In the text, Ohiyesa recalls how the women in his tribe harvested maple syrup during his childhood. 'Now the women began to test the trees—moving leisurely among them, axe in hand, and striking a single quick blow, to see if the sap would appear. The trees, like people, have their individual characters; some were ready to yield up their life-blood, while others were more reluctant. Now one of the birchen basins was set under each tree, and a hardwood chip driven deep into the cut which the axe had made. From the corners of this chip—at first drop by drop, then more freely—the sap trickled into the little dishes.'",
-        "prompt": "Which choice best describes the function of the underlined sentence in the text as a whole?",
-        "answerChoices": ["It portrays the range of personality traits displayed by the women as they work.", "It foregrounds the beneficial relationship between humans and maple trees.", "It demonstrates how human behavior can be influenced by the natural environment.", "It elaborates on an aspect of the maple trees that the women evaluate."],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "Text 1: Ecologists have long wondered how thousands of microscopic phytoplankton species can live together near ocean surfaces competing for the same resources. According to conventional wisdom, one species should emerge after outcompeting the rest. So why do so many species remain? Ecologists’ many efforts to explain this phenomenon still haven’t uncovered a satisfactory explanation. Text 2: Ecologist Michael Behrenfeld and colleagues have connected phytoplankton’s diversity to their microscopic size. Because these organisms are so tiny, they are spaced relatively far apart from each other in ocean water and, moreover, experience that water as a relatively dense substance. This in turn makes it hard for them to move around and interact with one another. Therefore, says Behrenfeld’s team, direct competition among phytoplankton probably happens much less than previously thought.",
-        "prompt": "Based on the texts, how would Behrenfeld and colleagues (Text 2) most likely respond to the 'conventional wisdom' discussed in Text 1?",
-        "answerChoices": ["By arguing that it is based on a misconception about phytoplankton species competing with one another", "By asserting that it fails to recognize that routine replenishment of ocean nutrients prevents competition between phytoplankton species", "By suggesting that their own findings help clarify how phytoplankton species are able to compete with larger organisms", "By recommending that more ecologists focus their research on how competition among phytoplankton species is increased with water density"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Elisa Tremblay’s determination to understand the full story behind her mother’s paintings led her to a ______ source: the letters her mother had exchanged with a famous artist. These letters revealed the motivations and artistic influences that had shaped her mother’s work.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["secondary", "contradictory", "personal", "general"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "To accurately assess the effectiveness of a new drug, medical researchers must employ rigorous testing procedures. They conduct controlled experiments with large sample sizes, and they use placebos to ensure that the effects of the drug are not due to psychological factors. The ______ obtained from these experiments provide valuable insights into the drug’s potential benefits and risks.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["recommendations", "theories", "anecdotes", "data"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The sculptor’s latest work, a towering structure made entirely of recycled materials, was ______ received by the public. Critics praised its innovative use of everyday objects, while others admired its environmental message.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["negatively", "widely", "poorly", "enthusiastically"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "A key aspect of the scientific method is the requirement for reproducibility: an experiment’s results must be replicable by other researchers under similar conditions. If other scientists can obtain the same results, the original findings are ______ and accepted as valid.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["verified", "dismissed", "questioned", "ignored"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Despite its immense popularity, the novel has sparked considerable controversy. Some readers find its portrayal of complex social issues to be insightful and thought-provoking, while others argue that it oversimplifies serious topics. The ______ surrounding the book has only fueled its sales and heightened public interest.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["curiosity", "debate", "support", "admiration"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is adapted from a letter by Abigail Adams, written in 1776. Adams was an early advocate for women’s rights. In the letter, she urges her husband, John Adams, who was involved in drafting the United States Constitution, to 'Remember the Ladies' in the new laws. 'I desire you would Remember the Ladies, and be more generous and favorable to them than your ancestors. Do not put such unlimited power into the hands of the Husbands. Remember all Men would be tyrants if they could. If particular care and attention is not paid to the Ladies, we are determined to foment a Rebellion, and will not hold ourselves bound by any Laws in which we have no voice, or Representation.'",
-        "prompt": "Which choice best describes the function of the underlined sentence in the text as a whole?",
-        "answerChoices": ["It highlights the potential consequences of failing to grant women a voice in the new government.", "It suggests that the author's husband may personally agree with her views on women’s rights.", "It emphasizes the author's admiration for her husband’s political accomplishments.", "It illustrates the author's belief that women should have the same rights as men."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The following text is from 'The Birthmark,' a short story by Nathaniel Hawthorne published in 1843. In the story, a scientist becomes obsessed with removing a small birthmark from his wife’s cheek, which he perceives as her only flaw. 'She arose from her seat, and stood before him, with a slight flush of anxiety, but a smile on her lips. 'Dearest Georgiana, I have spent much thought upon the subject,' said he, taking her hand, and then drawing aside the rich curtain which concealed a portion of the laboratory. 'I am convinced of the perfect practicability of its removal.''",
-        "prompt": "Which choice best describes the scientist’s attitude toward his wife’s birthmark as it is revealed in the passage?",
-        "answerChoices": ["He is indifferent to the birthmark and sees no need to remove it.", "He is deeply troubled by the birthmark and is determined to remove it.", "He admires the birthmark and considers it a symbol of his wife’s uniqueness.", "He is fearful of removing the birthmark and worries about the potential risks."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "Text 1: The discovery of penicillin by Alexander Fleming in 1928 revolutionized medicine. As the first true antibiotic, penicillin saved countless lives during World War II and continues to be used to treat bacterial infections today. Fleming’s work laid the foundation for modern antibiotics, which have become a cornerstone of medical treatment. Text 2: While penicillin’s discovery was undoubtedly groundbreaking, the overuse and misuse of antibiotics have led to the rise of antibiotic-resistant bacteria. These 'superbugs' pose a significant threat to public health, as they are difficult to treat with existing medications. Scientists are now searching for new ways to combat these resistant strains.",
-        "prompt": "Based on the texts, how would the author of Text 2 most likely respond to the view of penicillin’s discovery presented in Text 1?",
-        "answerChoices": ["By agreeing that penicillin has been beneficial overall but warning of the dangers associated with its overuse", "By emphasizing that penicillin has had a negative impact on public health and should no longer be used", "By questioning the significance of penicillin’s discovery and suggesting that other antibiotics are more important", "By asserting that the benefits of penicillin far outweigh any potential risks associated with its use"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Text 1: Scientists have long studied the phenomenon of bioluminescence, in which living organisms produce light through chemical reactions. This ability is found in a variety of marine creatures, such as jellyfish and certain types of fish, as well as in some terrestrial organisms, like fireflies. Bioluminescence serves various purposes, including attracting mates, deterring predators, and luring prey. Text 2: Despite the widespread occurrence of bioluminescence in nature, the exact mechanisms by which it operates are not fully understood. Researchers have identified the key chemical components involved, such as luciferin and luciferase, but much remains to be learned about how these components interact to produce light.",
-        "prompt": "How would the author of Text 2 most likely respond to the description of bioluminescence in Text 1?",
-        "answerChoices": ["By agreeing with the importance of bioluminescence but emphasizing that there is still much to learn about how it works", "By questioning the significance of bioluminescence in the natural world and suggesting it has limited practical applications", "By asserting that bioluminescence is a rare and poorly understood phenomenon that requires further research", "By arguing that the examples of bioluminescence provided in Text 1 are not representative of the phenomenon as a whole"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The following text is adapted from Jane Eyre, an 1847 novel by Charlotte Brontë. In this scene, the narrator, Jane Eyre, is talking with Mr. Rochester, her employer. 'I am not talking to you now through the medium of custom, conventionalities, nor even of mortal flesh—it is my spirit that addresses your spirit; just as if both had passed through the grave, and we stood at God’s feet, equal—as we are!'",
-        "prompt": "Which choice best describes Jane’s tone in the passage?",
-        "answerChoices": ["Humorous and lighthearted", "Cautious and hesitant", "Serious and sincere", "Angry and accusatory"],
-        "correctAnswerIndex": 2
-    }, 
-    {
-        "passage": "The researcher’s findings provide strong evidence for the theory that certain bird species migrate to avoid harsh winter conditions. The data shows a clear correlation between decreasing temperatures and the start of migration patterns. However, some scientists argue that other factors, such as food availability, may also play a significant role. The ______ of these findings has sparked further debate in the scientific community.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["reliability", "novelty", "impact", "uncertainty"],
-        "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The novel’s protagonist is a complex character who struggles with conflicting desires and moral dilemmas. Throughout the story, he grapples with his sense of duty to his family and his ambition to achieve personal success. The author’s portrayal of this inner turmoil makes the protagonist both relatable and ______.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["admirable", "frustrating", "inaccessible", "sympathetic"],
-        "correctAnswerIndex": 4
-    },
-    {
-        "passage": "The conservationist’s efforts to protect endangered species have been met with both praise and criticism. While some people commend her dedication to preserving biodiversity, others argue that her methods are too extreme and may harm local communities. The ______ surrounding her work highlights the complexity of balancing environmental conservation with human needs.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["success", "controversy", "popularity", "indifference"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "In recent years, social media platforms have become powerful tools for political activism. They allow individuals to share information quickly and reach large audiences, often with little cost. However, the spread of misinformation on these platforms has raised concerns about their impact on public discourse. The ______ of social media in shaping political opinions cannot be underestimated.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["benefits", "limitations", "potential", "influence"],
-        "correctAnswerIndex": 4
-    },
-    {
-        "passage": "The following text is adapted from Pride and Prejudice, a novel by Jane Austen published in 1813. In this scene, Mr. Darcy, a wealthy and reserved gentleman, proposes marriage to Elizabeth Bennet, a lively and intelligent young woman. 'In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.'",
-        "prompt": "Which choice best describes Mr. Darcy’s tone in the passage?",
-        "answerChoices": ["Pleading and desperate", "Detached and indifferent", "Confident and assertive", "Shy and uncertain"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is from 'The Cask of Amontillado,' a short story by Edgar Allan Poe published in 1846. In the story, the narrator, Montresor, seeks revenge against Fortunato, who he believes has wronged him. 'The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult, I vowed revenge. You, who so well know the nature of my soul, will not suppose, however, that gave utterance to a threat. At length I would be avenged; this was a point definitively settled.'",
-        "prompt": "Which choice best describes Montresor’s attitude toward Fortunato in the passage?",
-        "answerChoices": ["He feels a deep sense of betrayal and seeks justice.", "He feels pity for Fortunato and regrets his actions.", "He feels indifferent to Fortunato and views him as insignificant.", "He feels anger toward Fortunato and is determined to seek revenge."],
-        "correctAnswerIndex": 4
-    },
-    {
-        "passage": "The following text is adapted from the Declaration of Independence, written by Thomas Jefferson in 1776. 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness.'",
-        "prompt": "Which choice best describes the tone of the passage?",
-        "answerChoices": ["Authoritative and confident", "Submissive and deferential", "Ambiguous and uncertain", "Skeptical and questioning"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "Text 1: Advances in renewable energy technology have significantly reduced the cost of solar panels, making them more accessible to consumers. As a result, the adoption of solar energy has increased rapidly in recent years. However, some experts warn that the environmental impact of manufacturing and disposing of solar panels must be carefully considered. Text 2: While the cost of solar panels has decreased, the efficiency of converting sunlight into electricity has not improved as quickly. Researchers are exploring new materials and technologies to increase efficiency, but these solutions are still in the early stages of development.",
-        "prompt": "How would the author of Text 2 most likely respond to the view of solar energy presented in Text 1?",
-        "answerChoices": ["By agreeing that solar energy is becoming more popular but emphasizing the need for improvements in efficiency", "By asserting that the environmental impact of solar panels outweighs their benefits", "By questioning the effectiveness of solar panels in reducing overall energy costs", "By arguing that solar energy is not a viable solution for large-scale energy production"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is adapted from Walden, a book by Henry David Thoreau published in 1854. Thoreau reflects on the benefits of living a simple and self-sufficient life in nature. 'I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.'",
-        "prompt": "Which choice best describes Thoreau’s purpose in the passage?",
-        "answerChoices": ["To explain why he values material wealth and success", "To justify his decision to live apart from society", "To criticize those who live in urban environments", "To express his desire for fame and recognition"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The following text is adapted from Moby-Dick, a novel by Herman Melville published in 1851. In this scene, the narrator, Ishmael, describes his feelings about the sea. 'Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people’s hats off—then, I account it high time to get to sea as soon as I can.'",
-        "prompt": "Which choice best describes the narrator’s attitude toward the sea in the passage?",
-        "answerChoices": ["He views the sea as a place of refuge and renewal.", "He is indifferent to the sea and its surroundings.", "He sees the sea as a dangerous and unpredictable force.", "He regards the sea with fear and apprehension."],
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• Jon Ching is a Los Angeles-based painter.\n• He uses the term “flauna” to describe the plant-animal hybrids that he depicts in his surreal paintings.\n• “Flauna” is a combination of the words “flora” and “fauna.”\n• His painting Nectar depicts a parrot with leaves for feathers.\n• His painting Primaveral depicts a snow leopard whose fur sprouts flowers.",
+        "prompt": "The student wants to provide an explanation and example of “flauna.” Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["The term “flauna,” used by Los Angeles-based painter Jon Ching, is a combination of the words “flora” and “fauna.”", "Jon Ching uses the term “flauna,” a combination of the words “flora” and “fauna,” to describe the subjects of his surreal paintings: plant-animal hybrids such as a parrot with leaves for feathers.", "Jon Ching, who created Nectar, refers to the subjects of his paintings as “flauna.”", "The subjects of Nectar and Primaveral are types of “flauna,” a term that the paintings’ creator, Jon Ching, uses when describing his surreal artworks."],
         "correctAnswerIndex": 1
     }, 
     {
-        "passage": "The new smartphone app has been praised for its intuitive design and user-friendly interface. Users can easily navigate through the app’s features and customize their experience. Additionally, the app’s developers have released frequent updates to fix bugs and improve performance. As a result, the app has quickly gained a large and ______ user base.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["loyal", "critical", "temporary", "unreliable"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The discovery of a new exoplanet in a distant solar system has excited astronomers around the world. The planet, which is located in the habitable zone of its star, has the potential to support life. Scientists are now working to gather more data about the planet’s atmosphere and surface conditions. This discovery is seen as a major ______ in the search for extraterrestrial life.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["obstacle", "setback", "milestone", "disappointment"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The artist’s latest exhibition features a series of paintings that explore themes of identity and belonging. Each piece is a reflection of the artist’s personal experiences and struggles with self-acceptance. The use of vibrant colors and bold brushstrokes adds a sense of energy and emotion to the work. Critics have praised the exhibition for its ______ and emotional depth.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["simplicity", "complexity", "superficiality", "monotony"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is adapted from 'The Metamorphosis,' a novella by Franz Kafka published in 1915. In the story, the protagonist, Gregor Samsa, wakes up one morning to find himself transformed into a giant insect. 'As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect. He was lying on his hard, as it were armor-plated, back and when he lifted his head a little he could see his domelike brown belly divided into stiff arched segments on top of which the bed quilt could hardly keep in position and was about to slide off completely.'",
-        "prompt": "Which choice best describes the tone of the passage?",
-        "answerChoices": ["Optimistic and hopeful", "Lighthearted and humorous", "Matter-of-fact and detached", "Fearful and panicked"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The following text is from 'The Tell-Tale Heart,' a short story by Edgar Allan Poe published in 1843. In the story, the narrator describes his feelings about the old man he lives with. 'It is impossible to say how first the idea entered my brain; but once conceived, it haunted me day and night. Object there was none. Passion there was none. I loved the old man. He had never wronged me. He had never given me insult. For his gold I had no desire. I think it was his eye! yes, it was this! He had the eye of a vulture—a pale blue eye, with a film over it. Whenever it fell upon me, my blood ran cold; and so by degrees—very gradually—I made up my mind to take the life of the old man, and thus rid myself of the eye forever.'",
-        "prompt": "Which choice best describes the narrator’s attitude toward the old man in the passage?",
-        "answerChoices": ["He feels a deep affection for the old man and is protective of him.", "He is indifferent to the old man and has no strong feelings about him.", "He is repulsed by the old man’s eye and becomes obsessed with eliminating it.", "He admires the old man and seeks his approval."],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Text 1: Scientists have recently discovered a new species of bird in a remote region of the Amazon rainforest. This discovery is significant because it highlights the rich biodiversity of the area and the importance of preserving its habitats. The new species, which has been named after the indigenous people who live in the region, has distinctive plumage and a unique song. Text 2: The discovery of a new bird species in the Amazon rainforest is a reminder of how much we still have to learn about the world’s ecosystems. However, it also underscores the urgent need to protect these environments from deforestation and other human activities. Without conservation efforts, many species could be lost before they are even discovered.",
-        "prompt": "How would the author of Text 2 most likely respond to the view of the discovery presented in Text 1?",
-        "answerChoices": ["By agreeing that the discovery is important but emphasizing the need for conservation efforts", "By asserting that the discovery is insignificant in the context of global biodiversity", "By questioning the accuracy of the identification of the new species", "By arguing that the discovery will have little impact on conservation policies"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Text 1: The rise of electric vehicles (EVs) has been heralded as a major step forward in reducing carbon emissions and combating climate change. EVs produce zero emissions while driving and can be powered by renewable energy sources. As more people adopt EVs, the demand for gasoline is expected to decrease, leading to a reduction in greenhouse gas emissions. Text 2: While the adoption of electric vehicles is a positive development, it is important to consider the environmental impact of manufacturing and disposing of EV batteries. The production of lithium-ion batteries, which are used in most EVs, requires the extraction of rare minerals and consumes significant amounts of energy. Additionally, the disposal of used batteries poses a challenge due to the toxic chemicals they contain.",
-        "prompt": "How would the author of Text 2 most likely respond to the view of electric vehicles presented in Text 1?",
-        "answerChoices": ["By agreeing that electric vehicles have environmental benefits but warning of the potential downsides of battery production and disposal", "By asserting that electric vehicles have no significant impact on reducing carbon emissions", "By questioning the feasibility of widespread adoption of electric vehicles", "By arguing that the benefits of electric vehicles outweigh any potential environmental concerns"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The following text is adapted from 'The Adventures of Huckleberry Finn,' a novel by Mark Twain published in 1884. In the story, the narrator, Huck Finn, describes his feelings about life on the river. 'We said there warn’t no home like a raft, after all. Other places do seem so cramped up and smothery, but a raft don’t. You feel mighty free and easy and comfortable on a raft.'",
-        "prompt": "Which choice best describes Huck’s attitude toward life on the river in the passage?",
-        "answerChoices": ["He finds it boring and uneventful.", "He enjoys the freedom and simplicity it offers.", "He feels isolated and lonely on the river.", "He is fearful of the dangers that the river presents."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is adapted from 'The Scarlet Letter,' a novel by Nathaniel Hawthorne published in 1850. In the story, the protagonist, Hester Prynne, reflects on her experiences after being publicly shamed for committing adultery. 'She had not known the weight until she felt the freedom. By degrees, nor very slowly, her hands ceased to tremble, her heart to flutter; she felt like a prisoner just escaped from the dungeon of her own heart.'",
-        "prompt": "Which choice best describes the tone of the passage?",
-        "answerChoices": ["Joyful and triumphant", "Resentful and bitter", "Reflective and relieved", "Anxious and fearful"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The following text is adapted from 'Jane Eyre,' a novel by Charlotte Brontë published in 1847. In this scene, Jane Eyre, the protagonist, is confronted by her cousin, John Reed. 'You have no business to take our books; you are a dependent, mama says; you have no money; your father left you none; you ought to beg, and not to live here with gentlemen’s children like us, and eat the same meals we do, and wear clothes at our mama’s expense.'",
-        "prompt": "Which choice best describes John Reed’s attitude toward Jane in the passage?",
-        "answerChoices": ["He feels a sense of superiority over Jane and looks down on her.", "He is indifferent to Jane and her situation.", "He feels pity for Jane and tries to comfort her.", "He admires Jane’s strength and resilience."],
-        "correctAnswerIndex": 0
-    }, 
-    {
-        "passage": "The company’s decision to expand its product line has been met with mixed reactions. While some customers are excited about the new offerings, others are concerned that the company is losing focus on its core products. The CEO has assured stakeholders that the expansion will not compromise the quality of the existing products. However, the success of this strategy remains to be ______.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["predicted", "celebrated", "seen", "ignored"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The research team’s findings have the potential to revolutionize the field of renewable energy. Their innovative approach to harnessing solar power could lead to more efficient and affordable energy solutions. However, some experts are skeptical about the feasibility of scaling up the technology for widespread use. The ______ surrounding the research highlights the need for further testing and development.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["optimism", "criticism", "enthusiasm", "uncertainty"],
-        "correctAnswerIndex": 4
-    },
-    {
-        "passage": "The novel’s protagonist, a young woman struggling to find her place in the world, embarks on a journey of self-discovery. Along the way, she encounters various challenges that test her resilience and determination. The author’s vivid descriptions and compelling character development make the protagonist’s journey both relatable and ______.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["predictable", "moving", "confusing", "monotonous"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The following text is adapted from 'The Great Gatsby,' a novel by F. Scott Fitzgerald published in 1925. In this scene, the narrator, Nick Carraway, describes his impressions of Jay Gatsby, the mysterious and wealthy protagonist. 'He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it, that you may come across four or five times in life. It faced—or seemed to face—the whole external world for an instant, and then concentrated on you with an irresistible prejudice in your favor. It understood you just so far as you wanted to be understood, believed in you as you would like to believe in yourself.'",
-        "prompt": "Which choice best describes the tone of the passage?",
-        "answerChoices": ["Admiring and respectful", "Skeptical and doubtful", "Cynical and critical", "Indifferent and detached"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is from 'To Kill a Mockingbird,' a novel by Harper Lee published in 1960. In this scene, the narrator, Scout Finch, reflects on her father, Atticus Finch, and his role in their community. 'When he was nearly fifty, my father, Atticus, was feeble: he was nearly blind in his left eye, and said it was the result of an old accident. He worked in an office, not in a drugstore. Atticus did not do the things our schoolmates’ fathers did: he never went hunting, he did not play poker or fish or drink or smoke. He sat in the living room and read.'",
-        "prompt": "Which choice best describes Scout’s attitude toward her father in the passage?",
-        "answerChoices": ["She is proud of him and admires his uniqueness.", "She is disappointed in him and wishes he were different.", "She is indifferent to him and does not care about his habits.", "She is embarrassed by him and avoids talking about him."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "Text 1: The development of new technologies has always been a driving force behind economic growth. From the invention of the steam engine to the rise of the internet, technological advancements have transformed industries and created new opportunities for businesses and workers. As we look to the future, it is clear that continued innovation will be essential for maintaining a competitive economy. Text 2: While technological advancements have undoubtedly brought about economic growth, they have also led to significant disruptions in the labor market. Automation and artificial intelligence, for example, have displaced many workers and created new challenges for those seeking employment. Policymakers must address these challenges to ensure that the benefits of technological progress are shared by all.",
-        "prompt": "How would the author of Text 2 most likely respond to the view of technological advancement presented in Text 1?",
-        "answerChoices": ["By agreeing that technological advancement is important but emphasizing the need to address its impact on the labor market", "By arguing that technological advancement has caused more harm than good", "By asserting that technological advancement is the primary driver of economic inequality", "By questioning the significance of technological advancement in driving economic growth"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is from 'The Adventures of Sherlock Holmes,' a collection of stories by Arthur Conan Doyle published in 1892. In this scene, Sherlock Holmes explains his reasoning to Dr. Watson. 'You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.' 'Frequently.' 'How often?' 'Well, some hundreds of times.' 'Then how many are there?' 'How many? I don’t know.' 'Quite so! You have not observed. And yet you have seen. That is just my point.'",
-        "prompt": "Which choice best describes Holmes’s attitude toward Watson in the passage?",
-        "answerChoices": ["He is frustrated by Watson’s lack of attention to detail.", "He is amused by Watson’s inability to answer his questions.", "He is indifferent to Watson’s responses.", "He is impressed by Watson’s observational skills."],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The following text is from 'Frankenstein,' a novel by Mary Shelley published in 1818. In this scene, the narrator, Victor Frankenstein, describes his feelings about the creature he has brought to life. 'I had worked hard for nearly two years, for the sole purpose of infusing life into an inanimate body. For this I had deprived myself of rest and health. I had desired it with an ardour that far exceeded moderation; but now that I had finished, the beauty of the dream vanished, and breathless horror and disgust filled my heart.'",
-        "prompt": "Which choice best describes Victor Frankenstein’s attitude toward the creature in the passage?",
-        "answerChoices": ["He is proud of his creation and eager to show it to others.", "He is horrified by his creation and regrets bringing it to life.", "He is indifferent to his creation and sees it as just another experiment.", "He is fascinated by his creation and wants to study it further."],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Text 1: The rise of e-commerce has transformed the retail industry. Online shopping has made it easier for consumers to compare prices, find deals, and purchase products from the comfort of their homes. As a result, many brick-and-mortar stores have struggled to compete with online retailers. However, some experts believe that traditional stores can still thrive by offering unique in-store experiences that cannot be replicated online. Text 2: While online shopping has become increasingly popular, it is important to recognize the value of brick-and-mortar stores. Physical stores provide customers with the opportunity to see and touch products before making a purchase, which can be especially important for certain types of goods. Additionally, in-store shopping can offer a sense of community and personal interaction that is often missing from online transactions.",
-        "prompt": "How would the author of Text 2 most likely respond to the view of online shopping presented in Text 1?",
-        "answerChoices": ["By agreeing that online shopping has advantages but emphasizing the importance of physical stores", "By arguing that online shopping is superior to in-store shopping", "By asserting that online shopping has no significant impact on the retail industry", "By questioning the convenience of online shopping"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is from 'The Odyssey,' an epic poem attributed to Homer, believed to have been composed in the 8th century BCE. In this scene, Odysseus describes his encounter with the Cyclops. 'We beached the ship on the shore and took a selection of my best fighters to go and find out what the men who live here—whether they are wild savages, without a law to bless them, or a hospitable and god-fearing people. We came to the cave, but the Cyclops was not at home. He was out shepherding, so we went inside and took stock of all we saw. His cheese racks were loaded with cheeses, and he had more lambs and kids than his pens could hold.'",
-        "prompt": "Which choice best describes Odysseus’s attitude toward the Cyclops in the passage?",
-        "answerChoices": ["He is curious about the Cyclops and wants to learn more about him.", "He is fearful of the Cyclops and wants to avoid him.", "He is indifferent to the Cyclops and sees him as just another obstacle.", "He is angry at the Cyclops for taking his men hostage."],
-        "correctAnswerIndex": 1
-    }, 
-    {
-        "passage": "The new museum exhibit showcases a collection of ancient artifacts that were recently discovered in a remote region. The artifacts, which include pottery, tools, and jewelry, provide valuable insights into the culture and daily life of the people who lived there thousands of years ago. Visitors to the exhibit can learn about the history and significance of each item through interactive displays and detailed descriptions. The exhibit has been praised for its educational value and its ability to make history come alive for audiences of all ages. However, some critics have raised concerns about the ethical implications of displaying artifacts that were removed from their original context.",
-        "prompt": "Which choice best describes the primary purpose of the passage?",
-        "answerChoices": ["To argue against the removal of artifacts from their original locations", "To provide an overview of a museum exhibit and its significance", "To explain the process of discovering and preserving ancient artifacts", "To discuss the challenges of curating a museum exhibit"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The researcher’s study on the effects of social media usage on mental health has sparked widespread debate. While some experts argue that excessive social media use can lead to increased anxiety and depression, others believe that the impact of social media on mental health is more complex and varies from person to person. The researcher’s findings suggest that social media can have both positive and negative effects, depending on how it is used and the individual’s personal circumstances. The study concludes that moderation and mindful usage are key to minimizing the potential negative effects of social media.",
-        "prompt": "Which choice best describes the tone of the passage?",
-        "answerChoices": ["Pessimistic and alarmist", "Neutral and balanced", "Optimistic and encouraging", "Skeptical and critical"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The recent advancements in artificial intelligence (AI) have the potential to revolutionize various industries. AI-powered technologies are already being used to improve efficiency, enhance customer experiences, and solve complex problems. However, some experts warn that the rapid development of AI also raises important ethical questions, such as the potential for job displacement and the need for responsible AI governance. As AI continues to evolve, it will be crucial to address these challenges and ensure that the benefits of AI are distributed equitably across society.",
-        "prompt": "Which choice best describes the main idea of the passage?",
-        "answerChoices": ["AI is the most important technological advancement of our time.", "AI has the potential to transform industries, but it also presents ethical challenges.", "AI will inevitably lead to widespread job displacement and economic inequality.", "AI should be regulated to prevent it from being used irresponsibly."],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The novel’s protagonist, a brilliant but reclusive scientist, is consumed by his quest to discover the secret to eternal life. His obsession drives him to conduct dangerous experiments, isolating himself from friends and family in the process. As he delves deeper into his research, he begins to lose touch with reality, eventually leading to his downfall. The author uses the protagonist’s story to explore themes of ambition, obsession, and the consequences of playing with forces beyond human control.",
-        "prompt": "Which choice best describes the protagonist’s character in the passage?",
-        "answerChoices": ["He is a misunderstood genius who is unfairly judged by society.", "He is a determined scientist whose ambition ultimately leads to his undoing.", "He is a well-meaning individual who is driven to madness by his research.", "He is a tragic hero whose downfall is caused by external forces beyond his control."],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The following text is from 'Pride and Prejudice,' a novel by Jane Austen published in 1813. In this scene, Elizabeth Bennet, the protagonist, reflects on her feelings after learning of Mr. Darcy’s role in resolving a family crisis. 'How despicably have I acted!' she cried; 'I, who have prided myself on my discernment! I, who have valued myself on my abilities! Who have often disdained the generous candor of my sister, and gratified my vanity in useless or blameable mistrust. How humiliating is this discovery! Yet, how just a humiliation! Had I been in love, I could not have been more wretchedly blind. But vanity, not love, has been my folly.'",
-        "prompt": "Which choice best describes Elizabeth Bennet’s attitude toward herself in the passage?",
-        "answerChoices": ["She is proud of her abilities and confident in her judgments.", "She is regretful and ashamed of her past behavior.", "She is indifferent to the consequences of her actions.", "She is angry at Mr. Darcy for deceiving her."],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "Text 1: The invention of the printing press in the 15th century revolutionized the way information was disseminated. For the first time, books could be mass-produced, making knowledge more accessible to a wider audience. The printing press played a key role in the spread of new ideas during the Renaissance and the Reformation, and it laid the foundation for the modern world. Text 2: While the printing press undoubtedly had a profound impact on society, it is important to recognize that not everyone benefited equally from this technological advancement. The increased availability of printed materials primarily benefited those who were already literate and had the means to purchase books. Additionally, the spread of printed materials sometimes led to the persecution of minority groups whose beliefs or practices were seen as threatening by those in power.",
-        "prompt": "How would the author of Text 2 most likely respond to the view of the printing press presented in Text 1?",
-        "answerChoices": ["By agreeing that the printing press was a positive development overall", "By arguing that the printing press had negative consequences for certain groups", "By questioning the significance of the printing press in shaping modern society", "By asserting that the printing press had little impact on the spread of ideas"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The following text is from 'Jane Eyre,' a novel by Charlotte Brontë published in 1847. In this scene, Jane Eyre, the protagonist, is confronted by her cousin, John Reed. 'You have no business to take our books; you are a dependent, mama says; you have no money; your father left you none; you ought to beg, and not to live here with gentlemen’s children like us, and eat the same meals we do, and wear clothes at our mama’s expense.'",
-        "prompt": "Which choice best describes John Reed’s attitude toward Jane in the passage?",
-        "answerChoices": ["He feels a sense of superiority over Jane and looks down on her.", "He is indifferent to Jane and her situation.", "He feels pity for Jane and tries to comfort her.", "He admires Jane’s strength and resilience."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The following text is from 'The Adventures of Sherlock Holmes,' a collection of stories by Arthur Conan Doyle published in 1892. In this scene, Sherlock Holmes explains his reasoning to Dr. Watson. 'You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.' 'Frequently.' 'How often?' 'Well, some hundreds of times.' 'Then how many are there?' 'How many? I don’t know.' 'Quite so! You have not observed. And yet you have seen. That is just my point.'",
-        "prompt": "Which choice best describes Holmes’s attitude toward Watson in the passage?",
-        "answerChoices": ["He is frustrated by Watson’s lack of attention to detail.", "He is amused by Watson’s inability to answer his questions.", "He is indifferent to Watson’s responses.", "He is impressed by Watson’s observational skills."],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The following text is from 'Frankenstein,' a novel by Mary Shelley published in 1818. In this scene, the narrator, Victor Frankenstein, describes his feelings about the creature he has brought to life. 'I had worked hard for nearly two years, for the sole purpose of infusing life into an inanimate body. For this I had deprived myself of rest and health. I had desired it with an ardour that far exceeded moderation; but now that I had finished, the beauty of the dream vanished, and breathless horror and disgust filled my heart.'",
-        "prompt": "Which choice best describes Victor Frankenstein’s attitude toward the creature in the passage?",
-        "answerChoices": ["He is proud of his creation and eager to show it to others.", "He is horrified by his creation and regrets bringing it to life.", "He is indifferent to his creation and sees it as just another experiment.", "He is fascinated by his creation and wants to study it further."],
-        "correctAnswerIndex": 2
-    }, 
-    {
-        "passage": "The company’s decision to expand its product line has been met with mixed reactions. While some customers are excited about the new offerings, others are concerned that the company is losing focus on its core products. The CEO has assured stakeholders that the expansion will not compromise the quality of the existing products. However, the success of this strategy remains to be ______.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["predicted", "celebrated", "seen", "ignored"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The research team’s findings have the potential to revolutionize the field of renewable energy. Their innovative approach to harnessing solar power could lead to more efficient and affordable energy solutions. However, some experts are skeptical about the feasibility of scaling up the technology for widespread use. The ______ surrounding the research highlights the need for further testing and development.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["optimism", "criticism", "enthusiasm", "uncertainty"],
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• In the midst of the US Civil War, Susie Taylor escaped slavery and fled to Union-army-occupied St. Simons Island off the Georgia coast.\n• She began working for an all-Black army regiment as a nurse and teacher.\n• In 1902, she published a book about the time she spent with the regiment.\n• Her book was the only Civil War memoir to be published by a Black woman.\n• It is still available to readers in print and online.",
+        "prompt": "The student wants to emphasize the uniqueness of Taylor’s accomplishment. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["Taylor fled to St. Simons Island, which was then occupied by the Union army, for whom she began working.", "After escaping slavery, Taylor began working for an all-Black army regiment as a nurse and teacher.", "The book Taylor wrote about the time she spent with the regiment is still available to readers in print and online.", "Taylor was the only Black woman to publish a Civil War memoir."],
         "correctAnswerIndex": 3
-    },
-    {
-        "passage": "The novel’s protagonist, a young woman struggling to find her place in the world, embarks on a journey of self-discovery. Along the way, she encounters various challenges that test her resilience and determination. The author’s vivid descriptions and compelling character development make the protagonist’s journey both relatable and ______.",
-        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-        "answerChoices": ["predictable", "moving", "confusing", "monotonous"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is from 'The Great Gatsby,' a novel by F. Scott Fitzgerald published in 1925. In this scene, the narrator, Nick Carraway, describes his impressions of Jay Gatsby, the mysterious and wealthy protagonist. 'He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it, that you may come across four or five times in life. It faced—or seemed to face—the whole external world for an instant, and then concentrated on you with an irresistible prejudice in your favor. It understood you just so far as you wanted to be understood, believed in you as you would like to believe in yourself.'",
-        "prompt": "Which choice best describes the tone of the passage?",
-        "answerChoices": ["Admiring and respectful", "Skeptical and doubtful", "Cynical and critical", "Indifferent and detached"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The following text is from 'To Kill a Mockingbird,' a novel by Harper Lee published in 1960. In this scene, the narrator, Scout Finch, reflects on her father, Atticus Finch, and his role in their community. 'When he was nearly fifty, my father, Atticus, was feeble: he was nearly blind in his left eye, and said it was the result of an old accident. He worked in an office, not in a drugstore. Atticus did not do the things our schoolmates’ fathers did: he never went hunting, he did not play poker or fish or drink or smoke. He sat in the living room and read.'",
-        "prompt": "Which choice best describes Scout’s attitude toward her father in the passage?",
-        "answerChoices": ["She is proud of him and admires his uniqueness.", "She is disappointed in him and wishes he were different.", "She is indifferent to him and does not care about his habits.", "She is embarrassed by him and avoids talking about him."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "Text 1: The development of new technologies has always been a driving force behind economic growth. From the invention of the steam engine to the rise of the internet, technological advancements have transformed industries and created new opportunities for businesses and workers. As we look to the future, it is clear that continued innovation will be essential for maintaining a competitive economy. Text 2: While technological advancements have undoubtedly brought about economic growth, they have also led to significant disruptions in the labor market. Automation and artificial intelligence, for example, have displaced many workers and created new challenges for those seeking employment. Policymakers must address these challenges to ensure that the benefits of technological progress are shared by all.",
-        "prompt": "How would the author of Text 2 most likely respond to the view of technological advancement presented in Text 1?",
-        "answerChoices": ["By agreeing that technological advancement is important but emphasizing the need to address its impact on the labor market", "By arguing that technological advancement has caused more harm than good", "By asserting that technological advancement is the primary driver of economic inequality", "By questioning the significance of technological advancement in driving economic growth"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The following text is from 'The Adventures of Sherlock Holmes,' a collection of stories by Arthur Conan Doyle published in 1892. In this scene, Sherlock Holmes explains his reasoning to Dr. Watson. 'You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.' 'Frequently.' 'How often?' 'Well, some hundreds of times.' 'Then how many are there?' 'How many? I don’t know.' 'Quite so! You have not observed. And yet you have seen. That is just my point.'",
-        "prompt": "Which choice best describes Holmes’s attitude toward Watson in the passage?",
-        "answerChoices": ["He is frustrated by Watson’s lack of attention to detail.", "He is amused by Watson’s inability to answer his questions.", "He is indifferent to Watson’s responses.", "He is impressed by Watson’s observational skills."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is from 'Frankenstein,' a novel by Mary Shelley published in 1818. In this scene, the narrator, Victor Frankenstein, describes his feelings about the creature he has brought to life. 'I had worked hard for nearly two years, for the sole purpose of infusing life into an inanimate body. For this I had deprived myself of rest and health. I had desired it with an ardour that far exceeded moderation; but now that I had finished, the beauty of the dream vanished, and breathless horror and disgust filled my heart.'",
-        "prompt": "Which choice best describes Victor Frankenstein’s attitude toward the creature in the passage?",
-        "answerChoices": ["He is proud of his creation and eager to show it to others.", "He is horrified by his creation and regrets bringing it to life.", "He is indifferent to his creation and sees it as just another experiment.", "He is fascinated by his creation and wants to study it further."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "Text 1: The rise of e-commerce has transformed the retail industry. Online shopping has made it easier for consumers to compare prices, find deals, and purchase products from the comfort of their homes. As a result, many brick-and-mortar stores have struggled to compete with online retailers. However, some experts believe that traditional stores can still thrive by offering unique in-store experiences that cannot be replicated online. Text 2: While online shopping has become increasingly popular, it is important to recognize the value of brick-and-mortar stores. Physical stores provide customers with the opportunity to see and touch products before making a purchase, which can be especially important for certain types of goods. Additionally, in-store shopping can offer a sense of community and personal interaction that is often missing from online transactions.",
-        "prompt": "How would the author of Text 2 most likely respond to the view of online shopping presented in Text 1?",
-        "answerChoices": ["By agreeing that online shopping has advantages but emphasizing the importance of physical stores", "By arguing that online shopping is superior to in-store shopping", "By asserting that online shopping has no significant impact on the retail industry", "By questioning the convenience of online shopping"],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The following text is from 'The Odyssey,' an epic poem attributed to Homer, believed to have been composed in the 8th century BCE. In this scene, Odysseus describes his encounter with the Cyclops. 'We beached the ship on the shore and took a selection of my best fighters to go and find out what the men who live here—whether they are wild savages, without a law to bless them, or a hospitable and god-fearing people. We came to the cave, but the Cyclops was not at home. He was out shepherding, so we went inside and took stock of all we saw. His cheese racks were loaded with cheeses, and he had more lambs and kids than his pens could hold.'",
-        "prompt": "Which choice best describes Odysseus’s attitude toward the Cyclops in the passage?",
-        "answerChoices": ["He is curious about the Cyclops and wants to learn more about him.", "He is fearful of the Cyclops and wants to avoid him.", "He is indifferent to the Cyclops and sees him as just another obstacle.", "He is angry at the Cyclops for taking his men hostage."],
-        "correctAnswerIndex": 0
-    }, 
-    {
-        "passage": "The new museum exhibit showcases a collection of ancient artifacts that were recently discovered in a remote region. The artifacts, which include pottery, tools, and jewelry, provide valuable insights into the culture and daily life of the people who lived there thousands of years ago. Visitors to the exhibit can learn about the history and significance of each item through interactive displays and detailed descriptions. The exhibit has been praised for its educational value and its ability to make history come alive for audiences of all ages. However, some critics have raised concerns about the ethical implications of displaying artifacts that were removed from their original context.",
-        "prompt": "Which choice best describes the primary purpose of the passage?",
-        "answerChoices": ["To argue against the removal of artifacts from their original locations", "To provide an overview of a museum exhibit and its significance", "To explain the process of discovering and preserving ancient artifacts", "To discuss the challenges of curating a museum exhibit"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The researcher’s study on the effects of social media usage on mental health has sparked widespread debate. While some experts argue that excessive social media use can lead to increased anxiety and depression, others believe that the impact of social media on mental health is more complex and varies from person to person. The researcher’s findings suggest that social media can have both positive and negative effects, depending on how it is used and the individual’s personal circumstances. The study concludes that moderation and mindful usage are key to minimizing the potential negative effects of social media.",
-        "prompt": "Which choice best describes the tone of the passage?",
-        "answerChoices": ["Pessimistic and alarmist", "Neutral and balanced", "Optimistic and encouraging", "Skeptical and critical"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The recent advancements in artificial intelligence (AI) have the potential to revolutionize various industries. AI-powered technologies are already being used to improve efficiency, enhance customer experiences, and solve complex problems. However, some experts warn that the rapid development of AI also raises important ethical questions, such as the potential for job displacement and the need for responsible AI governance. As AI continues to evolve, it will be crucial to address these challenges and ensure that the benefits of AI are distributed equitably across society.",
-        "prompt": "Which choice best describes the main idea of the passage?",
-        "answerChoices": ["AI is the most important technological advancement of our time.", "AI has the potential to transform industries, but it also presents ethical challenges.", "AI will inevitably lead to widespread job displacement and economic inequality.", "AI should be regulated to prevent it from being used irresponsibly."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The novel’s protagonist, a brilliant but reclusive scientist, is consumed by his quest to discover the secret to eternal life. His obsession drives him to conduct dangerous experiments, isolating himself from friends and family in the process. As he delves deeper into his research, he begins to lose touch with reality, eventually leading to his downfall. The author uses the protagonist’s story to explore themes of ambition, obsession, and the consequences of playing with forces beyond human control.",
-        "prompt": "Which choice best describes the protagonist’s character in the passage?",
-        "answerChoices": ["He is a misunderstood genius who is unfairly judged by society.", "He is a determined scientist whose ambition ultimately leads to his undoing.", "He is a well-meaning individual who is driven to madness by his research.", "He is a tragic hero whose downfall is caused by external forces beyond his control."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is from 'Pride and Prejudice,' a novel by Jane Austen published in 1813. In this scene, Elizabeth Bennet, the protagonist, reflects on her feelings after learning of Mr. Darcy’s role in resolving a family crisis. 'How despicably have I acted!' she cried; 'I, who have prided myself on my discernment! I, who have valued myself on my abilities! Who have often disdained the generous candor of my sister, and gratified my vanity in useless or blameable mistrust. How humiliating is this discovery! Yet, how just a humiliation! Had I been in love, I could not have been more wretchedly blind. But vanity, not love, has been my folly.'",
-        "prompt": "Which choice best describes Elizabeth Bennet’s attitude toward herself in the passage?",
-        "answerChoices": ["She is proud of her abilities and confident in her judgments.", "She is regretful and ashamed of her past behavior.", "She is indifferent to the consequences of her actions.", "She is angry at Mr. Darcy for deceiving her."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "Text 1: The invention of the printing press in the 15th century revolutionized the way information was disseminated. For the first time, books could be mass-produced, making knowledge more accessible to a wider audience. The printing press played a key role in the spread of new ideas during the Renaissance and the Reformation, and it laid the foundation for the modern world. Text 2: While the printing press undoubtedly had a profound impact on society, it is important to recognize that not everyone benefited equally from this technological advancement. The increased availability of printed materials primarily benefited those who were already literate and had the means to purchase books. Additionally, the spread of printed materials sometimes led to the persecution of minority groups whose beliefs or practices were seen as threatening by those in power.",
-        "prompt": "How would the author of Text 2 most likely respond to the view of the printing press presented in Text 1?",
-        "answerChoices": ["By agreeing that the printing press was a positive development overall", "By arguing that the printing press had negative consequences for certain groups", "By questioning the significance of the printing press in shaping modern society", "By asserting that the printing press had little impact on the spread of ideas"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is from 'Jane Eyre,' a novel by Charlotte Brontë published in 1847. In this scene, Jane Eyre, the protagonist, is confronted by her cousin, John Reed. 'You have no business to take our books; you are a dependent, mama says; you have no money; your father left you none; you ought to beg, and not to live here with gentlemen’s children like us, and eat the same meals we do, and wear clothes at our mama’s expense.'",
-        "prompt": "Which choice best describes John Reed’s attitude toward Jane in the passage?",
-        "answerChoices": ["He feels a sense of superiority over Jane and looks down on her.", "He is indifferent to Jane and her situation.", "He feels pity for Jane and tries to comfort her.", "He admires Jane’s strength and resilience."],
-        "correctAnswerIndex": 0
-    },
-    {
-        "passage": "The following text is from 'The Adventures of Sherlock Holmes,' a collection of stories by Arthur Conan Doyle published in 1892. In this scene, Sherlock Holmes explains his reasoning to Dr. Watson. 'You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.' 'Frequently.' 'How often?' 'Well, some hundreds of times.' 'Then how many are there?' 'How many? I don’t know.' 'Quite so! You have not observed. And yet you have seen. That is just my point.'",
-        "prompt": "Which choice best describes Holmes’s attitude toward Watson in the passage?",
-        "answerChoices": ["He is frustrated by Watson’s lack of attention to detail.", "He is amused by Watson’s inability to answer his questions.", "He is indifferent to Watson’s responses.", "He is impressed by Watson’s observational skills."],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The following text is from 'Frankenstein,' a novel by Mary Shelley published in 1818. In this scene, the narrator, Victor Frankenstein, describes his feelings about the creature he has brought to life. 'I had worked hard for nearly two years, for the sole purpose of infusing life into an inanimate body. For this I had deprived myself of rest and health. I had desired it with an ardour that far exceeded moderation; but now that I had finished, the beauty of the dream vanished, and breathless horror and disgust filled my heart.'",
-        "prompt": "Which choice best describes Victor Frankenstein’s attitude toward the creature in the passage?",
-        "answerChoices": ["He is proud of his creation and eager to show it to others.", "He is horrified by his creation and regrets bringing it to life.", "He is indifferent to his creation and sees it as just another experiment.", "He is fascinated by his creation and wants to study it further."],
-        "correctAnswerIndex": 1
     }
-    
     
 ]
