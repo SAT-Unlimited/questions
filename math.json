@@ -78,12 +78,6 @@
         "correctAnswerIndex": 2
     },
     {
-        "passage": "A printer produces posters at a constant rate of 42 posters per minute. How many posters will the printer produce in one hour?",
-        "prompt": "Calculate the number of posters produced in one hour.",
-        "answerChoices": ["2,520", "2,000", "2,400", "2,460"],
-        "correctAnswerIndex": 0
-    },
-    {
         "passage": "The function f(x) is defined by f(x) = 7x + 2. What is the value of f(x) when x = 4?",
         "prompt": "Determine the value of f(x) when x = 4.",
         "answerChoices": ["14", "16", "28", "30"],
@@ -167,12 +161,6 @@
         "answerChoices": ["40", "43", "45", "55"],
         "correctAnswerIndex": 2
     },
-    {
-        "passage": "For the right triangle shown, a = 4 and b = 5. Which expression represents the value of c?",
-        "prompt": "Determine the value of c.",
-        "answerChoices": ["4 + 5", "(4)(5)", "√(4^2 + 5^2)", "4 + 5^2"],
-        "correctAnswerIndex": 2
-    }, 
     {
         "passage": "A cube has an edge length of 68 inches. A solid sphere with a radius of 34 inches is inside the cube, such that the sphere touches the center of each face of the cube. To the nearest cubic inch, what is the volume of the space in the cube not taken up by the sphere?",
         "prompt": "Calculate the volume of the space in the cube not taken up by the sphere.",
