@@ -114,18 +114,6 @@
         "correctAnswerIndex": 1
     },
     {
-        "passage": "Which of the following equations is the most appropriate linear model for the data shown in the scatterplot?",
-        "prompt": "Select the correct linear model.",
-        "answerChoices": ["y = -1.9x - 10.1", "y = -1.9x + 10.1", "y = 1.9x - 10.1", "y = 1.9x + 10.1"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The graph of y = f(x) is shown, where the function f is defined by f(x) = ax^3 + bx^2 + cx + d, and a, b, c, and d are constants. For how many values of x does f(x) = 0?",
-        "prompt": "Determine the number of values of x for which f(x) = 0.",
-        "answerChoices": ["One", "Two", "Three", "Four"],
-        "correctAnswerIndex": 2
-    }, 
-    {
         "passage": "The total cost, in dollars, to rent a surfboard consists of a $25 service fee and a $10 per hour rental fee. A person rents a surfboard for t hours and intends to spend a maximum of $75 to rent the surfboard. Which inequality represents this situation?",
         "prompt": "Determine the correct inequality that represents the situation.",
         "answerChoices": ["10t ≤ 75", "10 + 25t ≤ 75", "25t ≤ 75", "25 + 10t ≤ 75"],
@@ -185,12 +173,6 @@
         "answerChoices": ["4 + 5", "(4)(5)", "√(4^2 + 5^2)", "4 + 5^2"],
         "correctAnswerIndex": 2
     }, 
-    {
-        "passage": "If 4x - 4 = 112, what is the positive value of x - 1?",
-        "prompt": "Find the positive value of x - 1.",
-        "answerChoices": ["3", "12", "24", "108"],
-        "correctAnswerIndex": 2
-    },
     {
         "passage": "A cube has an edge length of 68 inches. A solid sphere with a radius of 34 inches is inside the cube, such that the sphere touches the center of each face of the cube. To the nearest cubic inch, what is the volume of the space in the cube not taken up by the sphere?",
         "prompt": "Calculate the volume of the space in the cube not taken up by the sphere.",
