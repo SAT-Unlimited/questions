@@ -184,5 +184,203 @@
         "prompt": "Select the correct equation representing the model.",
         "answerChoices": ["n = 72(1.5)^t", "n = 72(2.5)^t", "n = 180(1.5)^t", "n = 180(2.5)^t"],
         "correctAnswerIndex": 2
+    }, 
+    {
+        "passage": "What is the diameter of the circle in the xy-plane with equation (x - 5)^2 + (y - 3)^2 = 16?",
+        "prompt": "Find the diameter of the circle.",
+        "answerChoices": ["4", "8", "16", "32"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "A cube has an edge length of 68 inches. A solid sphere with a radius of 34 inches is inside the cube, such that the sphere touches the center of each face of the cube. To the nearest cubic inch, what is the volume of the space in the cube not taken up by the sphere?",
+        "prompt": "Calculate the volume of the space in the cube not taken up by the sphere.",
+        "answerChoices": ["149,796", "164,500", "190,955", "310,800"],
+        "correctAnswerIndex": 2
+    }, 
+    {
+        "passage": "If 5x + 3 = 18, what is the value of x?",
+        "prompt": "Solve for x.",
+        "answerChoices": ["2", "3", "4", "5"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "A circle has a radius of 7 units. What is the area of the circle?",
+        "prompt": "Calculate the area of the circle.",
+        "answerChoices": ["49π", "14π", "21π", "28π"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "If x^2 - 6x + 9 = 0, what is the value of x?",
+        "prompt": "Solve for x.",
+        "answerChoices": ["0", "2", "3", "6"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The product of two numbers is 36, and their sum is 13. What are the two numbers?",
+        "prompt": "Find the two numbers.",
+        "answerChoices": ["4 and 9", "3 and 12", "6 and 6", "7 and 6"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "If the equation of a line is y = -3x + 5, what is the y-intercept of the line?",
+        "prompt": "Find the y-intercept.",
+        "answerChoices": ["-3", "3", "5", "-5"],
+        "correctAnswerIndex": 2
+    }, 
+    {
+        "passage": "The function g is defined by g(x) = x^2 + 9. For which value of x is g(x) = 25?",
+        "prompt": "Determine the value of x when g(x) = 25.",
+        "answerChoices": ["4", "5", "9", "13"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The total cost, in dollars, to rent a surfboard consists of a $25 service fee and a $10 per hour rental fee. A person rents a surfboard for t hours and intends to spend a maximum of $75 to rent the surfboard. Which inequality represents this situation?",
+        "prompt": "Determine the correct inequality that represents the situation.",
+        "answerChoices": ["10t ≤ 75", "10 + 25t ≤ 75", "25t ≤ 75", "25 + 10t ≤ 75"],
+        "correctAnswerIndex": 3
+    }, 
+    {
+        "passage": "A right triangle has legs of lengths 24 centimeters and 21 centimeters. What is the length of the hypotenuse?",
+        "prompt": "Calculate the length of the hypotenuse.",
+        "answerChoices": ["25", "29", "113", "37"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "If 6x + y = 22, what is the value of y when x = 3?",
+        "prompt": "Solve for y.",
+        "answerChoices": ["3", "4", "5", "7"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The area of a rectangle is given by A = lw, where l is the length of the rectangle and w is its width. The length of the rectangle is 34 centimeters and the width is 29 centimeters. What is the area of the rectangle?",
+        "prompt": "Calculate the area of the rectangle.",
+        "answerChoices": ["863", "986", "989", "1020"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "If y = 4x + 1, what is the value of x - y when x = 4?",
+        "prompt": "Calculate the value of x - y.",
+        "answerChoices": ["-7", "-15", "-17", "-19"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Which of the following represents the equation of a line with a slope of 3 and a y-intercept of -2?",
+        "prompt": "Select the correct equation of the line.",
+        "answerChoices": ["y = 3x + 2", "y = -3x - 2", "y = 3x - 2", "y = -3x + 2"],
+        "correctAnswerIndex": 2
+    }, 
+    {
+        "passage": "A car rental company charges a daily rental fee of $50 and an additional fee of $0.25 per mile driven. If a customer rents a car and drives it for x miles, which of the following equations represents the total cost, in dollars, of the rental?",
+        "prompt": "Select the correct equation representing the total cost.",
+        "answerChoices": ["C = 50x + 0.25", "C = 0.25x + 50", "C = 0.25x - 50", "C = 50x - 0.25"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "If 4x - 6 = 18, what is the value of x?",
+        "prompt": "Solve for x.",
+        "answerChoices": ["2", "3", "4", "6"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The length of a rectangle is 3 times its width. If the perimeter of the rectangle is 64 centimeters, what is the width of the rectangle?",
+        "prompt": "Calculate the width of the rectangle.",
+        "answerChoices": ["8 cm", "12 cm", "16 cm", "20 cm"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Which of the following expressions is equivalent to (x^2 + 6x + 9)?",
+        "prompt": "Select the correct equivalent expression.",
+        "answerChoices": ["(x + 3)^2", "(x - 3)^2", "(x + 9)^2", "(x - 9)^2"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "A function f(x) is defined as f(x) = 2x - 3. What is the value of f(5)?",
+        "prompt": "Calculate the value of f(5).",
+        "answerChoices": ["7", "8", "9", "10"],
+        "correctAnswerIndex": 3
+    }, 
+    {
+        "passage": "Vivian bought party hats and cupcakes for $71. Each package of party hats costs $3, and each cupcake costs $1. If Vivian bought 10 packages of party hats, how many cupcakes did she buy?",
+        "prompt": "Determine the number of cupcakes Vivian bought.",
+        "answerChoices": ["31", "41", "51", "61"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "z^2 + 10z - 24 = 0. What is one of the solutions to the given equation?",
+        "prompt": "Find one of the solutions.",
+        "answerChoices": ["-12", "2", "-2", "12"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Bacteria are growing in a liquid growth medium. There were 300,000 cells per milliliter during an initial observation. The number of cells per milliliter doubles every 3 hours. How many cells per milliliter will there be 15 hours after the initial observation?",
+        "prompt": "Calculate the number of cells per milliliter 15 hours after the initial observation.",
+        "answerChoices": ["1,500,000", "2,400,000", "4,500,000", "9,600,000"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "Which expression is equivalent to x^2 + 12x + 36?",
+        "prompt": "Select the correct equivalent expression.",
+        "answerChoices": ["(x + 6)^2", "(x - 6)^2", "(x + 18)^2", "(x - 18)^2"],
+        "correctAnswerIndex": 0
+    }, 
+    {
+        "passage": "If 4x - 6 = 18, what is the value of x?",
+        "prompt": "Solve for x.",
+        "answerChoices": ["2", "3", "4", "6"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The length of a rectangle is 3 times its width. If the perimeter of the rectangle is 64 centimeters, what is the width of the rectangle?",
+        "prompt": "Calculate the width of the rectangle.",
+        "answerChoices": ["8 cm", "12 cm", "16 cm", "20 cm"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Which of the following expressions is equivalent to (x^2 + 12x + 36)?",
+        "prompt": "Select the correct equivalent expression.",
+        "answerChoices": ["(x + 6)^2", "(x - 6)^2", "(x + 9)^2", "(x - 9)^2"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "A function f(x) is defined as f(x) = 2x - 3. What is the value of f(5)?",
+        "prompt": "Calculate the value of f(5).",
+        "answerChoices": ["7", "8", "9", "10"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "Line p is defined by 2 + y = 18x. Line r is perpendicular to line p in the xy-plane. What is the slope of line r?",
+        "prompt": "Determine the slope of line r.",
+        "answerChoices": ["-9", "-1/9", "1/9", "9"],
+        "correctAnswerIndex": 2
+    }, 
+    {
+        "passage": "The number a is 110% greater than the number b. The number b is 90% less than 47. What is the value of a?",
+        "prompt": "Calculate the value of a.",
+        "answerChoices": ["8.7", "9.87", "10.87", "11.87"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Two data sets of 23 integers each are summarized in histograms. What is the smallest possible difference between the mean of data set A and the mean of data set B?",
+        "prompt": "Calculate the smallest possible difference between the means.",
+        "answerChoices": ["0", "1", "10", "23"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "A right triangle has legs with lengths of 24 centimeters and 21 centimeters. If the length of this triangle’s hypotenuse can be written in the form 3√d, what is the value of d?",
+        "prompt": "Calculate the value of d.",
+        "answerChoices": ["7", "11", "15", "21"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "What is the area, in square centimeters, of a rectangle with a length of 34 centimeters and a width of 29 centimeters?",
+        "prompt": "Calculate the area of the rectangle.",
+        "answerChoices": ["846", "986", "1124", "1236"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "A park has an area of 11,863,808 square yards. What is the area, in square miles, of this park? (1 mile = 1,760 yards)",
+        "prompt": "Calculate the area of the park in square miles.",
+        "answerChoices": ["1.96", "3.83", "6.74", "10.5"],
+        "correctAnswerIndex": 1
     }
 ]
