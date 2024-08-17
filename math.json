@@ -297,7 +297,7 @@
         "passage": "A function f(x) is defined as f(x) = 2x - 3. What is the value of f(5)?",
         "prompt": "Calculate the value of f(5).",
         "answerChoices": ["7", "8", "9", "10"],
-        "correctAnswerIndex": 3
+        "correctAnswerIndex": 0
     }, 
     {
         "passage": "Vivian bought party hats and cupcakes for $71. Each package of party hats costs $3, and each cupcake costs $1. If Vivian bought 10 packages of party hats, how many cupcakes did she buy?",
