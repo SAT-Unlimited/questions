@@ -12,129 +12,207 @@
         "correctAnswerIndex": 0
     },
     {
-        "passage": "Tilly earns p dollars for every w hours of work. How much money does Tilly earn for 39w hours of work?",
-        "prompt": "Calculate the amount of money Tilly earns for 39w hours of work.",
-        "answerChoices": ["39p", "p/w", "w/39", "p-39"],
+        "passage": "The total cost, in dollars, to rent a surfboard consists of a $25 service fee and a $10 per hour rental fee. A person rents a surfboard for t hours and intends to spend a maximum of $75 to rent the surfboard. Which inequality represents this situation?",
+        "prompt": "Determine the correct inequality that represents the situation.",
+        "answerChoices": ["10t ≤ 75", "10 + 25t ≤ 75", "25t ≤ 75", "25 + 10t ≤ 75"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The function g is defined by g(x) = x^2 + 9. For which value of x is g(x) = 25?",
+        "prompt": "Determine the value of x when g(x) = 25.",
+        "answerChoices": ["4", "5", "9", "13"],
         "correctAnswerIndex": 0
     },
     {
-        "passage": "Juan rides his bike at an average rate of 5.7 minutes per mile. How many minutes will it take Juan to ride x miles?",
-        "prompt": "Calculate the number of minutes it will take Juan to ride x miles.",
-        "answerChoices": ["5.7/x", "x/5.7", "5.7x", "x-5.7"],
+        "passage": "Each face of a fair 14-sided die is labeled with a number from 1 through 14, with a different number appearing on each face. If the die is rolled one time, what is the probability of rolling a 2?",
+        "prompt": "Calculate the probability of rolling a 2.",
+        "answerChoices": ["1/14", "2/14", "12/14", "13/14"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "A printer produces posters at a constant rate of 42 posters per minute. At what rate, in posters per hour, does the printer produce the posters?",
+        "prompt": "Calculate the rate in posters per hour.",
+        "answerChoices": ["2,520", "2,000", "2,400", "2,460"],
+        "correctAnswerIndex": 0
+    }, 
+    {
+        "passage": "The total cost, in dollars, to rent a surfboard consists of a $25 service fee and a $10 per hour rental fee. A person rents a surfboard for t hours and intends to spend a maximum of $75 to rent the surfboard. Which inequality represents this situation?",
+        "prompt": "Determine the correct inequality that represents the situation.",
+        "answerChoices": ["10t ≤ 75", "10 + 25t ≤ 75", "25t ≤ 75", "25 + 10t ≤ 75"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The function g is defined by g(x) = x^2 + 9. For which value of x is g(x) = 25?",
+        "prompt": "Determine the value of x when g(x) = 25.",
+        "answerChoices": ["4", "5", "9", "13"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Each face of a fair 14-sided die is labeled with a number from 1 through 14, with a different number appearing on each face. If the die is rolled one time, what is the probability of rolling a 2?",
+        "prompt": "Calculate the probability of rolling a 2.",
+        "answerChoices": ["1/14", "2/14", "12/14", "13/14"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "A printer produces posters at a constant rate of 42 posters per minute. At what rate, in posters per hour, does the printer produce the posters?",
+        "prompt": "Calculate the rate in posters per hour.",
+        "answerChoices": ["2,520", "2,000", "2,400", "2,460"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The function f is defined by f(x) = 7x + 2. What is the value of f(x) when x = 4?",
+        "prompt": "Determine the value of f(x) when x = 4.",
+        "answerChoices": ["14", "16", "28", "30"],
+        "correctAnswerIndex": 3
+    }, 
+    {
+        "passage": "The perimeter of an equilateral triangle is 624 centimeters. The height of this triangle is k√3 centimeters, where k is a constant. What is the value of k?",
+        "prompt": "Calculate the value of k.",
+        "answerChoices": ["52", "104", "208", "312"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "What is the value of n in the equation x^2 - 34x + n = 0 if the equation has no real solutions?",
+        "prompt": "Find the least possible value of n.",
+        "answerChoices": ["481/4", "100", "319/4", "9/2"],
         "correctAnswerIndex": 2
     },
     {
-        "passage": "If 3x - 2 = 4x + 1, what is the value of x?",
+        "passage": "A printer produces posters at a constant rate of 42 posters per minute. How many posters will the printer produce in one hour?",
+        "prompt": "Calculate the number of posters produced in one hour.",
+        "answerChoices": ["2,520", "2,000", "2,400", "2,460"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The function f(x) is defined by f(x) = 7x + 2. What is the value of f(x) when x = 4?",
+        "prompt": "Determine the value of f(x) when x = 4.",
+        "answerChoices": ["14", "16", "28", "30"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "What is the solution to the system of equations 3x - 2 = 4x + 1?",
         "prompt": "Solve for x.",
         "answerChoices": ["-3", "-1", "1", "3"],
         "correctAnswerIndex": 1
     }, 
     {
-        "passage": "4x + 6 = 18. What is the value of x?",
-        "prompt": "Solve for x.",
-        "answerChoices": ["2", "3", "4", "6"],
-        "correctAnswerIndex": 0
+        "passage": "A teacher is creating an assignment worth 70 points. The assignment will consist of questions worth 1 point and questions worth 3 points. Which equation represents this situation, where x represents the number of 1-point questions and y represents the number of 3-point questions?",
+        "prompt": "Determine the correct equation.",
+        "answerChoices": ["4xy = 70", "4(x + y) = 70", "3x + y = 70", "x + 3y = 70"],
+        "correctAnswerIndex": 3
     },
     {
-        "passage": "The equation of a circle is (x - 2)^2 + (y + 3)^2 = 16. What is the radius of the circle?",
-        "prompt": "Find the radius of the circle.",
-        "answerChoices": ["2", "3", "4", "5"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A right triangle has legs of length 6 and 8. What is the length of the hypotenuse?",
-        "prompt": "Find the length of the hypotenuse.",
-        "answerChoices": ["8", "10", "12", "14"],
+        "passage": "Right triangles LMN and PQR are similar, where L and M correspond to P and Q, respectively. Angle M has a measure of 53°. What is the measure of angle Q?",
+        "prompt": "Determine the measure of angle Q.",
+        "answerChoices": ["37°", "53°", "127°", "143°"],
         "correctAnswerIndex": 1
     },
     {
-        "passage": "The perimeter of an equilateral triangle is 624 centimeters. The height of this triangle is k√3 centimeters, where k is a constant. What is the value of k?",
-        "prompt": "Calculate the value of k.",
-        "answerChoices": ["52", "104", "208", "312"],
+        "passage": "The solution to the given system of equations is (x, y). What is the value of x if y = -3x + 15 and 4x + y = 15?",
+        "prompt": "Find the value of x.",
+        "answerChoices": ["1", "5", "15", "45"],
         "correctAnswerIndex": 1
     },
     {
-        "passage": "The function f(x) is defined as f(x) = 3x + 2. What is the value of f(4)?",
-        "prompt": "Calculate the value of f(4).",
-        "answerChoices": ["12", "14", "16", "18"],
-        "correctAnswerIndex": 2
+        "passage": "Which of the following equations is the most appropriate linear model for the data shown in the scatterplot?",
+        "prompt": "Select the correct linear model.",
+        "answerChoices": ["y = -1.9x - 10.1", "y = -1.9x + 10.1", "y = 1.9x - 10.1", "y = 1.9x + 10.1"],
+        "correctAnswerIndex": 1
     },
     {
-        "passage": "If 5x + 3 = 18, what is the value of x?",
-        "prompt": "Solve for x.",
-        "answerChoices": ["2", "3", "4", "5"],
-        "correctAnswerIndex": 0
+        "passage": "The graph of y = f(x) is shown, where the function f is defined by f(x) = ax^3 + bx^2 + cx + d, and a, b, c, and d are constants. For how many values of x does f(x) = 0?",
+        "prompt": "Determine the number of values of x for which f(x) = 0.",
+        "answerChoices": ["One", "Two", "Three", "Four"],
+        "correctAnswerIndex": 2
     }, 
     {
-        "passage": "The equation of a circle is (x - 2)^2 + (y + 3)^2 = 16. What is the radius of the circle?",
-        "prompt": "Find the radius of the circle.",
-        "answerChoices": ["2", "3", "4", "5"],
-        "correctAnswerIndex": 2
+        "passage": "The total cost, in dollars, to rent a surfboard consists of a $25 service fee and a $10 per hour rental fee. A person rents a surfboard for t hours and intends to spend a maximum of $75 to rent the surfboard. Which inequality represents this situation?",
+        "prompt": "Determine the correct inequality that represents the situation.",
+        "answerChoices": ["10t ≤ 75", "10 + 25t ≤ 75", "25t ≤ 75", "25 + 10t ≤ 75"],
+        "correctAnswerIndex": 3
     },
     {
-        "passage": "A right triangle has legs of length 6 and 8. What is the length of the hypotenuse?",
-        "prompt": "Find the length of the hypotenuse.",
-        "answerChoices": ["8", "10", "12", "14"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The perimeter of an equilateral triangle is 624 centimeters. The height of this triangle is k√3 centimeters, where k is a constant. What is the value of k?",
-        "prompt": "Calculate the value of k.",
-        "answerChoices": ["52", "104", "208", "312"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "If x^2 - 6x + 9 = 0, what is the value of x?",
-        "prompt": "Solve for x.",
-        "answerChoices": ["0", "2", "3", "6"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The sum of two numbers is 20, and their difference is 4. What are the two numbers?",
-        "prompt": "Find the two numbers.",
-        "answerChoices": ["8 and 12", "10 and 14", "9 and 11", "12 and 16"],
+        "passage": "The function g is defined by g(x) = x^2 + 9. For which value of x is g(x) = 25?",
+        "prompt": "Determine the value of x when g(x) = 25.",
+        "answerChoices": ["4", "5", "9", "13"],
         "correctAnswerIndex": 0
     },
     {
-        "passage": "If the slope of a line is 3 and the y-intercept is -2, what is the equation of the line?",
-        "prompt": "Write the equation of the line in the form y = mx + b.",
-        "answerChoices": ["y = 3x - 2", "y = -3x + 2", "y = 2x + 3", "y = -2x - 3"],
+        "passage": "Each face of a fair 14-sided die is labeled with a number from 1 through 14, with a different number appearing on each face. If the die is rolled one time, what is the probability of rolling a 2?",
+        "prompt": "Calculate the probability of rolling a 2.",
+        "answerChoices": ["1/14", "2/14", "12/14", "13/14"],
         "correctAnswerIndex": 0
+    },
+    {
+        "passage": "A printer produces posters at a constant rate of 42 posters per minute. How many posters will the printer produce in one hour?",
+        "prompt": "Calculate the number of posters produced in one hour.",
+        "answerChoices": ["2,520", "2,000", "2,400", "2,460"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The function f is defined by f(x) = 7x + 2. What is the value of f(x) when x = 4?",
+        "prompt": "Determine the value of f(x) when x = 4.",
+        "answerChoices": ["14", "16", "28", "30"],
+        "correctAnswerIndex": 3
     }, 
     {
-        "passage": "The equation of a circle is (x - 2)^2 + (y + 3)^2 = 16. What is the radius of the circle?",
-        "prompt": "Find the radius of the circle.",
-        "answerChoices": ["2", "3", "4", "5"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "A right triangle has legs of length 6 and 8. What is the length of the hypotenuse?",
-        "prompt": "Find the length of the hypotenuse.",
-        "answerChoices": ["8", "10", "12", "14"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "The perimeter of an equilateral triangle is 624 centimeters. The height of this triangle is k√3 centimeters, where k is a constant. What is the value of k?",
-        "prompt": "Calculate the value of k.",
-        "answerChoices": ["52", "104", "208", "312"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "passage": "If x^2 - 6x + 9 = 0, what is the value of x?",
-        "prompt": "Solve for x.",
-        "answerChoices": ["0", "2", "3", "6"],
-        "correctAnswerIndex": 2
-    },
-    {
-        "passage": "The sum of two numbers is 20, and their difference is 4. What are the two numbers?",
-        "prompt": "Find the two numbers.",
-        "answerChoices": ["8 and 12", "10 and 14", "9 and 11", "12 and 16"],
+        "passage": "Tilly earns p dollars for every w hours of work. Which expression represents the amount of money, in dollars, Tilly earns for 39w hours of work?",
+        "prompt": "Determine the correct expression.",
+        "answerChoices": ["39p", "p/39", "p + 39", "p - 39"],
         "correctAnswerIndex": 0
     },
     {
-        "passage": "If the slope of a line is 3 and the y-intercept is -2, what is the equation of the line?",
-        "prompt": "Write the equation of the line in the form y = mx + b.",
-        "answerChoices": ["y = 3x - 2", "y = -3x + 2", "y = 2x + 3", "y = -2x - 3"],
+        "passage": "For a training program, Juan rides his bike at an average rate of 5.7 minutes per mile. Which function m models the number of minutes it will take Juan to ride x miles at this rate?",
+        "prompt": "Select the correct function that models the situation.",
+        "answerChoices": ["m(x) = 5.7/x", "m(x) = x + 5.7", "m(x) = x - 5.7", "m(x) = 5.7x"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "x^3 = 12, x - y + 3 = -6. The solution to the given system of equations is (x, y). What is the value of y?",
+        "prompt": "Determine the value of y.",
+        "answerChoices": ["-3", "6", "18", "30"],
         "correctAnswerIndex": 0
+    },
+    {
+        "passage": "s = 40 + 3t. The equation gives the speed s, in miles per hour, of a certain car t seconds after it began to accelerate. What is the speed, in miles per hour, of the car 5 seconds after it began to accelerate?",
+        "prompt": "Find the speed of the car after 5 seconds.",
+        "answerChoices": ["40", "43", "45", "55"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "For the right triangle shown, a = 4 and b = 5. Which expression represents the value of c?",
+        "prompt": "Determine the value of c.",
+        "answerChoices": ["4 + 5", "(4)(5)", "√(4^2 + 5^2)", "4 + 5^2"],
+        "correctAnswerIndex": 2
+    }, 
+    {
+        "passage": "If 4x - 4 = 112, what is the positive value of x - 1?",
+        "prompt": "Find the positive value of x - 1.",
+        "answerChoices": ["3", "12", "24", "108"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "A cube has an edge length of 68 inches. A solid sphere with a radius of 34 inches is inside the cube, such that the sphere touches the center of each face of the cube. To the nearest cubic inch, what is the volume of the space in the cube not taken up by the sphere?",
+        "prompt": "Calculate the volume of the space in the cube not taken up by the sphere.",
+        "answerChoices": ["149,796", "164,500", "190,955", "310,800"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "What is the diameter of the circle in the xy-plane with equation (x - 5)^2 + (y - 3)^2 = 16?",
+        "prompt": "Find the diameter of the circle.",
+        "answerChoices": ["4", "8", "16", "32"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "For the exponential function f, the value of f(1) is k, where k is a constant. Which of the following equivalent forms of the function f shows the value of k as the coefficient or the base?",
+        "prompt": "Determine which form of the function shows the value of k as the coefficient or base.",
+        "answerChoices": ["f(x) = 50(1.6)^(x+1)", "f(x) = 80(1.6)^x", "f(x) = 128(1.6)^(x-1)", "f(x) = 204.8(1.6)^(x-2)"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "A model estimates that at the end of each year from 2015 to 2020, the number of squirrels in a population was 150% more than the number of squirrels in the population at the end of the previous year. The model estimates that at the end of 2016, there were 180 squirrels in the population. Which of the following equations represents this model, where n is the estimated number of squirrels in the population t years after the end of 2015 and t ≤ 5?",
+        "prompt": "Select the correct equation representing the model.",
+        "answerChoices": ["n = 72(1.5)^t", "n = 72(2.5)^t", "n = 180(1.5)^t", "n = 180(2.5)^t"],
+        "correctAnswerIndex": 2
     }
 ]
