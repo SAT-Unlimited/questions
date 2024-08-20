@@ -472,5 +472,671 @@
         "prompt": "Which choice best states the main purpose of the text?",
         "answerChoices": ["To convey a contrast between Jane’s outward calmness and internal restlessness", "To suggest that Jane is determined to change her life by leaving Thornfield Hall", "To indicate that Jane is confused about whether she wants to stay at Thornfield Hall", "To describe the work that Jane does at Thornfield Hall as a governess"],
         "correctAnswerIndex": 0
-    }
+    }, 
+    {
+        "passage": "In the early 1800s, the Cherokee scholar Sequoyah created the first script, or writing system, for an Indigenous language in the United States. Because it represented the sounds of spoken Cherokee so accurately, his script was easy to learn and thus quickly achieved _______ use: by 1830, over 90 percent of the Cherokee people could read and write it.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["widespread", "careful", "unintended", "infrequent"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "When Mexican-American archaeologist Zelia Maria Magdalena Nuttall published her 1886 research paper on sculptures found at the ancient Indigenous city of Teotihuacan in present-day Mexico, other researchers readily _______ her work as groundbreaking; this recognition stemmed from her convincing demonstration that the sculptures were much older than had previously been thought.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["acknowledged", "ensured", "denied", "underestimated"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Like other tribal nations, the Muscogee (Creek) Nation is self-governing; its National Council generates laws regulating aspects of community life such as land use and healthcare, while the principal chief and cabinet officials _______ those laws by devising policies and administering services in accordance with them.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["implement", "presume", "improvise", "mimic"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "In the Indigenous intercropping system known as the Three Sisters, maize, squash, and beans form an _______ web of relations: maize provides the structure on which the bean vines grow; the squash vines cover the soil, discouraging competition from weeds; and the beans aid their two “sisters” by enriching the soil with essential nitrogen.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["indecipherable", "ornamental", "obscure", "intricate"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The artisans of the Igun Eronmwon guild in Benin City, Nigeria, typically _______ the bronze- and brass-casting techniques that have been passed down through their families since the thirteenth century, but they don’t strictly observe every tradition; for example, guild members now use air-conditioning motors instead of handheld bellows to help heat their forges.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["experiment with", "adhere to", "improve on", "grapple with"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Some economic historians _______ that late nineteenth- and early twentieth-century households in the United States experienced an economy of scale when it came to food purchases—they assumed that large households spent less on food per person than did small households. Economist Trevon Logan showed, however, that a close look at the available data disproves this supposition.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["surmised", "contrived", "questioned", "regretted"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The work of Kiowa painter T.C. Cannon derives its power in part from the tension among his _______ influences: classic European portraiture, with its realistic treatment of faces; the American pop art movement, with its vivid colors; and flatstyle, the intertribal painting style that rejects the effect of depth typically achieved through shading and perspective.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["complementary", "unknown", "disparate", "interchangeable"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "New and interesting research conducted by Suleiman A. Al-Sweedan and Moath Alhaj is inspired by their observation that though there have been many studies of the effect of high altitude on blood chemistry, there is a _______ studies of the effect on blood chemistry of living in locations below sea level, such as the California towns of Salton City and Seeley.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["quarrel about", "paucity of", "profusion of", "verisimilitude in"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The following text is from Sarah Orne Jewett’s 1899 short story “Martha’s Lady.” Martha is employed by Miss Pyne as a maid.\n\nMiss Pyne sat by the window watching, in her best dress, looking stately and calm; she seldom went out now, and it was almost time for the carriage. Martha was just coming in from the garden with the strawberries, and with more flowers in her apron. It was a bright cool evening in June, the golden robins sang in the elms, and the sun was going down behind the apple-trees at the foot of the garden. The beautiful old house stood wide open to the long-expected guest.",
+        "prompt": "Which choice best states the main purpose of the text?",
+        "answerChoices": ["To convey the worries brought about by a new guest", "To describe how the characters have changed over time", "To contrast the activity indoors with the stillness outside", "To depict the setting as the characters await a visitor’s arrival"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "Astronomers are confident that the star Betelgeuse will eventually consume all the helium in its core and explode in a supernova. They are much less confident, however, about when this will happen, since that depends on internal characteristics of Betelgeuse that are largely unknown. Astrophysicist Sarafina El-Badry Nance and colleagues recently investigated whether acoustic waves in the star could be used to determine internal stellar states but concluded that this method could not sufficiently reveal Betelgeuse’s internal characteristics to allow its evolutionary state to be firmly fixed.",
+        "prompt": "Which choice best describes the function of the second sentence in the overall structure of the text?",
+        "answerChoices": ["It explains how the work of Nance and colleagues was received by others in the field.", "It presents the central finding reported by Nance and colleagues.", "It identifies the problem that Nance and colleagues attempted to solve but did not.", "It describes a serious limitation of the method used by Nance and colleagues."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The following text is from Jane Austen’s 1811 novel Sense and Sensibility. Elinor lives with her younger sisters and her mother, Mrs. Dashwood.\n\nElinor, this eldest daughter, whose advice was so effectual, possessed a strength of understanding, and coolness of judgment, which qualified her, though only nineteen, to be the counsellor of her mother, and enabled her frequently to counteract, to the advantage of them all, that eagerness of mind in Mrs. Dashwood which must generally have led to imprudence. She had an excellent heart;—her disposition was affectionate, and her feelings were strong; but she knew how to govern them: it was a knowledge which her mother had yet to learn; and which one of her sisters had resolved never to be taught.",
+        "prompt": "According to the text, what is true about Elinor?",
+        "answerChoices": ["Elinor often argues with her mother but fails to change her mind.", "Elinor can be overly sensitive with regard to family matters.", "Elinor thinks her mother is a bad role model.", "Elinor is remarkably mature for her age."],
+        "correctAnswerIndex": 3
+    }, 
+    {
+        "passage": "Believing that living in an impractical space can heighten awareness and even improve health, conceptual artists Madeline Gins and Shusaku Arakawa designed an apartment building in Japan to be more fanciful than functional. A kitchen counter is chest-high on one side and knee-high on the other; a ceiling has a door to nowhere. The effect is disorienting but invigorating: after four years there, filmmaker Nobu Yamaoka reported significant health benefits.",
+        "prompt": "Which choice best states the main idea of the text?",
+        "answerChoices": ["Although inhabiting a home surrounded by fanciful features such as those designed by Gins and Arakawa can be rejuvenating, it is unsustainable.", "Designing disorienting spaces like those in the Gins and Arakawa building is the most effective way to create a physically stimulating environment.", "As a filmmaker, Yamaoka has long supported the designs of conceptual artists such as Gins and Arakawa.", "Although impractical, the design of the apartment building by Gins and Arakawa may improve the well-being of the building’s residents."],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "In a research paper, a student criticizes some historians of modern African politics, claiming that they have evaluated Patrice Lumumba, the first prime minister of what is now the Democratic Republic of the Congo, primarily as a symbol rather than in terms of his actions.",
+        "prompt": "Which quotation from a work by a historian would best illustrate the student’s claim?",
+        "answerChoices": ["Lumumba is a difficult figure to evaluate due to the starkly conflicting opinions he inspired during his life and continues to inspire today.", "The available information makes it clear that Lumumba’s political beliefs and values were largely consistent throughout his career.", "Lumumba’s practical accomplishments can be passed over quickly; it is mainly as the personification of Congolese independence that he warrants scholarly attention.", "Many questions remain about Lumumba’s ultimate vision for an independent Congo; without new evidence coming to light, these questions are likely to remain unanswered."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "Geographer Adebayo Oluwole Eludoyin and his colleagues surveyed small-scale farmers in three locations in Ondo State, Nigeria—which has mountainous terrain in the north, an urbanized center, and coastal terrain in the south—to learn more about their practices, like the types of crops they mainly cultivated. In some regions, female farmers were found to be especially prominent in the cultivation of specific types of crops and even constituted the majority of farmers who cultivated those crops; for instance, _______",
+        "prompt": "Which choice most effectively uses data from the graph to complete the example?",
+        "answerChoices": ["most of the farmers who mainly cultivated cereals and most of the farmers who mainly cultivated non–root vegetables in south Ondo were women.", "more women in central Ondo mainly cultivated root crops than mainly cultivated cereals.", "most of the farmers who mainly cultivated non–root vegetables in north and south Ondo were women.", "a relatively equal proportion of women across the three regions of Ondo mainly cultivated cereals."],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Given that stars and planets initially form from the same gas and dust in space, some astronomers have posited that host stars (such as the Sun) and their planets (such as those in our solar system) are composed of the same materials, with the planets containing equal or smaller quantities of the materials that make up the host star. This idea is also supported by evidence that rocky planets in our solar system are composed of some of the same materials as the Sun.",
+        "prompt": "Which finding, if true, would most directly weaken the astronomers’ claim?",
+        "answerChoices": ["Most stars are made of hydrogen and helium, but when cooled they are revealed to contain small amounts of iron and silicate.", "A nearby host star is observed to contain the same proportion of hydrogen and helium as that of the Sun.", "Evidence emerges that the amount of iron in some rocky planets is considerably higher than the amount in their host star.", "The method for determining the composition of rocky planets is discovered to be less effective when used to analyze other kinds of planets."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "In the twentieth century, ethnographers made a concerted effort to collect Mexican American folklore, but they did not always agree about that folklore’s origins. Scholars such as Aurelio Espinosa claimed that Mexican American folklore derived largely from the folklore of Spain, which ruled Mexico and what is now the southwestern United States from the sixteenth to early nineteenth centuries. Scholars such as Américo Paredes, by contrast, argued that while some Spanish influence is undeniable, Mexican American folklore is mainly the product of the ongoing interactions of various cultures in Mexico and the United States.",
+        "prompt": "Which finding, if true, would most directly support Paredes’s argument?",
+        "answerChoices": ["The folklore that the ethnographers collected included several songs written in the form of a décima, a type of poem originating in late sixteenth-century Spain.", "Much of the folklore that the ethnographers collected had similar elements from region to region.", "Most of the folklore that the ethnographers collected was previously unknown to scholars.", "Most of the folklore that the ethnographers collected consisted of corridos—ballads about history and social life—of a clearly recent origin."],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "In the early nineteenth century, some Euro-American farmers in the northeastern United States used agricultural techniques developed by the Haudenosaunee (Iroquois) people centuries earlier, but it seems that few of those farmers had actually seen Haudenosaunee farms firsthand. Barring the possibility of several farmers of the same era independently developing techniques that the Haudenosaunee people had already invented, these facts most strongly suggest that _______",
+        "prompt": "Which choice most logically completes the text?",
+        "answerChoices": ["those farmers learned the techniques from other people who were more directly influenced by Haudenosaunee practices.", "the crops typically cultivated by Euro-American farmers in the northeastern United States were not well suited to Haudenosaunee farming techniques.", "Haudenosaunee farming techniques were widely used in regions outside the northeastern United States.", "Euro-American farmers only began to recognize the benefits of Haudenosaunee farming techniques late in the nineteenth century."],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "If some artifacts recovered from excavations of the settlement of Kuulo Kataa, in modern Ghana, date from the thirteenth century CE, that may lend credence to claims that the settlement was founded before or around that time. There is other evidence, however, strongly supporting a fourteenth century CE founding date for Kuulo Kataa. If both the artifact dates and the fourteenth century CE founding date are correct, that would imply that _______",
+        "prompt": "Which choice most logically completes the text?",
+        "answerChoices": ["artifacts from the fourteenth century CE are more commonly recovered than are artifacts from the thirteenth century CE.", "the artifacts originated elsewhere and eventually reached Kuulo Kataa through trade or migration.", "Kuulo Kataa was founded by people from a different region than had previously been assumed.", "excavations at Kuulo Kataa may have inadvertently damaged some artifacts dating to the fourteenth century CE."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "A team of biologists led by Jae-Hoon Jung, Antonio D. Barbosa, and Stephanie Hutin investigated the mechanism that allows Arabidopsis thaliana (thale cress) plants to accelerate flowering at high temperatures. They replaced the protein ELF3 in the plants with a similar protein found in another species (stiff brome) that, unlike A. thaliana, displays no acceleration in flowering with increased temperature. A comparison of unmodified A. thaliana plants with the altered plants showed no difference in flowering at 22° Celsius, but at 27° Celsius, the unmodified plants exhibited accelerated flowering while the altered ones did not, which suggests that _______",
+        "prompt": "Which choice most logically completes the text?",
+        "answerChoices": ["temperature-sensitive accelerated flowering is unique to A. thaliana.", "A. thaliana increases ELF3 production as temperatures rise.", "ELF3 enables A. thaliana to respond to increased temperatures.", "temperatures of at least 22° Celsius are required for A. thaliana to flower."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "A member of the Cherokee Nation, Mary Golda Ross is renowned for her contributions to NASA’s Planetary Flight Handbook, which _______ detailed mathematical guidance for missions to Mars and Venus.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["provided", "having provided", "to provide", "providing"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Typically, underlines, scribbles, and notes left in the margins by a former owner lower a book’s _______ when the former owner is a famous poet like Walt Whitman, such markings, known as marginalia, can be a gold mine to literary scholars.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["value, but", "value", "value,", "value but"],
+        "correctAnswerIndex": 0
+    }, 
+    {
+        "passage": "After the United Kingdom began rolling out taxes equivalent to a few cents on single-use plastic grocery bags in 2011, plastic-bag consumption decreased by up to ninety _______ taxes are subject to what economists call the 'rebound effect': as the change became normalized, plastic-bag use started to creep back up.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["percent, such", "percent and such", "percent. Such", "percent such"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "As British scientist Peter Whibberley has observed, 'the Earth is not a very good timekeeper.' Earth’s slightly irregular rotation rate means that measurements of time must be periodically adjusted. Specifically, an extra 'leap second' (the 86,401st second of the day) is _______ time based on the planet’s rotation lags a full nine-tenths of a second behind time kept by precise atomic clocks.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["added, whenever", "added; whenever", "added. Whenever", "added whenever"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "Bengali author Toru Dutt’s *A Sheaf Gleaned in French Fields* (1876), a volume of English translations of French poems, _______ scholars’ understanding of the transnational and multilingual contexts in which Dutt lived and worked.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["has enhanced", "are enhancing", "have enhanced", "enhance"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Journalists have dubbed Gil Scott-Heron the 'godfather of rap,' a title that has appeared in hundreds of articles about him since the 1990s. Scott-Heron himself resisted the godfather _______ feeling that it didn’t encapsulate his devotion to the broader African American blues music tradition as well as 'bluesologist,' the moniker he preferred.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["nickname, however", "nickname, however;", "nickname, however,", "nickname; however,"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "From afar, African American fiber artist Bisa Butler’s portraits look like paintings, their depictions of human faces, bodies, and clothing so intricate that it seems only a fine brush could have rendered them. When viewed up close, however, the portraits reveal themselves to be _______ stitching barely visible among the thousands of pieces of printed, microcut fabric.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["quilts, and the", "quilts, the", "quilts; the", "quilts. The"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Most conifers (trees belonging to the phylum Coniferophyta) are evergreen. That is, they keep their green leaves or needles year-round. However, not all conifer species are evergreen. Larch trees, _______ lose their needles every fall.",
+        "prompt": "Which choice completes the text with the most logical transition?",
+        "answerChoices": ["for instance,", "nevertheless,", "meanwhile,", "in addition,"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• Sam Maloof (1916–2009) was an American woodworker and furniture designer.\n\n• He was the son of Lebanese immigrants.\n\n• He received a 'genius grant' from the John D. and Catherine T. MacArthur Foundation in 1985.\n\n• The Museum of Fine Arts in Boston, Massachusetts, owns a rocking chair that Maloof made from walnut wood.\n\n• The armrests and the seat of the chair are sleek and contoured, and the back consists of seven spindle-like slats.",
+        "prompt": "The student wants to describe the rocking chair to an audience unfamiliar with Sam Maloof. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["With its sleek, contoured armrests and seat, the walnut rocking chair in Boston’s Museum of Fine Arts is just one piece of furniture created by American woodworker Sam Maloof.", "Sam Maloof was born in 1916 and died in 2009, and during his life, he made a chair that you can see if you visit the Museum of Fine Arts in Boston.", "Furniture designer Sam Maloof was a recipient of one of the John D. and Catherine T. MacArthur Foundation’s 'genius grants.'", "The rocking chair is made from walnut, and it has been shaped such that its armrests and seat are sleek and contoured."],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• In the late 1890s, over 14,000 unique varieties of apples were grown in the US.\n\n• The rise of industrial agriculture in the mid-1900s narrowed the range of commercially grown crops.\n\n• Thousands of apple varieties considered less suitable for commercial growth were lost.\n\n• Today, only 15 apple varieties dominate the market, making up 90% of apples purchased in the US.\n\n• The Lost Apple Project, based in Washington State, attempts to find and grow lost apple varieties.",
+        "prompt": "The student wants to emphasize the decline in unique apple varieties in the US and specify why this decline occurred. Which choice most effectively uses relevant information from the notes to accomplish these goals?",
+        "answerChoices": ["The Lost Apple Project is dedicated to finding some of the apple varieties lost following a shift in agricultural practices in the mid-1900s.", "While over 14,000 apple varieties were grown in the US in the late 1890s, only 15 unique varieties make up most of the apples sold today.", "Since the rise of industrial agriculture, US farmers have mainly grown the same few unique apple varieties, resulting in the loss of thousands of varieties less suitable for commercial growth.", "As industrial agriculture rose to prominence in the mid-1900s, the number of crops selected for cultivation decreased dramatically."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• Cecilia Vicuña is a multidisciplinary artist.\n\n• In 1971, her first solo art exhibition, *Pinturas, poemas y explicaciones*, was shown at the Museo Nacional de Bellas Artes in Santiago, Chile.\n\n• Her poetry collection *Precario/Precarious* was published in 1983 by Tanam Press.\n\n• Her poetry collection *Instan* was published in 2002 by Kelsey St. Press.\n\n• She lives part time in Chile, where she was born, and part time in New York.",
+        "prompt": "The student wants to introduce the artist’s 1983 poetry collection. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["Before she published the books *Precario/Precarious* (1983) and *Instan* (2002), Cecilia Vicuña exhibited visual art at the Museo Nacional de Bellas Artes in Santiago, Chile.", "Cecilia Vicuña is a true multidisciplinary artist whose works include numerous poetry collections and visual art exhibitions.", "Published in 1983 by Tanam Press, *Precario/Precarious* is a collection of poetry by the multidisciplinary artist Cecilia Vicuña.", "In 1971, Cecilia Vicuña exhibited her first solo art exhibition, *Pinturas, poemas y explicaciones*, in Chile, her country of birth."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• When medical students mention their patients on social media, they may violate patient confidentiality.\n\n• Terry Kind led a study to determine how many medical schools have student policies that mention social media use.\n\n• Kind and her team reviewed 132 medical school websites, examining publicly available student policies.\n\n• Only thirteen medical schools had guidelines that explicitly mention social media, and only five defined what constitutes acceptable social media use.",
+        "prompt": "The student wants to emphasize the study’s methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["The student policies of 132 medical schools can be found online, according to research by Terry Kind.", "To find out how many medical schools have guidelines about student social media use, Terry Kind and her team examined the student policies of 132 medical schools.", "Out of 132 medical schools, only thirteen had student policies that mentioned social media, and only five specified what use was acceptable.", "Terry Kind and her team wanted to know how many medical schools have student social media policies in place about protecting patient confidentiality."],
+        "correctAnswerIndex": 1
+    }, 
+    {
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• The Gullah are a group of African Americans who have lived in parts of the southeastern United States since the 18th century.\n\n• Gullah culture is influenced by West African and Central African traditions.\n\n• Louise Miller Cohen is a Gullah historian, storyteller, and preservationist.\n\n• She founded the Gullah Museum of Hilton Head Island, South Carolina, in 2003.\n\n• Vermelle Rodrigues is a Gullah historian, artist, and preservationist.\n\n• She founded the Gullah Museum of Georgetown, South Carolina, in 2003.",
+        "prompt": "The student wants to emphasize the duration and purpose of Cohen’s and Rodrigues’s work. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["At the Gullah Museums in Hilton Head Island and Georgetown, South Carolina, visitors can learn more about the Gullah people who have lived in the region for centuries.", "Louise Miller Cohen and Vermelle Rodrigues have worked to preserve the culture of the Gullah people, who have lived in the United States since the 18th century.", "Since 2003, Louise Miller Cohen and Vermelle Rodrigues have worked to preserve Gullah culture through their museums.", "Influenced by the traditions of West and Central Africa, Gullah culture developed in parts of the southeastern United States in the 18th century."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• In North America, woodlands have expanded into areas that were once grasslands.\n\n• Thomas Rogers and F. Leland Russell of Wichita State University investigated whether woodland expansion is related to changes in climate.\n\n• Rogers and Russell analyzed core samples from oak trees on a site that was not wooded in the past and indexed the age of the trees with historical climate data to see if tree populations and climate were correlated.\n\n• Tree population growth was associated with dry intervals.\n\n• Droughts may have played a role in woodland expansion.",
+        "prompt": "The student wants to emphasize the aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["Thomas Rogers and F. Leland Russell, researchers at Wichita State University, wanted to know if woodland expansion is related to changes in climate.", "Thanks to the work done by Thomas Rogers and F. Leland Russell, we now know that droughts may have played a role in woodland expansion.", "Wichita State University researchers have determined that tree population growth was associated with dry intervals.", "Thomas Rogers and F. Leland Russell analyzed core samples from oak trees on a site that was not wooded in the past, indexing the age of the trees with historical climate data."],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "According to botanists, a viburnum plant experiencing insect damage may develop erineum—a discolored, felty growth—on its leaf blades. A ______ viburnum plant, on the other hand, will have leaves with smooth surfaces and uniformly green coloration.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["struggling", "beneficial", "simple", "healthy"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "Nigerian American author Teju Cole’s ______ his two passions—photography and the written word—culminates in his 2017 book, *Blind Spot*, which evocatively combines his original photographs from his travels with his poetic prose.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["indifference to", "enthusiasm for", "concern about", "surprise at"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Novelist N. K. Jemisin declines to ______ the conventions of the science fiction genre in which she writes, and she has suggested that her readers appreciate her work precisely because of this willingness to thwart expectations and avoid formulaic plots and themes.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["question", "react to", "perceive", "conform to"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "In *Nature Poem* (2017), Kumeyaay poet Tommy Pico portrays his ______ the natural world by honoring the centrality of nature within his tribe’s traditional beliefs while simultaneously expressing his distaste for being in wilderness settings himself.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["responsiveness to", "ambivalence toward", "renunciation of", "mastery over"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The following text is from the 1924 poem 'Cycle' by D’Arcy McNickle, who was a citizen of the Confederated Salish and Kootenai Tribes.\n\nThere shall be new roads wending,\nA new beating of the drum—\nMen’s eyes shall have fresh seeing,\nGrey lives reprise their span—\nBut under the new sun’s being,\nCompleting what night began,\nThere’ll be the same backs bending,\nThe same sad feet shall drum—\nWhen this night finds its ending\nAnd day shall have come.....",
+        "prompt": "Which choice best states the main purpose of the text?",
+        "answerChoices": ["To consider how the repetitiveness inherent in human life can be both rewarding and challenging", "To question whether activities completed at one time of day are more memorable than those completed at another time of day", "To refute the idea that joy is a more commonly experienced emotion than sadness is", "To demonstrate how the experiences of individuals relate to the experiences of their communities"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The following text is adapted from Jane Austen’s 1814 novel *Mansfield Park*. The speaker, Tom, is considering staging a play at home with a group of his friends and family.\n\nWe mean nothing but a little amusement among ourselves, just to vary the scene, and exercise our powers in something new. We want no audience, no publicity. We may be trusted, I think, in choosing some play most perfectly unexceptionable; and I can conceive no greater harm or danger to any of us in conversing in the elegant written language of some respectable author than in chattering in words of our own.",
+        "prompt": "Which choice best states the main purpose of the text?",
+        "answerChoices": ["To offer Tom’s assurance that the play will be inoffensive and involve only a small number of people", "To clarify that the play will not be performed in the manner Tom had originally intended", "To elaborate on the idea that the people around Tom lack the skills to successfully stage a play", "To assert that Tom believes the group performing the play will be able to successfully promote it"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Musician Joni Mitchell, who is also a painter, uses images she creates for her album covers to emphasize ideas expressed in her music. For the cover of her album *Turbulent Indigo* (1994), Mitchell painted a striking self-portrait that closely resembles Vincent van Gogh’s *Self-Portrait with Bandaged Ear* (1889). The image calls attention to the album’s title song, in which Mitchell sings about the legacy of the postimpressionist painter. In that song, Mitchell also hints that she feels a strong artistic connection to Van Gogh—an idea that is reinforced by her imagery on the cover.",
+        "prompt": "Which choice best describes the overall structure of the text?",
+        "answerChoices": ["It presents a claim about Mitchell, then gives an example supporting that claim.", "It discusses Van Gogh’s influence on Mitchell, then considers Mitchell’s influence on other artists.", "It describes a similarity between two artists, then notes a difference between them.", "It describes the songs on *Turbulent Indigo*, then explains how they relate to the album’s cover."],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Text 1\nAstronomer Mark Holland and colleagues examined four white dwarfs—small, dense remnants of past stars—in order to determine the composition of exoplanets that used to orbit those stars. Studying wavelengths of light in the white dwarf atmospheres, the team reported that traces of elements such as lithium and sodium support the presence of exoplanets with continental crusts similar to Earth’s.\n\nText 2\nPast studies of white dwarf atmospheres have concluded that certain exoplanets had continental crusts. Geologist Keith Putirka and astronomer Siyi Xu argue that those studies unduly emphasize atmospheric traces of lithium and other individual elements as signifiers of the types of rock found on Earth. The studies don’t adequately account for different minerals made up of various ratios of those elements, and the possibility of rock types not found on Earth that contain those minerals.",
+        "prompt": "Based on the texts, how would Putirka and Xu (Text 2) most likely characterize the conclusion presented in Text 1?",
+        "answerChoices": ["As unexpected, because it was widely believed at the time that white dwarf exoplanets lack continental crusts", "As premature, because researchers have not yet collected the data necessary to support it", "As innovative, because it considers a much broader range of data than any similar study before it", "As flawed, because it does not adequately address important factors relevant to its conclusion"],
+        "correctAnswerIndex": 3
+    }, 
+    {
+        "passage": "Text 1\n*Wormholes*—portals that connect one area of space to another—are theoretically possible but difficult to detect. They are typically hidden by massive objects such as black holes. Researchers may be able to detect a wormhole by determining that two black holes are entangled (acting as a pair that influences each other), then checking to see whether the black holes appear to be in more than one place at once.\n\nText 2\nDespite their theoretical possibility, *wormholes* remain purely speculative because there is currently no way to determine whether the phenomenon exists. Moreover, scientists would have no way of knowing what was on the other side if one were detected. Given these challenges, physicists have begun to wonder whether research on wormholes is an effective use of time and resources.",
+        "prompt": "Based on the texts, which choice best describes the relationship between Text 1 and Text 2?",
+        "answerChoices": ["Text 2 contradicts the conclusion drawn in Text 1.", "Text 2 emphasizes the potential benefits of the research discussed in Text 1.", "Text 2 demonstrates how some findings presented in Text 1 can be applied.", "Text 2 questions the practical value of the research discussed in Text 1."],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "Text 1\nA key finding of R. J. Connan’s 1983 study of bitumen, a natural product formed from decayed organic matter, was that it was used as an adhesive in ancient Mesopotamia. Connan and his colleagues also suggested that bitumen may have been used to waterproof objects. However, after examining bitumen from a temple site in Syria, Y. Hamayun concluded in 1996 that bitumen was primarily used as an artistic medium. Hamayun asserted that the waterproofing theory stemmed from a misreading of archaeological evidence.\n\nText 2\nIn a 2002 study, M. Potts and colleagues analyzed bitumen from multiple Mesopotamian sites, concluding that the material was used in a variety of ways: as an adhesive, as an artistic medium, and for waterproofing. Potts’s findings are consistent with Connan’s general theory about the material’s multifunctionality and align with Hamayun’s claim that bitumen had artistic uses.",
+        "prompt": "Based on the texts, what is one way that Potts’s findings (Text 2) contradict Hamayun’s claim (Text 1)?",
+        "answerChoices": ["They indicate that bitumen had artistic uses.", "They suggest that bitumen had no single, primary use.", "They suggest that bitumen was rarely used as an adhesive.", "They indicate that bitumen was widely used in Syria but not Mesopotamia."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "In 1915, W. E. B. Du Bois became the first African American sociologist to be elected to the American Academy of Arts and Sciences. Du Bois’s groundbreaking research on the lives of African Americans—work he conducted in a sociopolitical climate characterized by widespread anti-Black violence—prompted other sociologists of his era to reconsider many of their ideas about race and justice. In 2021, the Du Bois Scholars Program was founded in honor of Du Bois to support graduate students pursuing studies in the social sciences.",
+        "prompt": "Which choice best describes the structure of the text?",
+        "answerChoices": ["A concept is introduced, and its development is traced through recent scholarship.", "An issue is raised, and various approaches to solving it are compared.", "An individual’s achievements are described, and a program inspired by those achievements is introduced.", "A personal story is presented, and a question about its relevance to a larger issue is posed."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "In 2015, a physics team was invited to participate in a global satellite initiative spearheaded by the European Space Agency (ESA). The team’s goal was to develop a highly sensitive accelerometer for space applications. The ESA requested that the accelerometer be compatible with its satellites and capable of measuring the force of gravity with extreme precision.\n\nOn the day the final version of the accelerometer was unveiled, the team gathered to see whether it met the expectations of the ESA engineers. Would it be lightweight and compact? Would it be able to withstand the rigors of space travel? The ESA engineers carefully inspected the accelerometer, testing it against their rigorous standards. Finally, they declared the device a success.",
+        "prompt": "Which choice best describes the structure of the text?",
+        "answerChoices": ["An outcome is described, and then reasons for that outcome are explained.", "Questions are raised, and then answers to those questions are provided.", "A process is discussed, and then it is evaluated in terms of its effectiveness.", "An assumption is identified, and then that assumption is challenged."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The list below is from a document on energy policy.\n\nAdvantages of Natural Gas\n• Abundant supply\n• Existing infrastructure supports large-scale use\n• Natural gas production and use are highly efficient\n• Relatively low greenhouse gas emissions compared with other fossil fuels\n\nAdvantages of Nuclear Power\n• Small land footprint\n• Reliable, 24/7 energy source\n• No emissions of carbon dioxide or other greenhouse gases during operation\n• High energy density\n\nAdvantages of Solar Power\n• Virtually unlimited supply\n• Clean and renewable energy source\n• Can be installed on rooftops or other spaces\n• Silent and nonpolluting\n\nAdvantages of Wind Power\n• Clean and renewable energy source\n• Efficient in locations with strong winds\n• Low operating costs\n• Jobs created by manufacturing, installing, and maintaining turbines",
+        "prompt": "Which energy source on the list could best be used in a country with a large, sparsely populated land area and weak infrastructure?",
+        "answerChoices": ["Natural gas", "Nuclear power", "Solar power", "Wind power"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The list below is from a document on the history of transportation.\n\nKey Milestones in Railroad History\n• The first steam-powered locomotive was built in the early 19th century.\n• The Stockton and Darlington Railway in England, which opened in 1825, was the first public railway to use steam locomotives.\n• The Liverpool and Manchester Railway in England, which opened in 1830, was the first railway to provide scheduled passenger service.\n• In 1869, the United States completed its first transcontinental railway, connecting the East and West Coasts.\n• The electrification of railroads in the early 20th century reduced air pollution and increased train speeds.\n• High-speed rail systems capable of speeds exceeding 200 miles per hour were first developed in Japan in the 1960s.",
+        "prompt": "Which milestone on the list is most likely to have made rail travel more appealing to commuters?",
+        "answerChoices": ["The first steam-powered locomotive", "The Stockton and Darlington Railway", "The Liverpool and Manchester Railway", "The electrification of railroads"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The list below is from a document on astronomy.\n\nBenefits of Robotic Space Missions\n• Relatively low cost compared with manned missions\n• Can travel to places deemed too risky or remote for humans to explore\n• Capable of functioning for long periods in harsh environments\n• Can be designed to collect a wide variety of scientific data\n\nDrawbacks of Robotic Space Missions\n• Cannot respond to unexpected situations as effectively as humans can\n• Limited by pre-programmed instructions\n• Communication delays can hinder operation\n• May require costly repairs or replacement if a malfunction occurs",
+        "prompt": "Which benefit on the list most directly addresses a drawback of robotic space missions?",
+        "answerChoices": ["Relatively low cost compared with manned missions", "Can travel to places deemed too risky or remote for humans to explore", "Capable of functioning for long periods in harsh environments", "Can be designed to collect a wide variety of scientific data"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on waste management.\n\nStrategies for Reducing Municipal Solid Waste (MSW)\n• Implementing curbside recycling programs\n• Introducing 'pay as you throw' programs, which charge households based on the amount of waste they dispose of\n• Banning certain materials, such as plastic bags and single-use containers\n• Promoting the use of compostable materials and packaging\n• Establishing more stringent regulations on industrial waste disposal\n• Expanding public education campaigns about waste reduction",
+        "prompt": "Which strategy on the list is most likely to reduce waste by encouraging consumers to change their behavior?",
+        "answerChoices": ["Implementing curbside recycling programs", "Introducing 'pay as you throw' programs", "Banning certain materials", "Expanding public education campaigns about waste reduction"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The list below is from a document on digital security.\n\nBest Practices for Creating Strong Passwords\n• Use a combination of letters, numbers, and special characters\n• Avoid using easily guessable information, such as names or birthdates\n• Make your password at least eight characters long\n• Change your passwords regularly\n• Do not use the same password for multiple accounts\n• Consider using a password manager to keep track of your passwords",
+        "prompt": "Which best practice on the list could help users protect their accounts in case one password is compromised?",
+        "answerChoices": ["Use a combination of letters, numbers, and special characters", "Avoid using easily guessable information", "Change your passwords regularly", "Do not use the same password for multiple accounts"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The list below is from a document on personal finance.\n\nSteps to Improve Your Credit Score\n• Review your credit reports for errors\n• Pay your bills on time\n• Keep your credit card balances low\n• Avoid opening too many new credit accounts at once\n• Consider a secured credit card if you have no credit history or poor credit\n• Dispute any inaccuracies on your credit report",
+        "prompt": "Which step on the list is most directly related to addressing incorrect information that could negatively impact your credit score?",
+        "answerChoices": ["Pay your bills on time", "Keep your credit card balances low", "Avoid opening too many new credit accounts at once", "Dispute any inaccuracies on your credit report"],
+        "correctAnswerIndex": 3
+    }, 
+    {
+        "passage": "The spacecraft OSIRIS-REx briefly made contact with the asteroid 101955 Bennu in 2020. NASA scientist Daniella DellaGiustina reports that despite facing the unexpected obstacle of a surface mostly covered in boulders, OSIRIS-REx successfully _______ a sample of the surface, gathering pieces of it to bring back to Earth.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["attached", "collected", "followed", "replaced"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Research conducted by planetary scientist Katarina Miljkovic suggests that the Moon’s surface may not accurately _______ early impact events. When the Moon was still forming, its surface was softer, and asteroid or meteoroid impacts would have left less of an impression; thus, evidence of early impacts may no longer be present.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["reflect", "receive", "evaluate", "mimic"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Handedness, a preferential use of either the right or left hand, typically is easy to observe in humans. Because this trait is present but less _______ in many other animals, animal-behavior researchers often employ tasks specially designed to reveal individual animals’ preferences for a certain hand or paw.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["recognizable", "intriguing", "significant", "useful"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "It is by no means _______ to recognize the influence of Dutch painter Hieronymus Bosch on Ali Banisadr’s paintings; indeed, Banisadr himself cites Bosch as an inspiration. However, some scholars have suggested that the ancient Mesopotamian poem Epic of Gilgamesh may have had a far greater impact on Banisadr’s work.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["substantial", "satisfying", "unimportant", "appropriate"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The following text is adapted from Susan Glaspell’s 1912 short story “Out There.” An elderly shop owner is looking at a picture that he recently acquired and hopes to sell.\n\nIt did seem that the picture failed to fit in with the rest of the shop. A persuasive young fellow who claimed he was closing out his stock let the old man have it for what he called a song. It was only a little out-of-the-way store which subsisted chiefly on the framing of pictures. The old man looked around at his views of the city, his pictures of cats and dogs, his flaming bits of landscape. “Don’t belong in here,” he fumed.\n\nAnd yet the old man was secretly proud of his acquisition. There was a hidden dignity in his scowling as he shuffled about pondering the least ridiculous place for the picture.",
+        "prompt": "Which choice best states the main purpose of the text?",
+        "answerChoices": ["To reveal the shop owner’s conflicted feelings about the new picture", "To convey the shop owner’s resentment of the person he got the new picture from", "To describe the items that the shop owner most highly prizes", "To explain differences between the new picture and other pictures in the shop"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The following text is from the 1923 poem “Black Finger” by Angelina Weld Grimké, a Black American writer. A cypress is a type of evergreen tree.\n\nI have just seen a most beautiful thing,\nSlim and still,\nAgainst a gold, gold sky,\nA straight black cypress,\nSensitive,\nExquisite,\nA black finger\nPointing upwards.\nWhy, beautiful still finger, are you black?\nAnd why are you pointing upwards?",
+        "prompt": "Which choice best describes the overall structure of the text?",
+        "answerChoices": ["The speaker assesses a natural phenomenon, then questions the accuracy of her assessment.", "The speaker describes a distinctive sight in nature, then ponders what meaning to attribute to that sight.", "The speaker presents an outdoor scene, then considers a human behavior occurring within that scene.", "The speaker examines her surroundings, then speculates about their influence on her emotional state."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The following text is from Walt Whitman’s 1860 poem 'Calamus 24.'\n\nI HEAR it is charged against me that I seek to destroy institutions;\nBut really I am neither for nor against institutions\n(What indeed have I in common with them?—\nOr what with the destruction of them?),\nOnly I will establish in the Mannahatta [Manhattan] and in every city of These States, inland and seaboard,\nAnd in the fields and woods, and above every keel [ship] little or large, that dents the water,\nWithout edifices, or rules, or trustees, or any argument,\nThe institution of the dear love of comrades.",
+        "prompt": "Which choice best describes the overall structure of the text?",
+        "answerChoices": ["The speaker questions an increasingly prevalent attitude, then summarizes his worldview.", "The speaker regrets his isolation from others, then predicts a profound change in society.", "The speaker concedes his personal shortcomings, then boasts of his many achievements.", "The speaker addresses a criticism leveled against him, then announces a grand ambition of his."],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The mimosa tree evolved in East Asia, where the beetle Bruchidius terrenus preys on its seeds. In 1785, mimosa trees were introduced to North America, far from any B. terrenus. But evolutionary links between predators and their prey can persist across centuries and continents. Around 2001, B. terrenus was introduced in southeastern North America near where botanist Shu-Mei Chang and colleagues had been monitoring mimosa trees. Within a year, 93 percent of the trees had been attacked by the beetles.",
+        "prompt": "Which choice best describes the function of the third sentence in the overall structure of the text?",
+        "answerChoices": ["It states the hypothesis that Chang and colleagues had set out to investigate using mimosa trees and B. terrenus.", "It presents a generalization that is exemplified by the discussion of the mimosa trees and B. terrenus.", "It offers an alternative explanation for the findings of Chang and colleagues.", "It provides context that clarifies why the species mentioned spread to new locations."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Text 1\nConventional wisdom long held that human social systems evolved in stages, beginning with hunter-gatherers forming small bands of members with roughly equal status. The shift to agriculture about 12,000 years ago sparked population growth that led to the emergence of groups with hierarchical structures: associations of clans first, then chiefdoms, and finally, bureaucratic states.\n\nText 2\nIn a 2021 book, anthropologist David Graeber and archaeologist David Wengrow maintain that humans have always been socially flexible, alternately forming systems based on hierarchy and collective ones with decentralized leadership. The authors point to evidence that as far back as 50,000 years ago some hunter-gatherers adjusted their social structures seasonally, at times dispersing in small groups but also assembling into communities that included esteemed individuals.",
+        "prompt": "Based on the texts, how would Graeber and Wengrow (Text 2) most likely respond to the 'conventional wisdom' presented in Text 1?",
+        "answerChoices": ["By conceding the importance of hierarchical systems but asserting the greater significance of decentralized collective societies", "By disputing the idea that developments in social structures have followed a linear progression through distinct stages", "By acknowledging that hierarchical roles likely weren’t a part of social systems before the rise of agriculture", "By challenging the assumption that groupings of hunter-gatherers were among the earliest forms of social structure"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The following text is adapted from Frances Hodgson Burnett’s 1911 novel *The Secret Garden.* Mary, a young girl, recently found an overgrown hidden garden.\n\nMary was an odd, determined little person, and now she had something interesting to be determined about, she was very much absorbed, indeed. She worked and dug and pulled up weeds steadily, only becoming more pleased with her work every hour instead of tiring of it. It seemed to her like a fascinating sort of play.",
+        "prompt": "Which choice best states the main idea of the text?",
+        "answerChoices": ["Mary hides in the garden to avoid doing her chores.", "Mary is getting bored with pulling up so many weeds in the garden.", "Mary is clearing out the garden to create a space to play.", "Mary feels very satisfied when she’s taking care of the garden."],
+        "correctAnswerIndex": 3
+    }, 
+    {
+        "passage": "An overarching theme in *The Marrow Thieves* by Métis writer Cherie Dimaline is survival, as the characters struggle to endure and preserve their culture in a dystopian future where Indigenous people are hunted for their bone marrow. The novel centers on a group of Indigenous survivors who navigate the dangers of their world while maintaining their language, stories, and traditions.",
+        "prompt": "Which choice best describes the main idea of the text?",
+        "answerChoices": ["The characters in *The Marrow Thieves* primarily focus on evading capture and maintaining their language.", "The characters in *The Marrow Thieves* face challenges in preserving their cultural heritage while surviving in a dystopian future.", "The characters in *The Marrow Thieves* are constantly on the move to find safety from those hunting them.", "The characters in *The Marrow Thieves* must find ways to adapt to a world that no longer values their traditions."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The following text is adapted from Zora Neale Hurston’s 1937 novel *Their Eyes Were Watching God.* Janie is the main character in the novel.\n\nJanie saw her life like a great tree in leaf with the things suffered, things enjoyed, things done, and undone. Dawn and doom was in the branches.",
+        "prompt": "Which choice best states the main idea of the text?",
+        "answerChoices": ["Janie is reflecting on the good and bad experiences in her life.", "Janie is comparing herself to a tree to emphasize her strength.", "Janie is considering the passage of time and its effect on her life.", "Janie is thinking about the decisions she has yet to make."],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The following text is adapted from Frances Hodgson Burnett’s 1911 novel *The Secret Garden.* Mary, a young girl, recently found an overgrown hidden garden.\n\nMary had been keeping to herself ever since she arrived at Misselthwaite Manor. She was a solitary, brooding child with a sour expression that made her look ill-tempered. However, after she discovered the secret garden, a noticeable change began to take place in her demeanor.",
+        "prompt": "Which choice best states the main idea of the text?",
+        "answerChoices": ["Mary is excited to have discovered the secret garden.", "Mary’s discovery of the garden leads to a positive change in her behavior.", "Mary prefers to be alone in the secret garden.", "Mary’s attitude remains unchanged even after finding the garden."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• The Arctic is warming at twice the rate of the global average.\n• Melting ice in the Arctic is leading to a rise in sea levels.\n• Scientists have observed a decrease in the Arctic’s albedo, which is the measure of how much sunlight is reflected by the surface.\n• Thawing permafrost is releasing methane, a potent greenhouse gas, into the atmosphere.\n• The loss of sea ice is affecting the habitat of polar bears and other Arctic wildlife.",
+        "prompt": "The student wants to emphasize the impact of warming on Arctic wildlife. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["Melting ice in the Arctic is leading to a rise in sea levels, which could have global consequences.", "The loss of sea ice is affecting the habitat of polar bears and other Arctic wildlife.", "Scientists are concerned about the decrease in the Arctic’s albedo, as it could accelerate global warming.", "Thawing permafrost in the Arctic is releasing methane, contributing to the greenhouse effect."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• The Roman Republic was established in 509 BCE after the last king of Rome was overthrown.\n• The Roman Senate was a powerful body of government in the Republic, composed of patricians, or aristocrats.\n• The conflict between patricians and plebeians, or commoners, led to the creation of the office of the Tribune, which represented the interests of the plebeians.\n• Julius Caesar’s rise to power in the 1st century BCE marked the end of the Republic and the beginning of the Roman Empire.\n• The Roman Republic lasted for nearly 500 years before transitioning to an imperial system.",
+        "prompt": "The student wants to emphasize the role of social conflict in the development of the Roman Republic. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["The Roman Senate was a powerful body of government in the Republic, composed of patricians, or aristocrats.", "The conflict between patricians and plebeians led to the creation of the office of the Tribune, which represented the interests of the plebeians.", "Julius Caesar’s rise to power marked the end of the Roman Republic and the beginning of the Roman Empire.", "The Roman Republic was established in 509 BCE after the last king of Rome was overthrown."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• The periodic table was first created by Dmitri Mendeleev in 1869.\n• The elements on the periodic table are arranged in order of increasing atomic number.\n• Elements in the same group or column have similar chemical properties.\n• The periodic table is divided into metals, nonmetals, and metalloids based on their properties.\n• The modern periodic table has 118 elements, with more potentially waiting to be discovered.",
+        "prompt": "The student wants to emphasize the organization of the periodic table. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["The periodic table was first created by Dmitri Mendeleev in 1869.", "The periodic table is divided into metals, nonmetals, and metalloids based on their properties.", "The elements on the periodic table are arranged in order of increasing atomic number.", "Elements in the same group or column have similar chemical properties."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "While researching a topic, a student has taken the following notes:\n\n• The Dust Bowl was a period of severe dust storms in the 1930s that greatly damaged the agriculture of the American and Canadian prairies.\n• The Dust Bowl was caused by a combination of drought and poor farming practices, such as over-plowing and the failure to rotate crops.\n• The Dust Bowl led to a mass migration of people, particularly from Oklahoma, to other parts of the United States, especially California.\n• The government responded to the Dust Bowl by promoting soil conservation techniques and planting trees to prevent further erosion.\n• The Dust Bowl is considered one of the worst environmental disasters in US history.",
+        "prompt": "The student wants to emphasize the causes of the Dust Bowl. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "answerChoices": ["The Dust Bowl led to a mass migration of people, particularly from Oklahoma, to other parts of the United States, especially California.", "The Dust Bowl was caused by a combination of drought and poor farming practices, such as over-plowing and the failure to rotate crops.", "The government responded to the Dust Bowl by promoting soil conservation techniques and planting trees to prevent further erosion.", "The Dust Bowl is considered one of the worst environmental disasters in US history."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The list below is from a document on the human body.\n\nFunctions of the Liver\n• Produces bile, which helps digest fats\n• Detoxifies the blood by removing harmful substances\n• Stores vitamins and minerals\n• Metabolizes carbohydrates, fats, and proteins\n• Regulates blood clotting\n• Helps to maintain blood sugar levels",
+        "prompt": "Which function on the list is most directly related to the liver’s role in the digestive system?",
+        "answerChoices": ["Detoxifies the blood by removing harmful substances", "Metabolizes carbohydrates, fats, and proteins", "Regulates blood clotting", "Produces bile, which helps digest fats"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The list below is from a document on the history of aviation.\n\nKey Innovations in Aviation\n• The Wright brothers’ first powered flight in 1903\n• The development of jet engines in the 1930s and 1940s\n• The introduction of commercial jet airliners in the 1950s\n• The invention of supersonic passenger planes, such as the Concorde\n• The creation of stealth technology for military aircraft\n• The advent of unmanned aerial vehicles (drones) in the 21st century",
+        "prompt": "Which innovation on the list is most directly related to the commercialization of air travel?",
+        "answerChoices": ["The Wright brothers’ first powered flight", "The development of jet engines", "The introduction of commercial jet airliners", "The invention of supersonic passenger planes"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on environmental science.\n\nCauses of Deforestation\n• Logging for timber and paper products\n• Conversion of forests to agricultural land\n• Urban expansion and infrastructure development\n• Mining and resource extraction\n• Slash-and-burn farming techniques\n• Climate change and its impact on forest ecosystems",
+        "prompt": "Which cause on the list is most directly related to the need for wood and paper materials?",
+        "answerChoices": ["Logging for timber and paper products", "Conversion of forests to agricultural land", "Urban expansion and infrastructure development", "Slash-and-burn farming techniques"],
+        "correctAnswerIndex": 0
+    }, 
+    {
+        "passage": "The list below is from a document on the benefits of exercise.\n\nHealth Benefits of Regular Exercise\n• Improves cardiovascular health by strengthening the heart and blood vessels\n• Increases muscle strength and endurance\n• Enhances flexibility and joint mobility\n• Boosts mental health by reducing stress and anxiety\n• Helps control weight by burning calories\n• Lowers the risk of chronic diseases such as diabetes and hypertension",
+        "prompt": "Which benefit on the list is most directly related to improving mental well-being?",
+        "answerChoices": ["Improves cardiovascular health by strengthening the heart and blood vessels", "Boosts mental health by reducing stress and anxiety", "Helps control weight by burning calories", "Lowers the risk of chronic diseases such as diabetes and hypertension"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The list below is from a document on cybersecurity.\n\nCommon Types of Cyber Attacks\n• Phishing: Trick users into providing sensitive information through fake emails or websites\n• Malware: Infect systems with malicious software that can damage or steal data\n• Denial of Service (DoS): Overwhelm a system with traffic to make it unavailable\n• Ransomware: Encrypt data and demand payment to unlock it\n• Man-in-the-Middle: Intercept and alter communication between two parties without their knowledge\n• SQL Injection: Exploit vulnerabilities in a database to execute malicious queries",
+        "prompt": "Which type of cyber attack on the list is most directly related to overwhelming a system’s resources?",
+        "answerChoices": ["Phishing", "Malware", "Denial of Service (DoS)", "Ransomware"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on climate change.\n\nEffects of Global Warming\n• Rising sea levels due to melting polar ice caps\n• Increased frequency and severity of extreme weather events\n• Ocean acidification caused by higher levels of carbon dioxide\n• Loss of biodiversity as habitats change or disappear\n• Shifts in agricultural productivity due to changing climate patterns\n• Health risks such as heat-related illnesses and the spread of infectious diseases",
+        "prompt": "Which effect on the list is most directly related to the impact of global warming on the oceans?",
+        "answerChoices": ["Rising sea levels", "Increased frequency of extreme weather events", "Loss of biodiversity", "Shifts in agricultural productivity"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The list below is from a document on renewable energy.\n\nTypes of Renewable Energy\n• Solar: Energy from the sun that can be converted into electricity or used for heating\n• Wind: Energy generated by wind turbines that convert kinetic energy into electrical power\n• Hydroelectric: Energy produced by the movement of water, typically through dams\n• Geothermal: Energy harnessed from the heat of the Earth’s interior\n• Biomass: Energy derived from organic materials such as wood, agricultural crops, or waste\n• Tidal: Energy generated by the movement of tides and ocean currents",
+        "prompt": "Which type of renewable energy on the list is most directly related to the gravitational pull of the moon?",
+        "answerChoices": ["Solar", "Wind", "Hydroelectric", "Tidal"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The list below is from a document on the principles of design.\n\nPrinciples of Design\n• Balance: The distribution of visual weight in a design, which can be symmetrical or asymmetrical\n• Contrast: The difference between elements in a design, such as color, shape, or texture\n• Emphasis: The focal point of a design that draws attention\n• Unity: The sense of harmony and cohesiveness in a design\n• Rhythm: The repetition of elements in a design to create movement or pattern\n• Proportion: The relationship between the sizes of different elements in a design",
+        "prompt": "Which principle on the list is most directly related to creating a focal point in a design?",
+        "answerChoices": ["Balance", "Contrast", "Emphasis", "Rhythm"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on the structure of government.\n\nBranches of Government\n• Legislative: Makes laws and is composed of elected representatives in a parliament or congress\n• Executive: Enforces laws and is led by the president, prime minister, or monarch\n• Judicial: Interprets laws and is made up of courts and judges\n• Bureaucratic: Administers day-to-day operations and is staffed by government officials and civil servants\n• Military: Defends the country and is responsible for national security and armed forces\n• Electoral: Oversees elections and ensures they are fair and free",
+        "prompt": "Which branch on the list is most directly related to interpreting and applying laws?",
+        "answerChoices": ["Legislative", "Executive", "Judicial", "Bureaucratic"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on the components of fitness.\n\nComponents of Physical Fitness\n• Cardiovascular endurance: The ability of the heart and lungs to supply oxygen during sustained physical activity\n• Muscular strength: The amount of force a muscle can produce with a single maximum effort\n• Muscular endurance: The ability of a muscle to continue to perform without fatigue\n• Flexibility: The range of motion available at a joint\n• Body composition: The ratio of fat to lean tissue in the body\n• Agility: The ability to move quickly and change direction with control",
+        "prompt": "Which component on the list is most directly related to the ability to sustain prolonged physical activity?",
+        "answerChoices": ["Cardiovascular endurance", "Muscular strength", "Flexibility", "Agility"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The list below is from a document on economic systems.\n\nTypes of Economic Systems\n• Market economy: Economic decisions are made based on supply and demand with minimal government intervention\n• Command economy: Economic decisions are made by the government, which controls resources and production\n• Mixed economy: Combines elements of market and command economies, with both private and government involvement\n• Traditional economy: Economic decisions are based on customs, traditions, and cultural beliefs\n• Subsistence economy: People produce just enough goods to meet their own needs, with little surplus for trade\n• Capitalist economy: Economic decisions are driven by profit and private ownership of resources",
+        "prompt": "Which economic system on the list is most directly associated with minimal government intervention?",
+        "answerChoices": ["Market economy", "Command economy", "Mixed economy", "Traditional economy"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The list below is from a document on the water cycle.\n\nSteps in the Water Cycle\n• Evaporation: The process by which water changes from a liquid to a gas, usually due to heat from the sun\n• Condensation: The process by which water vapor cools and changes back into liquid droplets, forming clouds\n• Precipitation: The process by which water falls from the atmosphere to the Earth’s surface as rain, snow, sleet, or hail\n• Infiltration: The process by which water soaks into the ground and replenishes groundwater supplies\n• Runoff: The process by which water flows over the land and eventually returns to rivers, lakes, and oceans\n• Transpiration: The process by which water is absorbed by plants and released into the atmosphere as vapor",
+        "prompt": "Which step on the list is most directly related to the formation of clouds?",
+        "answerChoices": ["Evaporation", "Condensation", "Precipitation", "Runoff"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The list below is from a document on the structure of cells.\n\nParts of a Cell\n• Nucleus: The control center of the cell that contains DNA and regulates gene expression\n• Mitochondria: The powerhouse of the cell that produces energy in the form of ATP\n• Ribosomes: The site of protein synthesis where amino acids are assembled into proteins\n• Endoplasmic reticulum: A network of membranes involved in protein and lipid synthesis\n• Golgi apparatus: The organelle that modifies, sorts, and packages proteins for transport\n• Lysosomes: The organelles that contain digestive enzymes to break down waste and cellular debris",
+        "prompt": "Which part on the list is most directly related to producing energy for the cell?",
+        "answerChoices": ["Nucleus", "Mitochondria", "Ribosomes", "Endoplasmic reticulum"],
+        "correctAnswerIndex": 1
+    }, 
+    {
+        "passage": "The list below is from a document on space exploration.\n\nMajor Achievements in Space Exploration\n• The launch of Sputnik 1 by the Soviet Union in 1957, the first artificial satellite to orbit Earth\n• The first human spaceflight by Yuri Gagarin in 1961, making him the first person to orbit Earth\n• The Apollo 11 mission in 1969, which successfully landed the first humans on the Moon\n• The deployment of the Hubble Space Telescope in 1990, providing detailed images of distant galaxies\n• The Mars rover missions, which began with Sojourner in 1997 and have continued with Spirit, Opportunity, Curiosity, and Perseverance\n• The International Space Station (ISS), which has been continuously inhabited since 2000 and serves as a hub for international space research",
+        "prompt": "Which achievement on the list is most directly related to the beginning of human space exploration?",
+        "answerChoices": ["The launch of Sputnik 1", "The first human spaceflight by Yuri Gagarin", "The Apollo 11 mission", "The deployment of the Hubble Space Telescope"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The list below is from a document on the types of government.\n\nForms of Government\n• Democracy: A system of government where the people elect representatives and have a say in decision-making\n• Monarchy: A system of government where a single ruler, often a king or queen, holds power, usually inherited\n• Dictatorship: A system of government where one person or a small group holds absolute power, often by force\n• Theocracy: A system of government where religious leaders control the government, and laws are based on religious principles\n• Oligarchy: A system of government where a small group of people, often from the same social or economic class, hold power\n• Republic: A system of government where the people elect representatives to make decisions on their behalf, but there is no monarch",
+        "prompt": "Which form of government on the list is most directly related to power being held by a small group of people?",
+        "answerChoices": ["Democracy", "Monarchy", "Oligarchy", "Republic"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on computer programming.\n\nBasic Concepts in Computer Programming\n• Variables: Named storage locations in memory that can hold different values during program execution\n• Functions: Blocks of code that perform specific tasks and can be reused throughout a program\n• Loops: Constructs that repeat a block of code a certain number of times or until a condition is met\n• Conditionals: Statements that execute different blocks of code based on whether a condition is true or false\n• Arrays: Data structures that store multiple values in a single variable, accessible by index\n• Objects: Instances of classes that encapsulate data and functions in object-oriented programming",
+        "prompt": "Which concept on the list is most directly related to repeating a block of code multiple times?",
+        "answerChoices": ["Variables", "Functions", "Loops", "Conditionals"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on human anatomy.\n\nMajor Organs and Their Functions\n• Heart: Pumps blood throughout the body, supplying oxygen and nutrients to tissues\n• Lungs: Facilitate the exchange of oxygen and carbon dioxide between the air and the bloodstream\n• Brain: Controls bodily functions, processes sensory information, and is responsible for cognition\n• Liver: Detoxifies chemicals, metabolizes drugs, and produces bile for digestion\n• Kidneys: Filter waste products from the blood and excrete them as urine\n• Stomach: Breaks down food using acids and enzymes, preparing it for digestion in the intestines",
+        "prompt": "Which organ on the list is most directly related to processing and detoxifying substances in the body?",
+        "answerChoices": ["Heart", "Lungs", "Liver", "Kidneys"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The list below is from a document on literature genres.\n\nTypes of Literature Genres\n• Fiction: Narratives created from the imagination, not presented as fact\n• Nonfiction: Prose writing based on facts, real events, and real people, such as biography or history\n• Poetry: Literary work that expresses feelings and ideas through the use of distinctive style and rhythm\n• Drama: A genre of literature intended for performance, typically consisting of dialogue between characters\n• Fantasy: A genre of fiction that includes magical or supernatural elements that do not exist in the real world\n• Science Fiction: A genre of fiction that deals with futuristic concepts, advanced technology, and often explores the impact of science on society",
+        "prompt": "Which genre on the list is most directly related to narratives that are imagined rather than based on fact?",
+        "answerChoices": ["Fiction", "Nonfiction", "Poetry", "Drama"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The list below is from a document on the scientific method.\n\nSteps of the Scientific Method\n• Observation: Noticing and describing events or processes in a careful, orderly way\n• Question: Asking a question based on observations\n• Hypothesis: Proposing a tentative explanation for an observation or phenomenon\n• Experiment: Testing the hypothesis by conducting controlled experiments\n• Analysis: Reviewing data collected from the experiment to determine if it supports the hypothesis\n• Conclusion: Summarizing the results of the experiment and stating whether the hypothesis was supported",
+        "prompt": "Which step on the list is most directly related to proposing a possible explanation for an observation?",
+        "answerChoices": ["Observation", "Question", "Hypothesis", "Analysis"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on types of economies.\n\nCharacteristics of Different Economies\n• Market economy: Prices and production are controlled by supply and demand with little government intervention\n• Command economy: The government controls production, pricing, and distribution of goods and services\n• Mixed economy: Combines elements of both market and command economies, with government and private sector involvement\n• Traditional economy: Economic activities are based on customs, traditions, and historical precedents\n• Subsistence economy: People produce only what they need for personal use, with little surplus for trade\n• Capitalist economy: Production and pricing of goods and services are determined by competition in a free market",
+        "prompt": "Which characteristic on the list is most directly associated with minimal government intervention in economic activities?",
+        "answerChoices": ["Market economy", "Command economy", "Mixed economy", "Traditional economy"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The list below is from a document on renewable energy sources.\n\nAdvantages of Renewable Energy\n• Reduces greenhouse gas emissions compared to fossil fuels\n• Decreases dependence on imported fuels\n• Creates jobs in renewable energy industries\n• Produces energy from sources that are naturally replenished, such as sunlight and wind\n• Has low operating costs once the initial investment is made\n• Provides energy security by diversifying the energy supply",
+        "prompt": "Which advantage on the list is most directly related to reducing the impact of energy production on the environment?",
+        "answerChoices": ["Reduces greenhouse gas emissions", "Decreases dependence on imported fuels", "Creates jobs in renewable energy industries", "Has low operating costs"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The list below is from a document on the causes of deforestation.\n\nPrimary Causes of Deforestation\n• Logging for timber and paper products\n• Clearing land for agricultural use, such as growing crops or raising livestock\n• Urban development, including the construction of roads, housing, and infrastructure\n• Mining and resource extraction, which often require the removal of large areas of forest\n• Slash-and-burn agriculture, a method of clearing land by cutting and burning vegetation\n• Climate change, which can alter the conditions necessary for forests to thrive",
+        "prompt": "Which cause on the list is most directly related to the need for land to grow food?",
+        "answerChoices": ["Logging for timber and paper products", "Clearing land for agricultural use", "Urban development", "Mining and resource extraction"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The list below is from a document on the components of fitness.\n\nTypes of Physical Fitness\n• Cardiovascular endurance: The ability of the heart, lungs, and blood vessels to deliver oxygen to the body during sustained physical activity\n• Muscular strength: The amount of force a muscle or group of muscles can exert against resistance\n• Muscular endurance: The ability of a muscle or group of muscles to perform repetitive contractions over a period of time without becoming fatigued\n• Flexibility: The range of motion available at a joint, which allows for movement in various directions\n• Body composition: The proportion of fat, muscle, and bone in the body, often measured to assess health\n• Balance: The ability to maintain control of the body’s position, whether moving or stationary",
+        "prompt": "Which type of physical fitness on the list is most directly related to the ability to perform repetitive exercises without tiring?",
+        "answerChoices": ["Cardiovascular endurance", "Muscular strength", "Muscular endurance", "Flexibility"],
+        "correctAnswerIndex": 2
+    }, 
+    {
+        "passage": "The list below is from a document on the types of waves in physics.\n\nTypes of Waves\n• Transverse waves: Waves in which the motion of the medium is perpendicular to the direction of the wave, such as light waves\n• Longitudinal waves: Waves in which the motion of the medium is parallel to the direction of the wave, such as sound waves\n• Surface waves: Waves that travel along the surface of a medium, such as ocean waves\n• Electromagnetic waves: Waves that do not require a medium to travel and include light, radio, and X-rays\n• Mechanical waves: Waves that require a medium to travel, such as sound and water waves\n• Seismic waves: Waves produced by earthquakes that travel through the Earth",
+        "prompt": "Which type of wave on the list is most directly related to waves that do not require a medium to travel?",
+        "answerChoices": ["Transverse waves", "Longitudinal waves", "Electromagnetic waves", "Mechanical waves"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on the causes of the American Civil War.\n\nCauses of the American Civil War\n• Economic and social differences between the North and the South, particularly regarding the role of slavery\n• States’ rights versus federal authority, with Southern states advocating for more autonomy\n• The election of Abraham Lincoln in 1860, which led Southern states to secede from the Union\n• The Dred Scott decision of 1857, which ruled that African Americans could not be considered citizens\n• The abolitionist movement, which sought to end slavery in the United States\n• The attack on Fort Sumter in 1861, which marked the beginning of armed conflict",
+        "prompt": "Which cause on the list is most directly related to the legal status of African Americans before the war?",
+        "answerChoices": ["Economic and social differences", "States’ rights versus federal authority", "The Dred Scott decision", "The abolitionist movement"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The list below is from a document on the structure of an atom.\n\nParts of an Atom\n• Protons: Positively charged particles found in the nucleus of an atom\n• Neutrons: Neutral particles found in the nucleus of an atom that add mass but do not carry a charge\n• Electrons: Negatively charged particles that orbit the nucleus in various energy levels\n• Nucleus: The central part of an atom that contains protons and neutrons and accounts for most of the atom’s mass\n• Electron cloud: The region around the nucleus where electrons are likely to be found\n• Atomic number: The number of protons in the nucleus, which determines the element’s identity",
+        "prompt": "Which part on the list is most directly related to determining the identity of an element?",
+        "answerChoices": ["Protons", "Neutrons", "Electrons", "Atomic number"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The list below is from a document on the digestive system.\n\nOrgans of the Digestive System\n• Mouth: Where digestion begins with chewing and the mixing of food with saliva\n• Esophagus: A muscular tube that transports food from the mouth to the stomach\n• Stomach: A sac-like organ where food is mixed with digestive juices and broken down into a semi-liquid form\n• Small intestine: A long, coiled tube where most digestion and nutrient absorption occurs\n• Large intestine: The final part of the digestive tract, where water is absorbed and waste is prepared for elimination\n• Liver: An organ that produces bile, which helps digest fats and processes nutrients absorbed from the small intestine",
+        "prompt": "Which organ on the list is most directly related to the absorption of nutrients?",
+        "answerChoices": ["Stomach", "Small intestine", "Large intestine", "Liver"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The list below is from a document on types of ecosystems.\n\nTypes of Ecosystems\n• Desert: An ecosystem characterized by low rainfall and extreme temperatures, with specialized plants and animals adapted to dry conditions\n• Forest: An ecosystem dominated by trees and other vegetation, home to a wide variety of wildlife\n• Grassland: An ecosystem where grasses are the dominant vegetation, often supporting large herbivores\n• Tundra: A cold, treeless ecosystem found in polar regions, with a layer of permanently frozen ground called permafrost\n• Wetland: An ecosystem where the land is saturated with water, either permanently or seasonally, supporting diverse plant and animal life\n• Coral reef: An underwater ecosystem characterized by reef-building corals, home to a vast array of marine species",
+        "prompt": "Which ecosystem on the list is most directly related to extremely low temperatures and permafrost?",
+        "answerChoices": ["Desert", "Forest", "Tundra", "Wetland"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on the functions of government.\n\nFunctions of Government\n• Maintaining law and order through the enforcement of laws and the administration of justice\n• Providing public goods and services, such as education, healthcare, and infrastructure\n• Protecting the country from external threats through national defense and diplomacy\n• Regulating economic activities to ensure stability and growth, including the management of currency and trade\n• Collecting taxes to fund government operations and public programs\n• Ensuring the protection of individual rights and freedoms",
+        "prompt": "Which function on the list is most directly related to the government’s role in ensuring national security?",
+        "answerChoices": ["Maintaining law and order", "Providing public goods and services", "Protecting the country from external threats", "Regulating economic activities"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on the water cycle.\n\nSteps in the Water Cycle\n• Evaporation: The process by which water changes from a liquid to a gas, usually due to heat from the sun\n• Condensation: The process by which water vapor cools and changes back into liquid droplets, forming clouds\n• Precipitation: The process by which water falls from the atmosphere to the Earth’s surface as rain, snow, sleet, or hail\n• Infiltration: The process by which water soaks into the ground and replenishes groundwater supplies\n• Runoff: The process by which water flows over the land and eventually returns to rivers, lakes, and oceans\n• Transpiration: The process by which water is absorbed by plants and released into the atmosphere as vapor",
+        "prompt": "Which step on the list is most directly related to the formation of precipitation?",
+        "answerChoices": ["Evaporation", "Condensation", "Infiltration", "Runoff"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The list below is from a document on human diseases.\n\nCommon Types of Infectious Diseases\n• Influenza: A viral infection that attacks the respiratory system, causing symptoms such as fever, cough, and body aches\n• Tuberculosis: A bacterial infection that primarily affects the lungs but can spread to other parts of the body\n• Malaria: A parasitic infection transmitted by mosquitoes, characterized by fever, chills, and flu-like symptoms\n• HIV/AIDS: A viral infection that weakens the immune system, making the body vulnerable to opportunistic infections\n• Hepatitis: A viral infection that causes inflammation of the liver, leading to symptoms such as jaundice and fatigue\n• Measles: A highly contagious viral infection that causes a red rash, fever, and respiratory symptoms",
+        "prompt": "Which disease on the list is most directly related to weakening the immune system?",
+        "answerChoices": ["Influenza", "Tuberculosis", "HIV/AIDS", "Hepatitis"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on climate change.\n\nImpacts of Climate Change\n• Rising sea levels due to the melting of polar ice caps and glaciers\n• Increased frequency and intensity of extreme weather events, such as hurricanes and heatwaves\n• Ocean acidification caused by the absorption of excess carbon dioxide by seawater\n• Disruption of ecosystems and loss of biodiversity as species struggle to adapt to changing conditions\n• Shifts in agricultural productivity due to changes in temperature and precipitation patterns\n• Health risks associated with heat-related illnesses and the spread of vector-borne diseases",
+        "prompt": "Which impact on the list is most directly related to changes in marine environments?",
+        "answerChoices": ["Rising sea levels", "Increased frequency of extreme weather events", "Ocean acidification", "Disruption of ecosystems"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on renewable energy technologies.\n\nAdvantages of Solar Power\n• Reduces reliance on fossil fuels and lowers greenhouse gas emissions\n• Provides a renewable source of energy that is abundant and sustainable\n• Lowers electricity bills by generating power from sunlight\n• Requires little maintenance once installed and has low operating costs\n• Can be installed in a variety of locations, from rooftops to large solar farms\n• Reduces the environmental impact of energy production by not emitting pollutants",
+        "prompt": "Which advantage on the list is most directly related to the environmental benefits of solar power?",
+        "answerChoices": ["Reduces reliance on fossil fuels", "Lowers electricity bills", "Requires little maintenance", "Can be installed in a variety of locations"],
+        "correctAnswerIndex": 0
+    }, 
+    {
+        "passage": "The list below is from a document on the components of blood.\n\nComponents of Blood\n• Red blood cells: Carry oxygen from the lungs to the rest of the body and return carbon dioxide to the lungs for exhalation\n• White blood cells: Help the body fight infections and other diseases by attacking bacteria, viruses, and other foreign invaders\n• Platelets: Aid in blood clotting by clumping together at the site of a wound to prevent excessive bleeding\n• Plasma: The liquid portion of blood that carries nutrients, hormones, and waste products throughout the body\n• Hemoglobin: A protein in red blood cells that binds to oxygen and allows it to be transported\n• Antibodies: Proteins produced by white blood cells that recognize and neutralize pathogens",
+        "prompt": "Which component on the list is most directly related to the body’s ability to fight infections?",
+        "answerChoices": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The list below is from a document on the types of chemical reactions.\n\nTypes of Chemical Reactions\n• Synthesis reaction: Two or more substances combine to form a new compound\n• Decomposition reaction: A compound breaks down into two or more simpler substances\n• Single displacement reaction: One element replaces another element in a compound\n• Double displacement reaction: Two compounds exchange ions to form two new compounds\n• Combustion reaction: A substance reacts with oxygen to produce energy, usually in the form of heat and light\n• Redox reaction: A chemical reaction in which the oxidation states of atoms are changed through the transfer of electrons",
+        "prompt": "Which type of reaction on the list is most directly related to the breaking down of a compound into simpler substances?",
+        "answerChoices": ["Synthesis reaction", "Decomposition reaction", "Single displacement reaction", "Combustion reaction"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The list below is from a document on the causes of air pollution.\n\nPrimary Causes of Air Pollution\n• Emissions from vehicles, including cars, trucks, and buses, which release pollutants such as carbon monoxide and nitrogen oxides\n• Industrial activities, such as manufacturing and power generation, which produce pollutants like sulfur dioxide and particulate matter\n• Agricultural practices, including the use of fertilizers and pesticides, which release ammonia and other chemicals into the atmosphere\n• Deforestation, which reduces the number of trees that can absorb carbon dioxide and releases stored carbon into the atmosphere\n• Burning of fossil fuels, such as coal, oil, and natural gas, which releases large amounts of carbon dioxide and other pollutants\n• Waste disposal, particularly the burning of waste materials, which releases toxic substances into the air",
+        "prompt": "Which cause on the list is most directly related to emissions from industrial activities?",
+        "answerChoices": ["Emissions from vehicles", "Agricultural practices", "Deforestation", "Burning of fossil fuels"],
+        "correctAnswerIndex": 4
+    },
+    {
+        "passage": "The list below is from a document on types of renewable energy.\n\nTypes of Renewable Energy\n• Solar: Energy harnessed from sunlight using photovoltaic cells or solar thermal collectors\n• Wind: Energy generated by wind turbines that convert the kinetic energy of wind into electricity\n• Hydroelectric: Energy produced by the movement of water, typically using dams to generate electricity\n• Geothermal: Energy derived from the heat stored beneath the Earth's surface\n• Biomass: Energy produced from organic materials, such as plant matter and animal waste, that can be burned or converted into biofuels\n• Tidal: Energy generated by the rise and fall of ocean tides, using tidal turbines or barrages",
+        "prompt": "Which type of renewable energy on the list is most directly related to the natural heat stored beneath the Earth’s surface?",
+        "answerChoices": ["Solar", "Wind", "Hydroelectric", "Geothermal"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The list below is from a document on the major world religions.\n\nMajor World Religions\n• Christianity: A monotheistic religion based on the teachings of Jesus Christ, with the Bible as its sacred text\n• Islam: A monotheistic religion based on the teachings of the Prophet Muhammad, with the Quran as its holy book\n• Hinduism: A major religion originating in the Indian subcontinent, characterized by a belief in reincarnation and a variety of gods and goddesses\n• Buddhism: A religion founded by Siddhartha Gautama (the Buddha) in ancient India, emphasizing the Four Noble Truths and the Eightfold Path to enlightenment\n• Judaism: One of the oldest monotheistic religions, based on the teachings of the Torah and the Hebrew Bible\n• Sikhism: A monotheistic religion founded in the 15th century in the Punjab region of South Asia, emphasizing the teachings of Guru Nanak and the Guru Granth Sahib",
+        "prompt": "Which religion on the list is most directly associated with the belief in reincarnation and multiple deities?",
+        "answerChoices": ["Christianity", "Islam", "Hinduism", "Buddhism"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on methods of transportation.\n\nMethods of Transportation\n• Automobiles: Motor vehicles designed for passenger transportation, typically powered by internal combustion engines or electric motors\n• Trains: Vehicles that run on tracks, used for transporting passengers or freight over long distances\n• Airplanes: Aircraft designed for air travel, capable of flying passengers and cargo across countries and continents\n• Ships: Large watercraft used for transporting goods and passengers across seas and oceans\n• Bicycles: Human-powered vehicles with two wheels, often used for short-distance travel and exercise\n• Buses: Large motor vehicles designed to carry multiple passengers, typically used for public transportation within cities",
+        "prompt": "Which method on the list is most directly associated with air travel?",
+        "answerChoices": ["Automobiles", "Trains", "Airplanes", "Ships"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "The list below is from a document on the types of ecosystems.\n\nTypes of Ecosystems\n• Desert: An ecosystem characterized by low rainfall and extreme temperatures, with specialized plants and animals adapted to dry conditions\n• Forest: An ecosystem dominated by trees and other vegetation, home to a wide variety of wildlife\n• Grassland: An ecosystem where grasses are the dominant vegetation, often supporting large herbivores\n• Tundra: A cold, treeless ecosystem found in polar regions, with a layer of permanently frozen ground called permafrost\n• Wetland: An ecosystem where the land is saturated with water, either permanently or seasonally, supporting diverse plant and animal life\n• Coral reef: An underwater ecosystem characterized by reef-building corals, home to a vast array of marine species",
+        "prompt": "Which ecosystem on the list is most directly related to underwater marine life?",
+        "answerChoices": ["Desert", "Forest", "Wetland", "Coral reef"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The list below is from a document on types of computer storage.\n\nTypes of Computer Storage\n• Hard disk drive (HDD): A storage device that uses magnetic disks to store data, typically offering large storage capacity at a lower cost\n• Solid-state drive (SSD): A storage device that uses flash memory to store data, offering faster read/write speeds and better durability than HDDs\n• Optical disc: A storage medium, such as CDs, DVDs, or Blu-ray discs, that uses laser technology to read and write data\n• USB flash drive: A portable storage device that uses flash memory and connects to a computer via a USB port\n• Cloud storage: A service that stores data on remote servers accessed over the internet, allowing for data backup and remote access\n• RAM (random access memory): A type of volatile memory that temporarily stores data that the computer is actively using or processing",
+        "prompt": "Which type of storage on the list is most directly related to volatile memory that temporarily stores active data?",
+        "answerChoices": ["Hard disk drive (HDD)", "Solid-state drive (SSD)", "USB flash drive", "RAM (random access memory)"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The list below is from a document on the branches of government.\n\nBranches of Government\n• Legislative: The branch of government that makes laws, typically consisting of elected representatives in a parliament or congress\n• Executive: The branch of government responsible for enforcing laws, led by the president, prime minister, or monarch\n• Judicial: The branch of government that interprets laws and administers justice through courts and judges\n• Bureaucratic: The administrative system that manages the day-to-day operations of government, staffed by civil servants\n• Military: The branch of government responsible for national defense and the armed forces\n• Electoral: The system responsible for organizing and overseeing elections, ensuring they are conducted fairly and democratically",
+        "prompt": "Which branch on the list is most directly related to the enforcement of laws?",
+        "answerChoices": ["Legislative", "Executive", "Judicial", "Bureaucratic"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The list below is from a document on the principles of design.\n\nPrinciples of Design\n• Balance: The distribution of visual weight in a design, which can be symmetrical or asymmetrical\n• Contrast: The difference between elements in a design, such as color, shape, or texture\n• Emphasis: The focal point of a design that draws attention\n• Unity: The sense of harmony and cohesiveness in a design\n• Rhythm: The repetition of elements in a design to create movement or pattern\n• Proportion: The relationship between the sizes of different elements in a design",
+        "prompt": "Which principle on the list is most directly related to the difference between elements in a design?",
+        "answerChoices": ["Balance", "Contrast", "Unity", "Proportion"],
+        "correctAnswerIndex": 1
+    }    
 ]
