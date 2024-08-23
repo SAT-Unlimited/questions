@@ -1138,5 +1138,150 @@
         "prompt": "Which principle on the list is most directly related to the difference between elements in a design?",
         "answerChoices": ["Balance", "Contrast", "Unity", "Proportion"],
         "correctAnswerIndex": 1
-    }    
+    }, 
+    {
+        "passage": "The following text is from the 1913 story “The King’s Coin” by Emily Pauline Johnson, a Kanienkahagen (Mohawk) writer also known as Tekahionwake. Fox-Foot, a young Ojibwe man, is guiding a group of fur traders who are traveling by canoe and suspects that they are being followed. At supper time, Fox-Foot would allow no fire to be built, no landing to be made, no trace of their passing to be left. They ate canned meat and marmalade, drank again of the stream and pushed on, until just at dusk they reached the edge of a long, still lake, with shores of granite and dense fir forest.",
+        "prompt": "As used in the text, what does the word 'trace' most nearly mean?",
+        "answerChoices": ["Evidence", "Blemish", "Amount", "Sketch"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Many ancient sculptures of people’s heads are missing their noses. This is because the nose is the most _______ part of a sculpture of a person’s head. It is delicate and sticks out from the rest of the sculpture, making it especially easy to break.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["recognizable", "fragile", "common", "sophisticated"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "K.D. Leka and colleagues found that the Sun’s corona provides an advance indication of solar flares—intense eruptions of electromagnetic radiation that emanate from active regions in the Sun’s photosphere and can interfere with telecommunications on Earth. Preceding a flare, the corona temporarily exhibits increased brightness above the region where the flare is _______ .",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["antecedent", "impending", "innocuous", "perpetual"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "To demonstrate that the integrity of underground metal pipes can be assessed without unearthing the pipes, engineer Aroba Saleem and colleagues _______ the tendency of some metals’ internal magnetic fields to alter under stress: the team showed that such alterations can be measured from a distance and can reveal concentrations of stress in the pipes.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["hypothesized", "discounted", "redefined", "exploited"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "Despite the generalizations about human behavior they have produced, many studies of behavioral psychology have used highly unrepresentative subject pools: students at the colleges and universities where the researchers are employed. To _______ this situation, it is necessary to actively recruit subjects from diverse backgrounds and locations.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["sanction", "ameliorate", "rationalize", "postulate"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "The following text is adapted from Jean Webster’s 1912 novel Daddy-Long-Legs. The narrator is a young college student writing letters detailing her weekly experiences. '[The college is] organizing the Freshman basketball team and there’s just a chance that I shall make it. I’m little of course, but terribly quick and wiry and tough. While the others are hopping about in the air, I can dodge under their feet and grab the ball.'",
+        "prompt": "Which choice best states the main purpose of the text?",
+        "answerChoices": ["To compare basketball with other sports", "To provide details of how to play basketball", "To state how players will be chosen for the basketball team", "To explain why the narrator thinks she might make the basketball team"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "In the late 1800s, Spanish-language newspapers flourished in cities across Texas. San Antonio alone produced eleven newspapers in Spanish between 1890 and 1900. But El Paso surpassed all other cities in the state. This city produced twenty-two newspapers in Spanish during that period. El Paso is located on the border with Mexico and has always had a large population of Spanish speakers. Thus, it is unsurprising that this city became such a rich site for Spanish-language journalism.",
+        "prompt": "Which choice best states the main purpose of the text?",
+        "answerChoices": ["To compare Spanish-language newspapers published in Texas today with ones published there during the late 1800s", "To explain that Spanish-language newspapers thrived in Texas and especially in El Paso during the late 1800s", "To argue that Spanish-language newspapers published in El Paso influenced the ones published in San Antonio during the late 1800s", "To explain why Spanish-language newspapers published in Texas were so popular in Mexico during the late 1800s"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Chile’s Atacama Desert is one of the driest places on Earth. Mary Beth Wilhelm and other astrobiologists search for life, or its remains, in this harsh place because the desert closely mirrors the extreme environment on Mars. The algae and bacteria found in Atacama’s driest regions may offer clues about Martian life. By studying how these and other microorganisms survive such extreme conditions on Earth, Wilhelm’s team hopes to determine whether similar life might have existed on Mars and to develop the best tools to look for evidence of it.",
+        "prompt": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+        "answerChoices": ["To contrast the conditions in the Atacama Desert with those on Mars", "To explain why many life-forms cannot survive in the Atacama Desert", "To indicate why astrobiologists choose to conduct research in the Atacama Desert", "To describe certain limitations to conducting scientific study in the Atacama Desert"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "More than 60% of journeys in Mexico City occur via public transit, but simply reproducing a feature of the city’s transit system—e.g., its low fares—is unlikely to induce a significant increase in another city’s transit ridership. As Erick Guerra et al. have shown, transportation mode choice in urban areas of Mexico is the product of a complex mix of factors, including population density, the spatial distribution of jobs, and demographic characteristics of individuals. System features do affect ridership, of course, but there is an irreducibly contextual dimension of transportation mode choice.",
+        "prompt": "Which choice best describes the function of the underlined portion in the text as a whole?",
+        "answerChoices": ["It presents an objection to the argument of Guerra et al. about transportation mode choice in urban areas of Mexico.", "It explains why it is challenging to influence transit ridership solely by altering characteristics of a transit system.", "It illustrates the claim that a characteristic associated with high transit ridership in Mexico City is not associated with high transit ridership elsewhere.", "It substantiates the assertion that population density, the spatial distribution of jobs, and demographic characteristics are important factors in transportation mode choice."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "Changes to vegetation cover and other human activities influence carbon and nitrogen levels in soil, though how deep these effects extend is unclear. Hypothesizing that differences in land use lead to differences in carbon and nitrogen levels that are not restricted to the topsoil layer (0–30 cm deep), Chukwuebuka Okolo and colleagues sampled soils across multiple land-use types (e.g., grazing land, cropland, forest) within each of several Ethiopian locations. They found, though, that across land-use types, carbon and nitrogen decreased to comparably low levels beyond depths of 30 cm.",
+        "prompt": "Which choice best describes the overall structure of the text?",
+        "answerChoices": ["It describes a phenomenon that scientists do not fully understand, explains a research team’s hypothesis about that phenomenon, and then describes a finding that led the team to refine the hypothesis.", "It introduces an unresolved scientific question, presents a research team’s hypothesis pertaining to that question, and then describes an observation made by the team that conflicts with that hypothesis.", "It discusses a process that scientists are somewhat unclear about, introduces competing hypotheses about that process, and then explains how a research team concluded that one of those hypotheses is likely correct.", "It explains a hypothesis that has been the subject of scientific debate, discusses how a research team tested that hypothesis, and then presents data the team collected that validate the hypothesis."],
+        "correctAnswerIndex": 1
+    }, 
+    {
+        "passage": "A team of paleontologists has found a rich fossil deposit near Gulgong, Australia. The fossils are so well preserved that the team has been able to _______ detailed information about the life forms that left them behind, such as color patterns and how they interacted with other species.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["occupy", "hoard", "reserve", "obtain"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "According to a team of neuroeconomists from the University of Zurich, ease of decision making may be linked to communication between two brain regions, the prefrontal cortex and the parietal cortex. Individuals tend to be more decisive if the information flow between the regions is intensified, whereas they make choices more slowly when information flow is _______.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["reduced", "evaluated", "determined", "acquired"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "The War of 1812 has _______ place in historical memory in Britain, partly because it is overshadowed by the much larger concurrent conflict against Napoleonic France and partly because it essentially maintained the geopolitical status quo for Britain: the country neither gained nor lost significant territory or position as a result of its participation in the war.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["a tenuous", "an enduring", "a contentious", "a conspicuous"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Claims about the original significance of Minoan bull-leaping rituals—depicted in paintings and sculptures from the second millennium BCE—are difficult to successfully _______. We know so little about the people archaeologists call the Minoans that assertions about what bull-leaping meant to them will almost inevitably rely on significant speculation and guesswork.",
+        "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+        "answerChoices": ["imagine", "summarize", "defend", "adjust"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "passage": "In 1986, conceptual artist Sophie Calle asked twenty-three people, all of whom had been born without sight, to describe 'their image of beauty' in rich detail. Calle paired excerpts of these conversations with photographs—both of interviewees and the items they _______ to powerful effect in her exhibition The Blind.",
+        "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "answerChoices": ["described, from hair to grass to sculptures", "described, from hair to grass to sculptures—", "described—from hair to grass to sculptures,", "described: from hair to grass to sculptures"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "Celebrated Tewa potter Maria Martinez (1887–1980) made her signature all-black ceramic vessels using a heating technique called reduction firing. This technique involves smothering the flame surrounding the clay vessel. _______ the vessel takes on a shiny, black hue.",
+        "prompt": "Which choice completes the text with the most logical transition?",
+        "answerChoices": ["On the contrary,", "For example,", "Previously,", "As a result,"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "Historians agree that the jazz pianist Jelly Roll Morton was exaggerating when he claimed to have invented jazz music. No one can deny, _______ that Morton’s innovative compositions and remarkable improvisational skills helped shape jazz as a genre during its early years.",
+        "prompt": "Which choice completes the text with the most logical transition?",
+        "answerChoices": ["therefore,", "in the second place,", "in other words,", "though,"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "According to Duverger’s law, countries with single-ballot majoritarian elections for single-member districts tend to polarize into two-party systems, wherein dueling political parties consistently dominate the political system. _______ countries with proportional-representation electoral systems tend to support multi-partyism, under which power gets distributed among many political parties.",
+        "prompt": "Which choice completes the text with the most logical transition?",
+        "answerChoices": ["Subsequently,", "Conversely,", "For instance,", "In other words,"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "A turtle shell appears external to the animal, protecting its body like armor. _______ the shell is often incorrectly assumed to be an exoskeleton, a rigid outer casing like that of a crustacean or an insect, when in fact it is an endoskeleton, a part of the turtle’s internal bone structure, more akin to a spine or a pair of ribs.",
+        "prompt": "Which choice completes the text with the most logical transition?",
+        "answerChoices": ["That being said,", "However,", "For instance,", "Hence,"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "passage": "In 1949, Frank Zamboni developed an ice rink resurfacing machine. As Zamboni’s machine moved along the rink’s surface, it first scraped off the top layer of ice. _______ it sprayed water into the deep grooves left behind by customers’ skates. Lastly, it smoothed over the newly formed ice.",
+        "prompt": "Which choice completes the text with the most logical transition?",
+        "answerChoices": ["For example,", "Next,", "Similarly,", "In contrast,"],
+        "correctAnswerIndex": 1
+    }, 
+    {
+        "passage": "Recently, scientists looked at data collected by NASA’s InSight lander to learn more about seismic activity on Mars, known as marsquakes. The data show that the marsquakes all started from the same location on the planet. This discovery was surprising to scientists, as they expected that the marsquakes would originate from all over the planet because of the cooling of the planet’s surface. Now, scientists believe that there could be areas of active magma flows deep beneath the planet’s surface that trigger the marsquakes.",
+        "prompt": "According to the text, what was surprising to scientists studying the seismic activity data from NASA’s InSight lander?",
+        "answerChoices": ["The surface temperature of Mars has been rising.", "There were different types of seismic waves causing marsquakes.", "NASA’s InSight lander collected less data than scientists had expected.", "All the marsquakes started from the same location on the planet."],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "The ancient writing system used in the Maya kingdoms of southern Mexico and Central America had a symbol for the number zero. The earliest known example of the symbol dates to more than 2,000 years ago. At that time, almost none of the writing systems elsewhere in the world possessed a zero symbol. And the use of zero in Mexico and Central America may be even more ancient. Some historians suggest that Maya mathematicians inherited it from the Olmec civilization, which flourished in the region 2,400–3,600 years ago.",
+        "prompt": "According to the text, what do some historians suggest about Maya civilization?",
+        "answerChoices": ["Maya civilization acquired the use of zero from the Olmec civilization.", "Maya civilization respected its historians more than it respected its mathematicians.", "Maya civilization was highly secretive about its intellectual achievements.", "Maya civilization developed the use of zero independently of other civilizations."],
+        "correctAnswerIndex": 0
+    },
+    {
+        "passage": "Since its completion in 2014, Bosco Verticale (Vertical Forest)—a pair of residential towers in Milan, Italy, covered by vegetation—has become a striking symbol of environmental sustainability in architecture. Stefano Boeri intended his design, which features balconies that are home to hundreds of trees, to serve as a model for promoting urban biodiversity. However, the concept has faced skepticism: critics note that although the trees used in Bosco Verticale were specifically cultivated for the project, it’s too early to tell if they can thrive in this unusual setting.",
+        "prompt": "According to the text, why are some critics skeptical of the concept behind Bosco Verticale?",
+        "answerChoices": ["Some essential aspects of Bosco Verticale’s design are difficult to adapt to locations other than Milan.", "The plant life on Bosco Verticale ended up being less varied than Boeri had envisioned it would be.", "The construction of Bosco Verticale was no less environmentally damaging than the construction of more conventional buildings is.", "It is unclear whether Bosco Verticale can support the plant life included in its design."],
+        "correctAnswerIndex": 3
+    },
+    {
+        "passage": "“Poetry” is a 1919 poem by Marianne Moore. The poem highlights an ambivalence toward poetry as the speaker acknowledges its merits while also expressing a sense of displeasure, writing _______",
+        "prompt": "Which quotation from 'Poetry' most effectively illustrates the claim?",
+        "answerChoices": ["'nor is it valid / to discriminate against ‘business documents and / school-books’; all these phenomena are important.'", "'One must make a distinction / however: when dragged into prominence by half poets, the result is not / poetry'", "'when [poems] become so derivative as to become unintelligible, the / same thing may be said for all of us—that we / do not admire what / we cannot understand.'", "'Reading [poetry], however, with a perfect contempt for it, one discovers that there is in / it after all, a place for the genuine.'"],
+        "correctAnswerIndex": 3
+    },
+    
 ]
