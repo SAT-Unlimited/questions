@@ -1282,6 +1282,6 @@
         "prompt": "Which quotation from 'Poetry' most effectively illustrates the claim?",
         "answerChoices": ["'nor is it valid / to discriminate against ‘business documents and / school-books’; all these phenomena are important.'", "'One must make a distinction / however: when dragged into prominence by half poets, the result is not / poetry'", "'when [poems] become so derivative as to become unintelligible, the / same thing may be said for all of us—that we / do not admire what / we cannot understand.'", "'Reading [poetry], however, with a perfect contempt for it, one discovers that there is in / it after all, a place for the genuine.'"],
         "correctAnswerIndex": 3
-    },
+    }
     
 ]
